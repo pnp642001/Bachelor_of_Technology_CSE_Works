@@ -1,0 +1,11 @@
+
+checknumber(X,Y):-
+    A is  ((X+Y)/2),
+
+    B is sqrt(X*Y),
+
+    C is max(X,Y),
+
+    write(A),nl,
+    write(B),nl,
+    write(C),nl.
