@@ -1,0 +1,889 @@
+State_Name,District_Name,Crop_Year,Season,Crop
+Gujarat,AHMADABAD,1997,Summer     ,Bajra
+Gujarat,AHMADABAD,1997,Summer     ,Groundnut
+Gujarat,AHMADABAD,1998,Summer     ,Bajra
+Gujarat,AHMADABAD,1998,Summer     ,Groundnut
+Gujarat,AHMADABAD,1999,Summer     ,Bajra
+Gujarat,AHMADABAD,1999,Summer     ,Groundnut
+Gujarat,AHMADABAD,2000,Summer     ,Bajra
+Gujarat,AHMADABAD,2000,Summer     ,Groundnut
+Gujarat,AHMADABAD,2001,Summer     ,Bajra
+Gujarat,AHMADABAD,2001,Summer     ,Groundnut
+Gujarat,AHMADABAD,2002,Summer     ,Bajra
+Gujarat,AHMADABAD,2002,Summer     ,Groundnut
+Gujarat,AHMADABAD,2003,Summer     ,Bajra
+Gujarat,AHMADABAD,2004,Summer     ,Bajra
+Gujarat,AHMADABAD,2004,Summer     ,Rice
+Gujarat,AHMADABAD,2005,Summer     ,Bajra
+Gujarat,AHMADABAD,2005,Summer     ,Rice
+Gujarat,AHMADABAD,2006,Summer     ,Bajra
+Gujarat,AHMADABAD,2006,Summer     ,Groundnut
+Gujarat,AHMADABAD,2006,Summer     ,Rice
+Gujarat,AHMADABAD,2007,Summer     ,Bajra
+Gujarat,AHMADABAD,2007,Summer     ,Groundnut
+Gujarat,AHMADABAD,2007,Summer     ,Rice
+Gujarat,AHMADABAD,2008,Summer     ,Bajra
+Gujarat,AHMADABAD,2008,Summer     ,Groundnut
+Gujarat,AHMADABAD,2008,Summer     ,Rice
+Gujarat,AHMADABAD,2009,Summer     ,Bajra
+Gujarat,AHMADABAD,2009,Summer     ,Rice
+Gujarat,AHMADABAD,2010,Summer     ,Bajra
+Gujarat,AHMADABAD,2010,Summer     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2010,Summer     ,Rice
+Gujarat,AHMADABAD,2011,Summer     ,Bajra
+Gujarat,AHMADABAD,2011,Summer     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2011,Summer     ,Rice
+Gujarat,AHMADABAD,2012,Summer     ,Bajra
+Gujarat,AHMADABAD,2012,Summer     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2012,Summer     ,Rice
+Gujarat,AMRELI,1997,Summer     ,Bajra
+Gujarat,AMRELI,1997,Summer     ,Groundnut
+Gujarat,AMRELI,1998,Summer     ,Bajra
+Gujarat,AMRELI,1998,Summer     ,Groundnut
+Gujarat,AMRELI,1999,Summer     ,Bajra
+Gujarat,AMRELI,1999,Summer     ,Groundnut
+Gujarat,AMRELI,2000,Summer     ,Bajra
+Gujarat,AMRELI,2000,Summer     ,Groundnut
+Gujarat,AMRELI,2001,Summer     ,Bajra
+Gujarat,AMRELI,2001,Summer     ,Groundnut
+Gujarat,AMRELI,2002,Summer     ,Bajra
+Gujarat,AMRELI,2002,Summer     ,Groundnut
+Gujarat,AMRELI,2003,Summer     ,Bajra
+Gujarat,AMRELI,2003,Summer     ,Groundnut
+Gujarat,AMRELI,2004,Summer     ,Bajra
+Gujarat,AMRELI,2004,Summer     ,Groundnut
+Gujarat,AMRELI,2005,Summer     ,Bajra
+Gujarat,AMRELI,2005,Summer     ,Groundnut
+Gujarat,AMRELI,2006,Summer     ,Bajra
+Gujarat,AMRELI,2006,Summer     ,Groundnut
+Gujarat,AMRELI,2007,Summer     ,Bajra
+Gujarat,AMRELI,2007,Summer     ,Groundnut
+Gujarat,AMRELI,2008,Summer     ,Bajra
+Gujarat,AMRELI,2008,Summer     ,Groundnut
+Gujarat,AMRELI,2009,Summer     ,Bajra
+Gujarat,AMRELI,2009,Summer     ,Groundnut
+Gujarat,AMRELI,2010,Summer     ,Bajra
+Gujarat,AMRELI,2010,Summer     ,Groundnut
+Gujarat,AMRELI,2010,Summer     ,Moong(Green Gram)
+Gujarat,AMRELI,2010,Summer     ,Sesamum
+Gujarat,AMRELI,2011,Summer     ,Bajra
+Gujarat,AMRELI,2011,Summer     ,Groundnut
+Gujarat,AMRELI,2011,Summer     ,Moong(Green Gram)
+Gujarat,AMRELI,2011,Summer     ,Sesamum
+Gujarat,AMRELI,2012,Summer     ,Bajra
+Gujarat,AMRELI,2012,Summer     ,Groundnut
+Gujarat,AMRELI,2012,Summer     ,Moong(Green Gram)
+Gujarat,AMRELI,2012,Summer     ,Sesamum
+Gujarat,ANAND,2003,Summer     ,Bajra
+Gujarat,ANAND,2003,Summer     ,Groundnut
+Gujarat,ANAND,2003,Summer     ,Rice
+Gujarat,ANAND,2004,Summer     ,Bajra
+Gujarat,ANAND,2004,Summer     ,Groundnut
+Gujarat,ANAND,2004,Summer     ,Rice
+Gujarat,ANAND,2005,Summer     ,Bajra
+Gujarat,ANAND,2005,Summer     ,Groundnut
+Gujarat,ANAND,2005,Summer     ,Rice
+Gujarat,ANAND,2006,Summer     ,Bajra
+Gujarat,ANAND,2006,Summer     ,Groundnut
+Gujarat,ANAND,2006,Summer     ,Rice
+Gujarat,ANAND,2007,Summer     ,Bajra
+Gujarat,ANAND,2007,Summer     ,Groundnut
+Gujarat,ANAND,2007,Summer     ,Rice
+Gujarat,ANAND,2008,Summer     ,Bajra
+Gujarat,ANAND,2008,Summer     ,Groundnut
+Gujarat,ANAND,2008,Summer     ,Rice
+Gujarat,ANAND,2009,Summer     ,Bajra
+Gujarat,ANAND,2009,Summer     ,Groundnut
+Gujarat,ANAND,2009,Summer     ,Rice
+Gujarat,ANAND,2010,Summer     ,Bajra
+Gujarat,ANAND,2010,Summer     ,Groundnut
+Gujarat,ANAND,2010,Summer     ,Moong(Green Gram)
+Gujarat,ANAND,2010,Summer     ,Rice
+Gujarat,ANAND,2011,Summer     ,Bajra
+Gujarat,ANAND,2011,Summer     ,Groundnut
+Gujarat,ANAND,2011,Summer     ,Maize
+Gujarat,ANAND,2011,Summer     ,Moong(Green Gram)
+Gujarat,ANAND,2011,Summer     ,Rice
+Gujarat,ANAND,2011,Summer     ,Urad
+Gujarat,ANAND,2012,Summer     ,Bajra
+Gujarat,ANAND,2012,Summer     ,Groundnut
+Gujarat,ANAND,2012,Summer     ,Maize
+Gujarat,ANAND,2012,Summer     ,Moong(Green Gram)
+Gujarat,ANAND,2012,Summer     ,Rice
+Gujarat,BANAS KANTHA,1997,Summer     ,Bajra
+Gujarat,BANAS KANTHA,1997,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,1998,Summer     ,Bajra
+Gujarat,BANAS KANTHA,1998,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,1999,Summer     ,Bajra
+Gujarat,BANAS KANTHA,1999,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2000,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2000,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2001,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2001,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2002,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2002,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2003,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2003,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2004,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2004,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2005,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2005,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2006,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2006,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2007,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2007,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2008,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2008,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2009,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2009,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2010,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2010,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2010,Summer     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2011,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2011,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2011,Summer     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2012,Summer     ,Bajra
+Gujarat,BANAS KANTHA,2012,Summer     ,Groundnut
+Gujarat,BANAS KANTHA,2012,Summer     ,Moong(Green Gram)
+Gujarat,BHARUCH,1997,Summer     ,Bajra
+Gujarat,BHARUCH,1997,Summer     ,Groundnut
+Gujarat,BHARUCH,1998,Summer     ,Bajra
+Gujarat,BHARUCH,1998,Summer     ,Groundnut
+Gujarat,BHARUCH,1999,Summer     ,Bajra
+Gujarat,BHARUCH,1999,Summer     ,Groundnut
+Gujarat,BHARUCH,2000,Summer     ,Bajra
+Gujarat,BHARUCH,2000,Summer     ,Groundnut
+Gujarat,BHARUCH,2001,Summer     ,Bajra
+Gujarat,BHARUCH,2001,Summer     ,Groundnut
+Gujarat,BHARUCH,2001,Summer     ,Rice
+Gujarat,BHARUCH,2002,Summer     ,Bajra
+Gujarat,BHARUCH,2002,Summer     ,Groundnut
+Gujarat,BHARUCH,2002,Summer     ,Rice
+Gujarat,BHARUCH,2003,Summer     ,Bajra
+Gujarat,BHARUCH,2003,Summer     ,Groundnut
+Gujarat,BHARUCH,2003,Summer     ,Rice
+Gujarat,BHARUCH,2004,Summer     ,Bajra
+Gujarat,BHARUCH,2004,Summer     ,Groundnut
+Gujarat,BHARUCH,2004,Summer     ,Rice
+Gujarat,BHARUCH,2005,Summer     ,Bajra
+Gujarat,BHARUCH,2005,Summer     ,Groundnut
+Gujarat,BHARUCH,2005,Summer     ,Rice
+Gujarat,BHARUCH,2006,Summer     ,Bajra
+Gujarat,BHARUCH,2006,Summer     ,Groundnut
+Gujarat,BHARUCH,2006,Summer     ,Rice
+Gujarat,BHARUCH,2007,Summer     ,Bajra
+Gujarat,BHARUCH,2007,Summer     ,Groundnut
+Gujarat,BHARUCH,2007,Summer     ,Rice
+Gujarat,BHARUCH,2008,Summer     ,Bajra
+Gujarat,BHARUCH,2008,Summer     ,Groundnut
+Gujarat,BHARUCH,2008,Summer     ,Rice
+Gujarat,BHARUCH,2009,Summer     ,Bajra
+Gujarat,BHARUCH,2009,Summer     ,Groundnut
+Gujarat,BHARUCH,2009,Summer     ,Rice
+Gujarat,BHARUCH,2010,Summer     ,Bajra
+Gujarat,BHARUCH,2010,Summer     ,Groundnut
+Gujarat,BHARUCH,2010,Summer     ,Maize
+Gujarat,BHARUCH,2010,Summer     ,Moong(Green Gram)
+Gujarat,BHARUCH,2010,Summer     ,Rice
+Gujarat,BHARUCH,2010,Summer     ,Sesamum
+Gujarat,BHARUCH,2011,Summer     ,Bajra
+Gujarat,BHARUCH,2011,Summer     ,Groundnut
+Gujarat,BHARUCH,2011,Summer     ,Maize
+Gujarat,BHARUCH,2011,Summer     ,Moong(Green Gram)
+Gujarat,BHARUCH,2011,Summer     ,Rice
+Gujarat,BHARUCH,2011,Summer     ,Sesamum
+Gujarat,BHARUCH,2012,Summer     ,Bajra
+Gujarat,BHARUCH,2012,Summer     ,Groundnut
+Gujarat,BHARUCH,2012,Summer     ,Maize
+Gujarat,BHARUCH,2012,Summer     ,Moong(Green Gram)
+Gujarat,BHARUCH,2012,Summer     ,Rice
+Gujarat,BHARUCH,2012,Summer     ,Sesamum
+Gujarat,BHAVNAGAR,1997,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,1998,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,1999,Summer     ,Bajra
+Gujarat,BHAVNAGAR,1999,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2000,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2001,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2002,Summer     ,Bajra
+Gujarat,BHAVNAGAR,2002,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2003,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2004,Summer     ,Bajra
+Gujarat,BHAVNAGAR,2004,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2005,Summer     ,Bajra
+Gujarat,BHAVNAGAR,2005,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2006,Summer     ,Bajra
+Gujarat,BHAVNAGAR,2006,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2007,Summer     ,Bajra
+Gujarat,BHAVNAGAR,2007,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2008,Summer     ,Bajra
+Gujarat,BHAVNAGAR,2008,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2009,Summer     ,Bajra
+Gujarat,BHAVNAGAR,2009,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2010,Summer     ,Bajra
+Gujarat,BHAVNAGAR,2010,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2010,Summer     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2010,Summer     ,Sesamum
+Gujarat,BHAVNAGAR,2011,Summer     ,Bajra
+Gujarat,BHAVNAGAR,2011,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2011,Summer     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2011,Summer     ,Onion
+Gujarat,BHAVNAGAR,2011,Summer     ,Sesamum
+Gujarat,BHAVNAGAR,2012,Summer     ,Bajra
+Gujarat,BHAVNAGAR,2012,Summer     ,Groundnut
+Gujarat,BHAVNAGAR,2012,Summer     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2012,Summer     ,Onion
+Gujarat,DANG,1997,Summer     ,Groundnut
+Gujarat,DANG,1998,Summer     ,Groundnut
+Gujarat,DANG,1999,Summer     ,Groundnut
+Gujarat,DANG,2000,Summer     ,Groundnut
+Gujarat,DANG,2001,Summer     ,Groundnut
+Gujarat,DANG,2002,Summer     ,Groundnut
+Gujarat,DANG,2004,Summer     ,Groundnut
+Gujarat,DANG,2005,Summer     ,Groundnut
+Gujarat,DANG,2006,Summer     ,Groundnut
+Gujarat,DANG,2007,Summer     ,Groundnut
+Gujarat,DANG,2008,Summer     ,Groundnut
+Gujarat,DANG,2009,Summer     ,Groundnut
+Gujarat,DANG,2010,Summer     ,Groundnut
+Gujarat,DANG,2010,Summer     ,Moong(Green Gram)
+Gujarat,DANG,2011,Summer     ,Groundnut
+Gujarat,DANG,2011,Summer     ,Moong(Green Gram)
+Gujarat,DANG,2012,Summer     ,Groundnut
+Gujarat,DANG,2012,Summer     ,Moong(Green Gram)
+Gujarat,DOHAD,2003,Summer     ,Groundnut
+Gujarat,DOHAD,2004,Summer     ,Bajra
+Gujarat,DOHAD,2004,Summer     ,Groundnut
+Gujarat,DOHAD,2005,Summer     ,Bajra
+Gujarat,DOHAD,2005,Summer     ,Groundnut
+Gujarat,DOHAD,2006,Summer     ,Groundnut
+Gujarat,DOHAD,2007,Summer     ,Groundnut
+Gujarat,DOHAD,2008,Summer     ,Groundnut
+Gujarat,DOHAD,2009,Summer     ,Groundnut
+Gujarat,DOHAD,2010,Summer     ,Groundnut
+Gujarat,DOHAD,2010,Summer     ,Moong(Green Gram)
+Gujarat,DOHAD,2011,Summer     ,Groundnut
+Gujarat,DOHAD,2011,Summer     ,Moong(Green Gram)
+Gujarat,DOHAD,2012,Summer     ,Groundnut
+Gujarat,DOHAD,2012,Summer     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,1997,Summer     ,Bajra
+Gujarat,GANDHINAGAR,1997,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,1998,Summer     ,Bajra
+Gujarat,GANDHINAGAR,1998,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,1999,Summer     ,Bajra
+Gujarat,GANDHINAGAR,1999,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2000,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2000,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2001,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2001,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2002,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2002,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2003,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2003,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2004,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2004,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2005,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2005,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2005,Summer     ,Rice
+Gujarat,GANDHINAGAR,2006,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2006,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2006,Summer     ,Rice
+Gujarat,GANDHINAGAR,2007,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2007,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2007,Summer     ,Rice
+Gujarat,GANDHINAGAR,2008,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2008,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2009,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2009,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2010,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2010,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2010,Summer     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2011,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2011,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2011,Summer     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2012,Summer     ,Bajra
+Gujarat,GANDHINAGAR,2012,Summer     ,Groundnut
+Gujarat,GANDHINAGAR,2012,Summer     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,1997,Summer     ,Bajra
+Gujarat,JAMNAGAR,1997,Summer     ,Groundnut
+Gujarat,JAMNAGAR,1998,Summer     ,Bajra
+Gujarat,JAMNAGAR,1998,Summer     ,Groundnut
+Gujarat,JAMNAGAR,1999,Summer     ,Bajra
+Gujarat,JAMNAGAR,1999,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2000,Summer     ,Bajra
+Gujarat,JAMNAGAR,2000,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2001,Summer     ,Bajra
+Gujarat,JAMNAGAR,2001,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2002,Summer     ,Bajra
+Gujarat,JAMNAGAR,2002,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2003,Summer     ,Bajra
+Gujarat,JAMNAGAR,2003,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2004,Summer     ,Bajra
+Gujarat,JAMNAGAR,2004,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2005,Summer     ,Bajra
+Gujarat,JAMNAGAR,2005,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2006,Summer     ,Bajra
+Gujarat,JAMNAGAR,2006,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2007,Summer     ,Bajra
+Gujarat,JAMNAGAR,2007,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2008,Summer     ,Bajra
+Gujarat,JAMNAGAR,2008,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2009,Summer     ,Bajra
+Gujarat,JAMNAGAR,2009,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2010,Summer     ,Bajra
+Gujarat,JAMNAGAR,2010,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2010,Summer     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2010,Summer     ,Sesamum
+Gujarat,JAMNAGAR,2010,Summer     ,Urad
+Gujarat,JAMNAGAR,2011,Summer     ,Bajra
+Gujarat,JAMNAGAR,2011,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2011,Summer     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2011,Summer     ,Onion
+Gujarat,JAMNAGAR,2011,Summer     ,Sesamum
+Gujarat,JAMNAGAR,2011,Summer     ,Urad
+Gujarat,JAMNAGAR,2012,Summer     ,Bajra
+Gujarat,JAMNAGAR,2012,Summer     ,Groundnut
+Gujarat,JAMNAGAR,2012,Summer     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2012,Summer     ,Sesamum
+Gujarat,JUNAGADH,1997,Summer     ,Bajra
+Gujarat,JUNAGADH,1997,Summer     ,Groundnut
+Gujarat,JUNAGADH,1998,Summer     ,Bajra
+Gujarat,JUNAGADH,1998,Summer     ,Groundnut
+Gujarat,JUNAGADH,1999,Summer     ,Bajra
+Gujarat,JUNAGADH,1999,Summer     ,Groundnut
+Gujarat,JUNAGADH,2000,Summer     ,Bajra
+Gujarat,JUNAGADH,2000,Summer     ,Groundnut
+Gujarat,JUNAGADH,2001,Summer     ,Bajra
+Gujarat,JUNAGADH,2001,Summer     ,Groundnut
+Gujarat,JUNAGADH,2002,Summer     ,Bajra
+Gujarat,JUNAGADH,2002,Summer     ,Groundnut
+Gujarat,JUNAGADH,2003,Summer     ,Bajra
+Gujarat,JUNAGADH,2003,Summer     ,Groundnut
+Gujarat,JUNAGADH,2004,Summer     ,Bajra
+Gujarat,JUNAGADH,2004,Summer     ,Groundnut
+Gujarat,JUNAGADH,2005,Summer     ,Bajra
+Gujarat,JUNAGADH,2005,Summer     ,Groundnut
+Gujarat,JUNAGADH,2006,Summer     ,Bajra
+Gujarat,JUNAGADH,2006,Summer     ,Groundnut
+Gujarat,JUNAGADH,2007,Summer     ,Bajra
+Gujarat,JUNAGADH,2007,Summer     ,Groundnut
+Gujarat,JUNAGADH,2008,Summer     ,Bajra
+Gujarat,JUNAGADH,2008,Summer     ,Groundnut
+Gujarat,JUNAGADH,2009,Summer     ,Bajra
+Gujarat,JUNAGADH,2009,Summer     ,Groundnut
+Gujarat,JUNAGADH,2010,Summer     ,Bajra
+Gujarat,JUNAGADH,2010,Summer     ,Groundnut
+Gujarat,JUNAGADH,2010,Summer     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2010,Summer     ,Sesamum
+Gujarat,JUNAGADH,2010,Summer     ,Urad
+Gujarat,JUNAGADH,2011,Summer     ,Bajra
+Gujarat,JUNAGADH,2011,Summer     ,Groundnut
+Gujarat,JUNAGADH,2011,Summer     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2011,Summer     ,Onion
+Gujarat,JUNAGADH,2011,Summer     ,Sesamum
+Gujarat,JUNAGADH,2011,Summer     ,Urad
+Gujarat,JUNAGADH,2012,Summer     ,Bajra
+Gujarat,JUNAGADH,2012,Summer     ,Groundnut
+Gujarat,JUNAGADH,2012,Summer     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2012,Summer     ,Onion
+Gujarat,JUNAGADH,2012,Summer     ,Sesamum
+Gujarat,JUNAGADH,2012,Summer     ,Urad
+Gujarat,KACHCHH,1997,Summer     ,Bajra
+Gujarat,KACHCHH,1997,Summer     ,Groundnut
+Gujarat,KACHCHH,1998,Summer     ,Bajra
+Gujarat,KACHCHH,1998,Summer     ,Groundnut
+Gujarat,KACHCHH,1999,Summer     ,Bajra
+Gujarat,KACHCHH,1999,Summer     ,Groundnut
+Gujarat,KACHCHH,2000,Summer     ,Bajra
+Gujarat,KACHCHH,2000,Summer     ,Groundnut
+Gujarat,KACHCHH,2001,Summer     ,Bajra
+Gujarat,KACHCHH,2001,Summer     ,Groundnut
+Gujarat,KACHCHH,2002,Summer     ,Bajra
+Gujarat,KACHCHH,2002,Summer     ,Groundnut
+Gujarat,KACHCHH,2003,Summer     ,Bajra
+Gujarat,KACHCHH,2003,Summer     ,Groundnut
+Gujarat,KACHCHH,2004,Summer     ,Bajra
+Gujarat,KACHCHH,2004,Summer     ,Groundnut
+Gujarat,KACHCHH,2005,Summer     ,Bajra
+Gujarat,KACHCHH,2005,Summer     ,Groundnut
+Gujarat,KACHCHH,2006,Summer     ,Bajra
+Gujarat,KACHCHH,2006,Summer     ,Groundnut
+Gujarat,KACHCHH,2007,Summer     ,Bajra
+Gujarat,KACHCHH,2007,Summer     ,Groundnut
+Gujarat,KACHCHH,2008,Summer     ,Bajra
+Gujarat,KACHCHH,2008,Summer     ,Groundnut
+Gujarat,KACHCHH,2009,Summer     ,Bajra
+Gujarat,KACHCHH,2009,Summer     ,Groundnut
+Gujarat,KACHCHH,2010,Summer     ,Bajra
+Gujarat,KACHCHH,2010,Summer     ,Groundnut
+Gujarat,KACHCHH,2010,Summer     ,Moong(Green Gram)
+Gujarat,KACHCHH,2010,Summer     ,Sesamum
+Gujarat,KACHCHH,2011,Summer     ,Bajra
+Gujarat,KACHCHH,2011,Summer     ,Groundnut
+Gujarat,KACHCHH,2011,Summer     ,Moong(Green Gram)
+Gujarat,KACHCHH,2011,Summer     ,Onion
+Gujarat,KACHCHH,2011,Summer     ,Sesamum
+Gujarat,KACHCHH,2012,Summer     ,Bajra
+Gujarat,KACHCHH,2012,Summer     ,Groundnut
+Gujarat,KACHCHH,2012,Summer     ,Moong(Green Gram)
+Gujarat,KACHCHH,2012,Summer     ,Onion
+Gujarat,KACHCHH,2012,Summer     ,Sesamum
+Gujarat,KHEDA,1997,Summer     ,Bajra
+Gujarat,KHEDA,1997,Summer     ,Groundnut
+Gujarat,KHEDA,1998,Summer     ,Bajra
+Gujarat,KHEDA,1998,Summer     ,Groundnut
+Gujarat,KHEDA,1999,Summer     ,Bajra
+Gujarat,KHEDA,1999,Summer     ,Groundnut
+Gujarat,KHEDA,2000,Summer     ,Bajra
+Gujarat,KHEDA,2000,Summer     ,Groundnut
+Gujarat,KHEDA,2000,Summer     ,Rice
+Gujarat,KHEDA,2001,Summer     ,Bajra
+Gujarat,KHEDA,2001,Summer     ,Groundnut
+Gujarat,KHEDA,2001,Summer     ,Rice
+Gujarat,KHEDA,2002,Summer     ,Bajra
+Gujarat,KHEDA,2002,Summer     ,Groundnut
+Gujarat,KHEDA,2002,Summer     ,Rice
+Gujarat,KHEDA,2003,Summer     ,Bajra
+Gujarat,KHEDA,2003,Summer     ,Groundnut
+Gujarat,KHEDA,2003,Summer     ,Rice
+Gujarat,KHEDA,2004,Summer     ,Bajra
+Gujarat,KHEDA,2004,Summer     ,Groundnut
+Gujarat,KHEDA,2004,Summer     ,Rice
+Gujarat,KHEDA,2005,Summer     ,Bajra
+Gujarat,KHEDA,2005,Summer     ,Groundnut
+Gujarat,KHEDA,2005,Summer     ,Rice
+Gujarat,KHEDA,2006,Summer     ,Bajra
+Gujarat,KHEDA,2006,Summer     ,Groundnut
+Gujarat,KHEDA,2006,Summer     ,Rice
+Gujarat,KHEDA,2007,Summer     ,Bajra
+Gujarat,KHEDA,2007,Summer     ,Groundnut
+Gujarat,KHEDA,2007,Summer     ,Rice
+Gujarat,KHEDA,2008,Summer     ,Bajra
+Gujarat,KHEDA,2008,Summer     ,Groundnut
+Gujarat,KHEDA,2008,Summer     ,Rice
+Gujarat,KHEDA,2009,Summer     ,Bajra
+Gujarat,KHEDA,2009,Summer     ,Groundnut
+Gujarat,KHEDA,2009,Summer     ,Rice
+Gujarat,KHEDA,2010,Summer     ,Bajra
+Gujarat,KHEDA,2010,Summer     ,Groundnut
+Gujarat,KHEDA,2010,Summer     ,Maize
+Gujarat,KHEDA,2010,Summer     ,Moong(Green Gram)
+Gujarat,KHEDA,2010,Summer     ,Rice
+Gujarat,KHEDA,2011,Summer     ,Bajra
+Gujarat,KHEDA,2011,Summer     ,Groundnut
+Gujarat,KHEDA,2011,Summer     ,Moong(Green Gram)
+Gujarat,KHEDA,2011,Summer     ,Rice
+Gujarat,KHEDA,2012,Summer     ,Bajra
+Gujarat,KHEDA,2012,Summer     ,Groundnut
+Gujarat,KHEDA,2012,Summer     ,Maize
+Gujarat,KHEDA,2012,Summer     ,Moong(Green Gram)
+Gujarat,KHEDA,2012,Summer     ,Rice
+Gujarat,MAHESANA,1997,Summer     ,Bajra
+Gujarat,MAHESANA,1997,Summer     ,Groundnut
+Gujarat,MAHESANA,1998,Summer     ,Bajra
+Gujarat,MAHESANA,1998,Summer     ,Groundnut
+Gujarat,MAHESANA,1999,Summer     ,Bajra
+Gujarat,MAHESANA,1999,Summer     ,Groundnut
+Gujarat,MAHESANA,2000,Summer     ,Bajra
+Gujarat,MAHESANA,2000,Summer     ,Groundnut
+Gujarat,MAHESANA,2001,Summer     ,Bajra
+Gujarat,MAHESANA,2001,Summer     ,Groundnut
+Gujarat,MAHESANA,2002,Summer     ,Bajra
+Gujarat,MAHESANA,2003,Summer     ,Bajra
+Gujarat,MAHESANA,2003,Summer     ,Groundnut
+Gujarat,MAHESANA,2004,Summer     ,Bajra
+Gujarat,MAHESANA,2004,Summer     ,Groundnut
+Gujarat,MAHESANA,2005,Summer     ,Bajra
+Gujarat,MAHESANA,2005,Summer     ,Groundnut
+Gujarat,MAHESANA,2006,Summer     ,Bajra
+Gujarat,MAHESANA,2006,Summer     ,Groundnut
+Gujarat,MAHESANA,2007,Summer     ,Bajra
+Gujarat,MAHESANA,2007,Summer     ,Groundnut
+Gujarat,MAHESANA,2008,Summer     ,Bajra
+Gujarat,MAHESANA,2008,Summer     ,Groundnut
+Gujarat,MAHESANA,2009,Summer     ,Bajra
+Gujarat,MAHESANA,2009,Summer     ,Groundnut
+Gujarat,MAHESANA,2010,Summer     ,Bajra
+Gujarat,MAHESANA,2010,Summer     ,Groundnut
+Gujarat,MAHESANA,2010,Summer     ,Moong(Green Gram)
+Gujarat,MAHESANA,2011,Summer     ,Bajra
+Gujarat,MAHESANA,2011,Summer     ,Groundnut
+Gujarat,MAHESANA,2011,Summer     ,Moong(Green Gram)
+Gujarat,MAHESANA,2012,Summer     ,Bajra
+Gujarat,MAHESANA,2012,Summer     ,Groundnut
+Gujarat,MAHESANA,2012,Summer     ,Moong(Green Gram)
+Gujarat,NARMADA,2003,Summer     ,Bajra
+Gujarat,NARMADA,2003,Summer     ,Groundnut
+Gujarat,NARMADA,2004,Summer     ,Bajra
+Gujarat,NARMADA,2004,Summer     ,Groundnut
+Gujarat,NARMADA,2005,Summer     ,Bajra
+Gujarat,NARMADA,2005,Summer     ,Groundnut
+Gujarat,NARMADA,2006,Summer     ,Bajra
+Gujarat,NARMADA,2006,Summer     ,Groundnut
+Gujarat,NARMADA,2007,Summer     ,Bajra
+Gujarat,NARMADA,2007,Summer     ,Groundnut
+Gujarat,NARMADA,2008,Summer     ,Bajra
+Gujarat,NARMADA,2008,Summer     ,Groundnut
+Gujarat,NARMADA,2009,Summer     ,Bajra
+Gujarat,NARMADA,2009,Summer     ,Groundnut
+Gujarat,NARMADA,2010,Summer     ,Bajra
+Gujarat,NARMADA,2010,Summer     ,Groundnut
+Gujarat,NARMADA,2010,Summer     ,Maize
+Gujarat,NARMADA,2010,Summer     ,Moong(Green Gram)
+Gujarat,NARMADA,2011,Summer     ,Bajra
+Gujarat,NARMADA,2011,Summer     ,Groundnut
+Gujarat,NARMADA,2011,Summer     ,Maize
+Gujarat,NARMADA,2011,Summer     ,Moong(Green Gram)
+Gujarat,NARMADA,2012,Summer     ,Bajra
+Gujarat,NARMADA,2012,Summer     ,Groundnut
+Gujarat,NARMADA,2012,Summer     ,Maize
+Gujarat,NARMADA,2012,Summer     ,Moong(Green Gram)
+Gujarat,NARMADA,2012,Summer     ,Rice
+Gujarat,NARMADA,2012,Summer     ,Sesamum
+Gujarat,NAVSARI,2003,Summer     ,Groundnut
+Gujarat,NAVSARI,2003,Summer     ,Rice
+Gujarat,NAVSARI,2004,Summer     ,Groundnut
+Gujarat,NAVSARI,2004,Summer     ,Rice
+Gujarat,NAVSARI,2005,Summer     ,Groundnut
+Gujarat,NAVSARI,2005,Summer     ,Rice
+Gujarat,NAVSARI,2006,Summer     ,Rice
+Gujarat,NAVSARI,2007,Summer     ,Groundnut
+Gujarat,NAVSARI,2007,Summer     ,Rice
+Gujarat,NAVSARI,2008,Summer     ,Groundnut
+Gujarat,NAVSARI,2008,Summer     ,Rice
+Gujarat,NAVSARI,2009,Summer     ,Groundnut
+Gujarat,NAVSARI,2009,Summer     ,Rice
+Gujarat,NAVSARI,2010,Summer     ,Groundnut
+Gujarat,NAVSARI,2010,Summer     ,Moong(Green Gram)
+Gujarat,NAVSARI,2010,Summer     ,Rice
+Gujarat,NAVSARI,2010,Summer     ,Sesamum
+Gujarat,NAVSARI,2010,Summer     ,Urad
+Gujarat,NAVSARI,2011,Summer     ,Groundnut
+Gujarat,NAVSARI,2011,Summer     ,Moong(Green Gram)
+Gujarat,NAVSARI,2011,Summer     ,Rice
+Gujarat,NAVSARI,2011,Summer     ,Urad
+Gujarat,NAVSARI,2012,Summer     ,Groundnut
+Gujarat,NAVSARI,2012,Summer     ,Rice
+Gujarat,PANCH MAHALS,1997,Summer     ,Bajra
+Gujarat,PANCH MAHALS,1997,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,1998,Summer     ,Bajra
+Gujarat,PANCH MAHALS,1998,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,1999,Summer     ,Bajra
+Gujarat,PANCH MAHALS,1999,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2000,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2000,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2001,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2001,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2002,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2002,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2003,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2003,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2003,Summer     ,Rice
+Gujarat,PANCH MAHALS,2004,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2004,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2004,Summer     ,Rice
+Gujarat,PANCH MAHALS,2005,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2005,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2005,Summer     ,Rice
+Gujarat,PANCH MAHALS,2006,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2006,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2006,Summer     ,Rice
+Gujarat,PANCH MAHALS,2007,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2007,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2007,Summer     ,Rice
+Gujarat,PANCH MAHALS,2008,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2008,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2008,Summer     ,Rice
+Gujarat,PANCH MAHALS,2009,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2009,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2009,Summer     ,Rice
+Gujarat,PANCH MAHALS,2010,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2010,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2010,Summer     ,Maize
+Gujarat,PANCH MAHALS,2010,Summer     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2010,Summer     ,Rice
+Gujarat,PANCH MAHALS,2010,Summer     ,Sesamum
+Gujarat,PANCH MAHALS,2011,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2011,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2011,Summer     ,Maize
+Gujarat,PANCH MAHALS,2011,Summer     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2011,Summer     ,Rice
+Gujarat,PANCH MAHALS,2011,Summer     ,Sesamum
+Gujarat,PANCH MAHALS,2011,Summer     ,Urad
+Gujarat,PANCH MAHALS,2012,Summer     ,Bajra
+Gujarat,PANCH MAHALS,2012,Summer     ,Groundnut
+Gujarat,PANCH MAHALS,2012,Summer     ,Maize
+Gujarat,PANCH MAHALS,2012,Summer     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2012,Summer     ,Rice
+Gujarat,PANCH MAHALS,2012,Summer     ,Sesamum
+Gujarat,PATAN,2003,Summer     ,Bajra
+Gujarat,PATAN,2004,Summer     ,Bajra
+Gujarat,PATAN,2005,Summer     ,Bajra
+Gujarat,PATAN,2006,Summer     ,Bajra
+Gujarat,PATAN,2007,Summer     ,Bajra
+Gujarat,PATAN,2008,Summer     ,Bajra
+Gujarat,PATAN,2009,Summer     ,Bajra
+Gujarat,PATAN,2010,Summer     ,Bajra
+Gujarat,PATAN,2010,Summer     ,Moong(Green Gram)
+Gujarat,PATAN,2011,Summer     ,Bajra
+Gujarat,PATAN,2012,Summer     ,Bajra
+Gujarat,PORBANDAR,2003,Summer     ,Bajra
+Gujarat,PORBANDAR,2003,Summer     ,Groundnut
+Gujarat,PORBANDAR,2004,Summer     ,Bajra
+Gujarat,PORBANDAR,2004,Summer     ,Groundnut
+Gujarat,PORBANDAR,2005,Summer     ,Bajra
+Gujarat,PORBANDAR,2005,Summer     ,Groundnut
+Gujarat,PORBANDAR,2006,Summer     ,Bajra
+Gujarat,PORBANDAR,2006,Summer     ,Groundnut
+Gujarat,PORBANDAR,2007,Summer     ,Bajra
+Gujarat,PORBANDAR,2007,Summer     ,Groundnut
+Gujarat,PORBANDAR,2008,Summer     ,Bajra
+Gujarat,PORBANDAR,2008,Summer     ,Groundnut
+Gujarat,PORBANDAR,2009,Summer     ,Groundnut
+Gujarat,PORBANDAR,2010,Summer     ,Bajra
+Gujarat,PORBANDAR,2010,Summer     ,Groundnut
+Gujarat,PORBANDAR,2010,Summer     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2010,Summer     ,Sesamum
+Gujarat,PORBANDAR,2010,Summer     ,Urad
+Gujarat,PORBANDAR,2011,Summer     ,Bajra
+Gujarat,PORBANDAR,2011,Summer     ,Groundnut
+Gujarat,PORBANDAR,2011,Summer     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2011,Summer     ,Sesamum
+Gujarat,PORBANDAR,2011,Summer     ,Urad
+Gujarat,PORBANDAR,2012,Summer     ,Bajra
+Gujarat,PORBANDAR,2012,Summer     ,Moong(Green Gram)
+Gujarat,RAJKOT,1997,Summer     ,Groundnut
+Gujarat,RAJKOT,1998,Summer     ,Groundnut
+Gujarat,RAJKOT,2000,Summer     ,Groundnut
+Gujarat,RAJKOT,2001,Summer     ,Bajra
+Gujarat,RAJKOT,2001,Summer     ,Groundnut
+Gujarat,RAJKOT,2002,Summer     ,Groundnut
+Gujarat,RAJKOT,2003,Summer     ,Groundnut
+Gujarat,RAJKOT,2004,Summer     ,Bajra
+Gujarat,RAJKOT,2004,Summer     ,Groundnut
+Gujarat,RAJKOT,2005,Summer     ,Bajra
+Gujarat,RAJKOT,2005,Summer     ,Groundnut
+Gujarat,RAJKOT,2006,Summer     ,Bajra
+Gujarat,RAJKOT,2006,Summer     ,Groundnut
+Gujarat,RAJKOT,2007,Summer     ,Bajra
+Gujarat,RAJKOT,2007,Summer     ,Groundnut
+Gujarat,RAJKOT,2008,Summer     ,Bajra
+Gujarat,RAJKOT,2008,Summer     ,Groundnut
+Gujarat,RAJKOT,2009,Summer     ,Bajra
+Gujarat,RAJKOT,2009,Summer     ,Groundnut
+Gujarat,RAJKOT,2010,Summer     ,Bajra
+Gujarat,RAJKOT,2010,Summer     ,Groundnut
+Gujarat,RAJKOT,2010,Summer     ,Moong(Green Gram)
+Gujarat,RAJKOT,2010,Summer     ,Sesamum
+Gujarat,RAJKOT,2010,Summer     ,Urad
+Gujarat,RAJKOT,2011,Summer     ,Bajra
+Gujarat,RAJKOT,2011,Summer     ,Groundnut
+Gujarat,RAJKOT,2011,Summer     ,Moong(Green Gram)
+Gujarat,RAJKOT,2011,Summer     ,Onion
+Gujarat,RAJKOT,2011,Summer     ,Sesamum
+Gujarat,RAJKOT,2011,Summer     ,Urad
+Gujarat,RAJKOT,2012,Summer     ,Bajra
+Gujarat,RAJKOT,2012,Summer     ,Groundnut
+Gujarat,RAJKOT,2012,Summer     ,Moong(Green Gram)
+Gujarat,RAJKOT,2012,Summer     ,Onion
+Gujarat,RAJKOT,2012,Summer     ,Sesamum
+Gujarat,SABAR KANTHA,1997,Summer     ,Bajra
+Gujarat,SABAR KANTHA,1997,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,1998,Summer     ,Bajra
+Gujarat,SABAR KANTHA,1998,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,1999,Summer     ,Bajra
+Gujarat,SABAR KANTHA,1999,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2000,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2000,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2001,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2001,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2002,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2002,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2003,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2003,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2004,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2004,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2005,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2005,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2006,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2006,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2007,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2007,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2008,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2008,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2009,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2009,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2010,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2010,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2010,Summer     ,Maize
+Gujarat,SABAR KANTHA,2010,Summer     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2010,Summer     ,Sesamum
+Gujarat,SABAR KANTHA,2011,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2011,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2011,Summer     ,Maize
+Gujarat,SABAR KANTHA,2011,Summer     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2011,Summer     ,Urad
+Gujarat,SABAR KANTHA,2012,Summer     ,Bajra
+Gujarat,SABAR KANTHA,2012,Summer     ,Groundnut
+Gujarat,SABAR KANTHA,2012,Summer     ,Maize
+Gujarat,SABAR KANTHA,2012,Summer     ,Moong(Green Gram)
+Gujarat,SURAT,1997,Summer     ,Groundnut
+Gujarat,SURAT,1998,Summer     ,Groundnut
+Gujarat,SURAT,1999,Summer     ,Groundnut
+Gujarat,SURAT,2000,Summer     ,Groundnut
+Gujarat,SURAT,2000,Summer     ,Rice
+Gujarat,SURAT,2001,Summer     ,Groundnut
+Gujarat,SURAT,2001,Summer     ,Rice
+Gujarat,SURAT,2002,Summer     ,Bajra
+Gujarat,SURAT,2002,Summer     ,Groundnut
+Gujarat,SURAT,2002,Summer     ,Rice
+Gujarat,SURAT,2003,Summer     ,Groundnut
+Gujarat,SURAT,2003,Summer     ,Rice
+Gujarat,SURAT,2004,Summer     ,Bajra
+Gujarat,SURAT,2004,Summer     ,Groundnut
+Gujarat,SURAT,2004,Summer     ,Rice
+Gujarat,SURAT,2005,Summer     ,Groundnut
+Gujarat,SURAT,2005,Summer     ,Rice
+Gujarat,SURAT,2006,Summer     ,Groundnut
+Gujarat,SURAT,2006,Summer     ,Rice
+Gujarat,SURAT,2007,Summer     ,Bajra
+Gujarat,SURAT,2007,Summer     ,Groundnut
+Gujarat,SURAT,2007,Summer     ,Rice
+Gujarat,SURAT,2008,Summer     ,Groundnut
+Gujarat,SURAT,2008,Summer     ,Rice
+Gujarat,SURAT,2009,Summer     ,Bajra
+Gujarat,SURAT,2009,Summer     ,Groundnut
+Gujarat,SURAT,2009,Summer     ,Rice
+Gujarat,SURAT,2010,Summer     ,Groundnut
+Gujarat,SURAT,2010,Summer     ,Maize
+Gujarat,SURAT,2010,Summer     ,Moong(Green Gram)
+Gujarat,SURAT,2010,Summer     ,Rice
+Gujarat,SURAT,2010,Summer     ,Sesamum
+Gujarat,SURAT,2010,Summer     ,Urad
+Gujarat,SURAT,2011,Summer     ,Groundnut
+Gujarat,SURAT,2011,Summer     ,Maize
+Gujarat,SURAT,2011,Summer     ,Moong(Green Gram)
+Gujarat,SURAT,2011,Summer     ,Rice
+Gujarat,SURAT,2011,Summer     ,Sesamum
+Gujarat,SURAT,2011,Summer     ,Urad
+Gujarat,SURAT,2012,Summer     ,Groundnut
+Gujarat,SURAT,2012,Summer     ,Rice
+Gujarat,SURENDRANAGAR,1997,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,1997,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,1998,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,1998,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,1999,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,1999,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2000,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2000,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2001,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2001,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2002,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2002,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2003,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2003,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2004,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2004,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2005,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2005,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2006,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2006,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2007,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2007,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2008,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2008,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2009,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2009,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2010,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2010,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2010,Summer     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2010,Summer     ,Sesamum
+Gujarat,SURENDRANAGAR,2011,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2011,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2011,Summer     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2011,Summer     ,Onion
+Gujarat,SURENDRANAGAR,2011,Summer     ,Sesamum
+Gujarat,SURENDRANAGAR,2012,Summer     ,Bajra
+Gujarat,SURENDRANAGAR,2012,Summer     ,Groundnut
+Gujarat,SURENDRANAGAR,2012,Summer     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2012,Summer     ,Sesamum
+Gujarat,TAPI,2008,Summer     ,Groundnut
+Gujarat,TAPI,2008,Summer     ,Rice
+Gujarat,TAPI,2009,Summer     ,Bajra
+Gujarat,TAPI,2009,Summer     ,Groundnut
+Gujarat,TAPI,2009,Summer     ,Rice
+Gujarat,TAPI,2010,Summer     ,Groundnut
+Gujarat,TAPI,2010,Summer     ,Maize
+Gujarat,TAPI,2010,Summer     ,Moong(Green Gram)
+Gujarat,TAPI,2010,Summer     ,Rice
+Gujarat,TAPI,2011,Summer     ,Groundnut
+Gujarat,TAPI,2011,Summer     ,Moong(Green Gram)
+Gujarat,TAPI,2011,Summer     ,Rice
+Gujarat,TAPI,2011,Summer     ,Urad
+Gujarat,TAPI,2012,Summer     ,Bajra
+Gujarat,TAPI,2012,Summer     ,Groundnut
+Gujarat,TAPI,2012,Summer     ,Moong(Green Gram)
+Gujarat,TAPI,2012,Summer     ,Onion
+Gujarat,TAPI,2012,Summer     ,Rice
+Gujarat,VADODARA,1997,Summer     ,Bajra
+Gujarat,VADODARA,1997,Summer     ,Groundnut
+Gujarat,VADODARA,1998,Summer     ,Bajra
+Gujarat,VADODARA,1998,Summer     ,Groundnut
+Gujarat,VADODARA,1999,Summer     ,Bajra
+Gujarat,VADODARA,1999,Summer     ,Groundnut
+Gujarat,VADODARA,2000,Summer     ,Bajra
+Gujarat,VADODARA,2000,Summer     ,Groundnut
+Gujarat,VADODARA,2001,Summer     ,Bajra
+Gujarat,VADODARA,2001,Summer     ,Groundnut
+Gujarat,VADODARA,2002,Summer     ,Bajra
+Gujarat,VADODARA,2002,Summer     ,Groundnut
+Gujarat,VADODARA,2003,Summer     ,Bajra
+Gujarat,VADODARA,2003,Summer     ,Groundnut
+Gujarat,VADODARA,2004,Summer     ,Bajra
+Gujarat,VADODARA,2004,Summer     ,Groundnut
+Gujarat,VADODARA,2005,Summer     ,Bajra
+Gujarat,VADODARA,2005,Summer     ,Groundnut
+Gujarat,VADODARA,2006,Summer     ,Bajra
+Gujarat,VADODARA,2006,Summer     ,Groundnut
+Gujarat,VADODARA,2007,Summer     ,Bajra
+Gujarat,VADODARA,2007,Summer     ,Groundnut
+Gujarat,VADODARA,2008,Summer     ,Bajra
+Gujarat,VADODARA,2008,Summer     ,Groundnut
+Gujarat,VADODARA,2009,Summer     ,Bajra
+Gujarat,VADODARA,2009,Summer     ,Groundnut
+Gujarat,VADODARA,2010,Summer     ,Bajra
+Gujarat,VADODARA,2010,Summer     ,Groundnut
+Gujarat,VADODARA,2010,Summer     ,Maize
+Gujarat,VADODARA,2010,Summer     ,Moong(Green Gram)
+Gujarat,VADODARA,2010,Summer     ,Urad
+Gujarat,VADODARA,2011,Summer     ,Bajra
+Gujarat,VADODARA,2011,Summer     ,Groundnut
+Gujarat,VADODARA,2011,Summer     ,Maize
+Gujarat,VADODARA,2011,Summer     ,Moong(Green Gram)
+Gujarat,VADODARA,2011,Summer     ,Urad
+Gujarat,VADODARA,2012,Summer     ,Bajra
+Gujarat,VADODARA,2012,Summer     ,Groundnut
+Gujarat,VADODARA,2012,Summer     ,Moong(Green Gram)
+Gujarat,VALSAD,1997,Summer     ,Groundnut
+Gujarat,VALSAD,1998,Summer     ,Groundnut
+Gujarat,VALSAD,1999,Summer     ,Groundnut
+Gujarat,VALSAD,2000,Summer     ,Groundnut
+Gujarat,VALSAD,2000,Summer     ,Rice
+Gujarat,VALSAD,2001,Summer     ,Groundnut
+Gujarat,VALSAD,2001,Summer     ,Rice
+Gujarat,VALSAD,2002,Summer     ,Groundnut
+Gujarat,VALSAD,2002,Summer     ,Rice
+Gujarat,VALSAD,2003,Summer     ,Bajra
+Gujarat,VALSAD,2003,Summer     ,Rice
+Gujarat,VALSAD,2004,Summer     ,Rice
+Gujarat,VALSAD,2005,Summer     ,Rice
+Gujarat,VALSAD,2006,Summer     ,Rice
+Gujarat,VALSAD,2007,Summer     ,Rice
+Gujarat,VALSAD,2008,Summer     ,Rice
+Gujarat,VALSAD,2009,Summer     ,Rice
+Gujarat,VALSAD,2010,Summer     ,Moong(Green Gram)
+Gujarat,VALSAD,2010,Summer     ,Rice
+Gujarat,VALSAD,2010,Summer     ,Urad
+Gujarat,VALSAD,2011,Summer     ,Groundnut
+Gujarat,VALSAD,2011,Summer     ,Moong(Green Gram)
+Gujarat,VALSAD,2011,Summer     ,Rice
+Gujarat,VALSAD,2012,Summer     ,Rice

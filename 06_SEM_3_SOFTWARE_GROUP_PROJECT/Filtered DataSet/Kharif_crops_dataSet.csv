@@ -1,0 +1,4249 @@
+State_Name,District_Name,Crop_Year,Season,Crop
+Gujarat,AHMADABAD,1997,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,1997,Kharif     ,Bajra
+Gujarat,AHMADABAD,1997,Kharif     ,Dry chillies
+Gujarat,AHMADABAD,1997,Kharif     ,Groundnut
+Gujarat,AHMADABAD,1997,Kharif     ,Jowar
+Gujarat,AHMADABAD,1997,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,1997,Kharif     ,Moth
+Gujarat,AHMADABAD,1997,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,1997,Kharif     ,Urad
+Gujarat,AHMADABAD,1998,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,1998,Kharif     ,Bajra
+Gujarat,AHMADABAD,1998,Kharif     ,Castor seed
+Gujarat,AHMADABAD,1998,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,1998,Kharif     ,Groundnut
+Gujarat,AHMADABAD,1998,Kharif     ,Jowar
+Gujarat,AHMADABAD,1998,Kharif     ,Maize
+Gujarat,AHMADABAD,1998,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,1998,Kharif     ,Moth
+Gujarat,AHMADABAD,1998,Kharif     ,Other Cereals & Millets
+Gujarat,AHMADABAD,1998,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,1998,Kharif     ,Rice
+Gujarat,AHMADABAD,1998,Kharif     ,Sesamum
+Gujarat,AHMADABAD,1998,Kharif     ,Small millets
+Gujarat,AHMADABAD,1998,Kharif     ,Urad
+Gujarat,AHMADABAD,1999,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,1999,Kharif     ,Bajra
+Gujarat,AHMADABAD,1999,Kharif     ,Castor seed
+Gujarat,AHMADABAD,1999,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,1999,Kharif     ,Groundnut
+Gujarat,AHMADABAD,1999,Kharif     ,Jowar
+Gujarat,AHMADABAD,1999,Kharif     ,Maize
+Gujarat,AHMADABAD,1999,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,1999,Kharif     ,Moth
+Gujarat,AHMADABAD,1999,Kharif     ,Other Cereals & Millets
+Gujarat,AHMADABAD,1999,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,1999,Kharif     ,Rice
+Gujarat,AHMADABAD,1999,Kharif     ,Sesamum
+Gujarat,AHMADABAD,1999,Kharif     ,Small millets
+Gujarat,AHMADABAD,1999,Kharif     ,Urad
+Gujarat,AHMADABAD,2000,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2000,Kharif     ,Bajra
+Gujarat,AHMADABAD,2000,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2000,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2000,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2000,Kharif     ,Jowar
+Gujarat,AHMADABAD,2000,Kharif     ,Maize
+Gujarat,AHMADABAD,2000,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2000,Kharif     ,Moth
+Gujarat,AHMADABAD,2000,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2000,Kharif     ,Rice
+Gujarat,AHMADABAD,2000,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2000,Kharif     ,Urad
+Gujarat,AHMADABAD,2001,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2001,Kharif     ,Bajra
+Gujarat,AHMADABAD,2001,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2001,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2001,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2001,Kharif     ,Maize
+Gujarat,AHMADABAD,2001,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2001,Kharif     ,Moth
+Gujarat,AHMADABAD,2001,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2001,Kharif     ,Rice
+Gujarat,AHMADABAD,2001,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2001,Kharif     ,Urad
+Gujarat,AHMADABAD,2002,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2002,Kharif     ,Bajra
+Gujarat,AHMADABAD,2002,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2002,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2002,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2002,Kharif     ,Maize
+Gujarat,AHMADABAD,2002,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2002,Kharif     ,Moth
+Gujarat,AHMADABAD,2002,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2002,Kharif     ,Rice
+Gujarat,AHMADABAD,2002,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2002,Kharif     ,Urad
+Gujarat,AHMADABAD,2003,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2003,Kharif     ,Bajra
+Gujarat,AHMADABAD,2003,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2003,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2003,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2003,Kharif     ,Maize
+Gujarat,AHMADABAD,2003,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2003,Kharif     ,Moth
+Gujarat,AHMADABAD,2003,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2003,Kharif     ,Rice
+Gujarat,AHMADABAD,2003,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2003,Kharif     ,Urad
+Gujarat,AHMADABAD,2004,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2004,Kharif     ,Bajra
+Gujarat,AHMADABAD,2004,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2004,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2004,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2004,Kharif     ,Jowar
+Gujarat,AHMADABAD,2004,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2004,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2004,Kharif     ,Rice
+Gujarat,AHMADABAD,2004,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2004,Kharif     ,Urad
+Gujarat,AHMADABAD,2005,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2005,Kharif     ,Bajra
+Gujarat,AHMADABAD,2005,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2005,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2005,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2005,Kharif     ,Jowar
+Gujarat,AHMADABAD,2005,Kharif     ,Maize
+Gujarat,AHMADABAD,2005,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2005,Kharif     ,Moth
+Gujarat,AHMADABAD,2005,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2005,Kharif     ,Rice
+Gujarat,AHMADABAD,2005,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2005,Kharif     ,Urad
+Gujarat,AHMADABAD,2006,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2006,Kharif     ,Bajra
+Gujarat,AHMADABAD,2006,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2006,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2006,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2006,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2006,Kharif     ,Moth
+Gujarat,AHMADABAD,2006,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2006,Kharif     ,Rice
+Gujarat,AHMADABAD,2006,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2006,Kharif     ,Urad
+Gujarat,AHMADABAD,2007,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2007,Kharif     ,Bajra
+Gujarat,AHMADABAD,2007,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2007,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2007,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2007,Kharif     ,Jowar
+Gujarat,AHMADABAD,2007,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2007,Kharif     ,Moth
+Gujarat,AHMADABAD,2007,Kharif     ,Other Cereals & Millets
+Gujarat,AHMADABAD,2007,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2007,Kharif     ,Rice
+Gujarat,AHMADABAD,2007,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2007,Kharif     ,Urad
+Gujarat,AHMADABAD,2008,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2008,Kharif     ,Bajra
+Gujarat,AHMADABAD,2008,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2008,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2008,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2008,Kharif     ,Jowar
+Gujarat,AHMADABAD,2008,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2008,Kharif     ,Moth
+Gujarat,AHMADABAD,2008,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2008,Kharif     ,Rice
+Gujarat,AHMADABAD,2008,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2008,Kharif     ,Tobacco
+Gujarat,AHMADABAD,2008,Kharif     ,Urad
+Gujarat,AHMADABAD,2009,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2009,Kharif     ,Bajra
+Gujarat,AHMADABAD,2009,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2009,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2009,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2009,Kharif     ,Maize
+Gujarat,AHMADABAD,2009,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2009,Kharif     ,Moth
+Gujarat,AHMADABAD,2009,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2009,Kharif     ,Rice
+Gujarat,AHMADABAD,2009,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2009,Kharif     ,Urad
+Gujarat,AHMADABAD,2010,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2010,Kharif     ,Bajra
+Gujarat,AHMADABAD,2010,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2010,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2010,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2010,Kharif     ,Jowar
+Gujarat,AHMADABAD,2010,Kharif     ,Maize
+Gujarat,AHMADABAD,2010,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2010,Kharif     ,Moth
+Gujarat,AHMADABAD,2010,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2010,Kharif     ,other oilseeds
+Gujarat,AHMADABAD,2010,Kharif     ,Rice
+Gujarat,AHMADABAD,2010,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2010,Kharif     ,Tobacco
+Gujarat,AHMADABAD,2010,Kharif     ,Urad
+Gujarat,AHMADABAD,2011,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2011,Kharif     ,Bajra
+Gujarat,AHMADABAD,2011,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2011,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2011,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2011,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2011,Kharif     ,Moth
+Gujarat,AHMADABAD,2011,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2011,Kharif     ,Rice
+Gujarat,AHMADABAD,2011,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2011,Kharif     ,Tobacco
+Gujarat,AHMADABAD,2011,Kharif     ,Urad
+Gujarat,AHMADABAD,2012,Kharif     ,Arhar/Tur
+Gujarat,AHMADABAD,2012,Kharif     ,Bajra
+Gujarat,AHMADABAD,2012,Kharif     ,Castor seed
+Gujarat,AHMADABAD,2012,Kharif     ,Cotton(lint)
+Gujarat,AHMADABAD,2012,Kharif     ,Groundnut
+Gujarat,AHMADABAD,2012,Kharif     ,Moong(Green Gram)
+Gujarat,AHMADABAD,2012,Kharif     ,Moth
+Gujarat,AHMADABAD,2012,Kharif     ,Other Kharif pulses
+Gujarat,AHMADABAD,2012,Kharif     ,Rice
+Gujarat,AHMADABAD,2012,Kharif     ,Sesamum
+Gujarat,AHMADABAD,2012,Kharif     ,Tobacco
+Gujarat,AHMADABAD,2012,Kharif     ,Urad
+Gujarat,AMRELI,1997,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,1997,Kharif     ,Bajra
+Gujarat,AMRELI,1997,Kharif     ,Dry chillies
+Gujarat,AMRELI,1997,Kharif     ,Groundnut
+Gujarat,AMRELI,1997,Kharif     ,Jowar
+Gujarat,AMRELI,1997,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,1997,Kharif     ,Moth
+Gujarat,AMRELI,1997,Kharif     ,Urad
+Gujarat,AMRELI,1998,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,1998,Kharif     ,Bajra
+Gujarat,AMRELI,1998,Kharif     ,Castor seed
+Gujarat,AMRELI,1998,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,1998,Kharif     ,Groundnut
+Gujarat,AMRELI,1998,Kharif     ,Jowar
+Gujarat,AMRELI,1998,Kharif     ,Maize
+Gujarat,AMRELI,1998,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,1998,Kharif     ,Moth
+Gujarat,AMRELI,1998,Kharif     ,Rice
+Gujarat,AMRELI,1998,Kharif     ,Sesamum
+Gujarat,AMRELI,1998,Kharif     ,Urad
+Gujarat,AMRELI,1999,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,1999,Kharif     ,Bajra
+Gujarat,AMRELI,1999,Kharif     ,Castor seed
+Gujarat,AMRELI,1999,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,1999,Kharif     ,Groundnut
+Gujarat,AMRELI,1999,Kharif     ,Jowar
+Gujarat,AMRELI,1999,Kharif     ,Maize
+Gujarat,AMRELI,1999,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,1999,Kharif     ,Moth
+Gujarat,AMRELI,1999,Kharif     ,Rice
+Gujarat,AMRELI,1999,Kharif     ,Sesamum
+Gujarat,AMRELI,1999,Kharif     ,Urad
+Gujarat,AMRELI,2000,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2000,Kharif     ,Bajra
+Gujarat,AMRELI,2000,Kharif     ,Castor seed
+Gujarat,AMRELI,2000,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2000,Kharif     ,Groundnut
+Gujarat,AMRELI,2000,Kharif     ,Jowar
+Gujarat,AMRELI,2000,Kharif     ,Maize
+Gujarat,AMRELI,2000,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2000,Kharif     ,Moth
+Gujarat,AMRELI,2000,Kharif     ,Other Kharif pulses
+Gujarat,AMRELI,2000,Kharif     ,Sesamum
+Gujarat,AMRELI,2000,Kharif     ,Urad
+Gujarat,AMRELI,2001,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2001,Kharif     ,Bajra
+Gujarat,AMRELI,2001,Kharif     ,Castor seed
+Gujarat,AMRELI,2001,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2001,Kharif     ,Groundnut
+Gujarat,AMRELI,2001,Kharif     ,Jowar
+Gujarat,AMRELI,2001,Kharif     ,Maize
+Gujarat,AMRELI,2001,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2001,Kharif     ,Moth
+Gujarat,AMRELI,2001,Kharif     ,Other Kharif pulses
+Gujarat,AMRELI,2001,Kharif     ,Rice
+Gujarat,AMRELI,2001,Kharif     ,Sesamum
+Gujarat,AMRELI,2001,Kharif     ,Small millets
+Gujarat,AMRELI,2001,Kharif     ,Urad
+Gujarat,AMRELI,2002,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2002,Kharif     ,Bajra
+Gujarat,AMRELI,2002,Kharif     ,Castor seed
+Gujarat,AMRELI,2002,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2002,Kharif     ,Groundnut
+Gujarat,AMRELI,2002,Kharif     ,Jowar
+Gujarat,AMRELI,2002,Kharif     ,Maize
+Gujarat,AMRELI,2002,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2002,Kharif     ,Moth
+Gujarat,AMRELI,2002,Kharif     ,Other Kharif pulses
+Gujarat,AMRELI,2002,Kharif     ,Sesamum
+Gujarat,AMRELI,2002,Kharif     ,Urad
+Gujarat,AMRELI,2003,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2003,Kharif     ,Bajra
+Gujarat,AMRELI,2003,Kharif     ,Castor seed
+Gujarat,AMRELI,2003,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2003,Kharif     ,Groundnut
+Gujarat,AMRELI,2003,Kharif     ,Jowar
+Gujarat,AMRELI,2003,Kharif     ,Maize
+Gujarat,AMRELI,2003,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2003,Kharif     ,Moth
+Gujarat,AMRELI,2003,Kharif     ,Other Kharif pulses
+Gujarat,AMRELI,2003,Kharif     ,Sesamum
+Gujarat,AMRELI,2003,Kharif     ,Urad
+Gujarat,AMRELI,2004,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2004,Kharif     ,Bajra
+Gujarat,AMRELI,2004,Kharif     ,Castor seed
+Gujarat,AMRELI,2004,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2004,Kharif     ,Groundnut
+Gujarat,AMRELI,2004,Kharif     ,Jowar
+Gujarat,AMRELI,2004,Kharif     ,Maize
+Gujarat,AMRELI,2004,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2004,Kharif     ,Moth
+Gujarat,AMRELI,2004,Kharif     ,Other Kharif pulses
+Gujarat,AMRELI,2004,Kharif     ,Sesamum
+Gujarat,AMRELI,2004,Kharif     ,Urad
+Gujarat,AMRELI,2005,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2005,Kharif     ,Bajra
+Gujarat,AMRELI,2005,Kharif     ,Castor seed
+Gujarat,AMRELI,2005,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2005,Kharif     ,Groundnut
+Gujarat,AMRELI,2005,Kharif     ,Jowar
+Gujarat,AMRELI,2005,Kharif     ,Maize
+Gujarat,AMRELI,2005,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2005,Kharif     ,Moth
+Gujarat,AMRELI,2005,Kharif     ,Other Kharif pulses
+Gujarat,AMRELI,2005,Kharif     ,Sesamum
+Gujarat,AMRELI,2005,Kharif     ,Urad
+Gujarat,AMRELI,2006,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2006,Kharif     ,Bajra
+Gujarat,AMRELI,2006,Kharif     ,Castor seed
+Gujarat,AMRELI,2006,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2006,Kharif     ,Groundnut
+Gujarat,AMRELI,2006,Kharif     ,Maize
+Gujarat,AMRELI,2006,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2006,Kharif     ,Moth
+Gujarat,AMRELI,2006,Kharif     ,Sesamum
+Gujarat,AMRELI,2006,Kharif     ,Urad
+Gujarat,AMRELI,2007,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2007,Kharif     ,Bajra
+Gujarat,AMRELI,2007,Kharif     ,Castor seed
+Gujarat,AMRELI,2007,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2007,Kharif     ,Groundnut
+Gujarat,AMRELI,2007,Kharif     ,Maize
+Gujarat,AMRELI,2007,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2007,Kharif     ,Moth
+Gujarat,AMRELI,2007,Kharif     ,Other Kharif pulses
+Gujarat,AMRELI,2007,Kharif     ,Sesamum
+Gujarat,AMRELI,2007,Kharif     ,Urad
+Gujarat,AMRELI,2008,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2008,Kharif     ,Bajra
+Gujarat,AMRELI,2008,Kharif     ,Castor seed
+Gujarat,AMRELI,2008,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2008,Kharif     ,Groundnut
+Gujarat,AMRELI,2008,Kharif     ,Maize
+Gujarat,AMRELI,2008,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2008,Kharif     ,Moth
+Gujarat,AMRELI,2008,Kharif     ,Other Kharif pulses
+Gujarat,AMRELI,2008,Kharif     ,Sesamum
+Gujarat,AMRELI,2008,Kharif     ,Urad
+Gujarat,AMRELI,2009,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2009,Kharif     ,Bajra
+Gujarat,AMRELI,2009,Kharif     ,Castor seed
+Gujarat,AMRELI,2009,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2009,Kharif     ,Groundnut
+Gujarat,AMRELI,2009,Kharif     ,Jowar
+Gujarat,AMRELI,2009,Kharif     ,Maize
+Gujarat,AMRELI,2009,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2009,Kharif     ,Other Kharif pulses
+Gujarat,AMRELI,2009,Kharif     ,Sesamum
+Gujarat,AMRELI,2009,Kharif     ,Urad
+Gujarat,AMRELI,2010,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2010,Kharif     ,Bajra
+Gujarat,AMRELI,2010,Kharif     ,Castor seed
+Gujarat,AMRELI,2010,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2010,Kharif     ,Groundnut
+Gujarat,AMRELI,2010,Kharif     ,Jowar
+Gujarat,AMRELI,2010,Kharif     ,Maize
+Gujarat,AMRELI,2010,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2010,Kharif     ,Other Kharif pulses
+Gujarat,AMRELI,2010,Kharif     ,other oilseeds
+Gujarat,AMRELI,2010,Kharif     ,Sesamum
+Gujarat,AMRELI,2010,Kharif     ,Tobacco
+Gujarat,AMRELI,2010,Kharif     ,Urad
+Gujarat,AMRELI,2011,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2011,Kharif     ,Bajra
+Gujarat,AMRELI,2011,Kharif     ,Castor seed
+Gujarat,AMRELI,2011,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2011,Kharif     ,Groundnut
+Gujarat,AMRELI,2011,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2011,Kharif     ,Sesamum
+Gujarat,AMRELI,2011,Kharif     ,Urad
+Gujarat,AMRELI,2012,Kharif     ,Arhar/Tur
+Gujarat,AMRELI,2012,Kharif     ,Bajra
+Gujarat,AMRELI,2012,Kharif     ,Castor seed
+Gujarat,AMRELI,2012,Kharif     ,Cotton(lint)
+Gujarat,AMRELI,2012,Kharif     ,Groundnut
+Gujarat,AMRELI,2012,Kharif     ,Maize
+Gujarat,AMRELI,2012,Kharif     ,Moong(Green Gram)
+Gujarat,AMRELI,2012,Kharif     ,Other Kharif pulses
+Gujarat,AMRELI,2012,Kharif     ,Sesamum
+Gujarat,AMRELI,2012,Kharif     ,Urad
+Gujarat,ANAND,2003,Kharif     ,Arhar/Tur
+Gujarat,ANAND,2003,Kharif     ,Bajra
+Gujarat,ANAND,2003,Kharif     ,Castor seed
+Gujarat,ANAND,2003,Kharif     ,Cotton(lint)
+Gujarat,ANAND,2003,Kharif     ,Moong(Green Gram)
+Gujarat,ANAND,2003,Kharif     ,Moth
+Gujarat,ANAND,2003,Kharif     ,Rice
+Gujarat,ANAND,2003,Kharif     ,Sesamum
+Gujarat,ANAND,2004,Kharif     ,Arhar/Tur
+Gujarat,ANAND,2004,Kharif     ,Bajra
+Gujarat,ANAND,2004,Kharif     ,Castor seed
+Gujarat,ANAND,2004,Kharif     ,Cotton(lint)
+Gujarat,ANAND,2004,Kharif     ,Moong(Green Gram)
+Gujarat,ANAND,2004,Kharif     ,Rice
+Gujarat,ANAND,2004,Kharif     ,Sesamum
+Gujarat,ANAND,2004,Kharif     ,Urad
+Gujarat,ANAND,2005,Kharif     ,Arhar/Tur
+Gujarat,ANAND,2005,Kharif     ,Bajra
+Gujarat,ANAND,2005,Kharif     ,Castor seed
+Gujarat,ANAND,2005,Kharif     ,Cotton(lint)
+Gujarat,ANAND,2005,Kharif     ,Moong(Green Gram)
+Gujarat,ANAND,2005,Kharif     ,Rice
+Gujarat,ANAND,2005,Kharif     ,Sesamum
+Gujarat,ANAND,2006,Kharif     ,Arhar/Tur
+Gujarat,ANAND,2006,Kharif     ,Bajra
+Gujarat,ANAND,2006,Kharif     ,Castor seed
+Gujarat,ANAND,2006,Kharif     ,Cotton(lint)
+Gujarat,ANAND,2006,Kharif     ,Moong(Green Gram)
+Gujarat,ANAND,2006,Kharif     ,Rice
+Gujarat,ANAND,2006,Kharif     ,Sesamum
+Gujarat,ANAND,2007,Kharif     ,Arhar/Tur
+Gujarat,ANAND,2007,Kharif     ,Bajra
+Gujarat,ANAND,2007,Kharif     ,Castor seed
+Gujarat,ANAND,2007,Kharif     ,Cotton(lint)
+Gujarat,ANAND,2007,Kharif     ,Groundnut
+Gujarat,ANAND,2007,Kharif     ,Maize
+Gujarat,ANAND,2007,Kharif     ,Moong(Green Gram)
+Gujarat,ANAND,2007,Kharif     ,Moth
+Gujarat,ANAND,2007,Kharif     ,Rice
+Gujarat,ANAND,2007,Kharif     ,Sesamum
+Gujarat,ANAND,2007,Kharif     ,Urad
+Gujarat,ANAND,2008,Kharif     ,Arhar/Tur
+Gujarat,ANAND,2008,Kharif     ,Bajra
+Gujarat,ANAND,2008,Kharif     ,Castor seed
+Gujarat,ANAND,2008,Kharif     ,Cotton(lint)
+Gujarat,ANAND,2008,Kharif     ,Jowar
+Gujarat,ANAND,2008,Kharif     ,Maize
+Gujarat,ANAND,2008,Kharif     ,Moong(Green Gram)
+Gujarat,ANAND,2008,Kharif     ,Other Kharif pulses
+Gujarat,ANAND,2008,Kharif     ,Rice
+Gujarat,ANAND,2008,Kharif     ,Sesamum
+Gujarat,ANAND,2008,Kharif     ,Tobacco
+Gujarat,ANAND,2008,Kharif     ,Urad
+Gujarat,ANAND,2009,Kharif     ,Arhar/Tur
+Gujarat,ANAND,2009,Kharif     ,Bajra
+Gujarat,ANAND,2009,Kharif     ,Castor seed
+Gujarat,ANAND,2009,Kharif     ,Cotton(lint)
+Gujarat,ANAND,2009,Kharif     ,Jowar
+Gujarat,ANAND,2009,Kharif     ,Maize
+Gujarat,ANAND,2009,Kharif     ,Moong(Green Gram)
+Gujarat,ANAND,2009,Kharif     ,Moth
+Gujarat,ANAND,2009,Kharif     ,Other Kharif pulses
+Gujarat,ANAND,2009,Kharif     ,Rice
+Gujarat,ANAND,2009,Kharif     ,Sesamum
+Gujarat,ANAND,2009,Kharif     ,Tobacco
+Gujarat,ANAND,2009,Kharif     ,Urad
+Gujarat,ANAND,2010,Kharif     ,Arhar/Tur
+Gujarat,ANAND,2010,Kharif     ,Bajra
+Gujarat,ANAND,2010,Kharif     ,Castor seed
+Gujarat,ANAND,2010,Kharif     ,Cotton(lint)
+Gujarat,ANAND,2010,Kharif     ,Jowar
+Gujarat,ANAND,2010,Kharif     ,Maize
+Gujarat,ANAND,2010,Kharif     ,Moong(Green Gram)
+Gujarat,ANAND,2010,Kharif     ,Other Kharif pulses
+Gujarat,ANAND,2010,Kharif     ,other oilseeds
+Gujarat,ANAND,2010,Kharif     ,Rice
+Gujarat,ANAND,2010,Kharif     ,Sesamum
+Gujarat,ANAND,2010,Kharif     ,Tobacco
+Gujarat,ANAND,2010,Kharif     ,Urad
+Gujarat,ANAND,2011,Kharif     ,Arhar/Tur
+Gujarat,ANAND,2011,Kharif     ,Bajra
+Gujarat,ANAND,2011,Kharif     ,Castor seed
+Gujarat,ANAND,2011,Kharif     ,Cotton(lint)
+Gujarat,ANAND,2011,Kharif     ,Maize
+Gujarat,ANAND,2011,Kharif     ,Moong(Green Gram)
+Gujarat,ANAND,2011,Kharif     ,Other Cereals & Millets
+Gujarat,ANAND,2011,Kharif     ,Rice
+Gujarat,ANAND,2011,Kharif     ,Sesamum
+Gujarat,ANAND,2011,Kharif     ,Tobacco
+Gujarat,ANAND,2011,Kharif     ,Urad
+Gujarat,ANAND,2012,Kharif     ,Arhar/Tur
+Gujarat,ANAND,2012,Kharif     ,Bajra
+Gujarat,ANAND,2012,Kharif     ,Castor seed
+Gujarat,ANAND,2012,Kharif     ,Cotton(lint)
+Gujarat,ANAND,2012,Kharif     ,Maize
+Gujarat,ANAND,2012,Kharif     ,Moong(Green Gram)
+Gujarat,ANAND,2012,Kharif     ,Moth
+Gujarat,ANAND,2012,Kharif     ,Other Cereals & Millets
+Gujarat,ANAND,2012,Kharif     ,Rice
+Gujarat,ANAND,2012,Kharif     ,Sesamum
+Gujarat,ANAND,2012,Kharif     ,Tobacco
+Gujarat,ANAND,2012,Kharif     ,Urad
+Gujarat,BANAS KANTHA,1997,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,1997,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,1997,Kharif     ,Dry chillies
+Gujarat,BANAS KANTHA,1997,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,1997,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,1997,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,1997,Kharif     ,Moth
+Gujarat,BANAS KANTHA,1997,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,1997,Kharif     ,Small millets
+Gujarat,BANAS KANTHA,1997,Kharif     ,Urad
+Gujarat,BANAS KANTHA,1998,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,1998,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,1998,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,1998,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,1998,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,1998,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,1998,Kharif     ,Maize
+Gujarat,BANAS KANTHA,1998,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,1998,Kharif     ,Moth
+Gujarat,BANAS KANTHA,1998,Kharif     ,Other Cereals & Millets
+Gujarat,BANAS KANTHA,1998,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,1998,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,1998,Kharif     ,Small millets
+Gujarat,BANAS KANTHA,1998,Kharif     ,Urad
+Gujarat,BANAS KANTHA,1999,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,1999,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,1999,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,1999,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,1999,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,1999,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,1999,Kharif     ,Maize
+Gujarat,BANAS KANTHA,1999,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,1999,Kharif     ,Moth
+Gujarat,BANAS KANTHA,1999,Kharif     ,Other Cereals & Millets
+Gujarat,BANAS KANTHA,1999,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,1999,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,1999,Kharif     ,Small millets
+Gujarat,BANAS KANTHA,1999,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2000,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2000,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2000,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2000,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2000,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2000,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2000,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2000,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2000,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2000,Kharif     ,Other Cereals & Millets
+Gujarat,BANAS KANTHA,2000,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2000,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2000,Kharif     ,Small millets
+Gujarat,BANAS KANTHA,2000,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2001,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2001,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2001,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2001,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2001,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2001,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2001,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2001,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2001,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2001,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2001,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2001,Kharif     ,Small millets
+Gujarat,BANAS KANTHA,2001,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2002,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2002,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2002,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2002,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2002,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2002,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2002,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2002,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2002,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2002,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2002,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2002,Kharif     ,Small millets
+Gujarat,BANAS KANTHA,2002,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2003,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2003,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2003,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2003,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2003,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2003,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2003,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2003,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2003,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2003,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2003,Kharif     ,Small millets
+Gujarat,BANAS KANTHA,2003,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2004,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2004,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2004,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2004,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2004,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2004,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2004,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2004,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2004,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2004,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2004,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2004,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2005,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2005,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2005,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2005,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2005,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2005,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2005,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2005,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2005,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2005,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2005,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2005,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2006,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2006,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2006,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2006,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2006,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2006,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2006,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2006,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2006,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2006,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2006,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2006,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2007,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2007,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2007,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2007,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2007,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2007,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2007,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2007,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2007,Kharif     ,Other Cereals & Millets
+Gujarat,BANAS KANTHA,2007,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2007,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2007,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2008,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2008,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2008,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2008,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2008,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2008,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2008,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2008,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2008,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2008,Kharif     ,Other Cereals & Millets
+Gujarat,BANAS KANTHA,2008,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2008,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2008,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2009,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2009,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2009,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2009,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2009,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2009,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2009,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2009,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2009,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2009,Kharif     ,Other Cereals & Millets
+Gujarat,BANAS KANTHA,2009,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2009,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2009,Kharif     ,Tobacco
+Gujarat,BANAS KANTHA,2009,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2010,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2010,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2010,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2010,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2010,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2010,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2010,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2010,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2010,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2010,Kharif     ,Other Cereals & Millets
+Gujarat,BANAS KANTHA,2010,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2010,Kharif     ,other oilseeds
+Gujarat,BANAS KANTHA,2010,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2010,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2011,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2011,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2011,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2011,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2011,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2011,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2011,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2011,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2011,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2011,Kharif     ,Other Cereals & Millets
+Gujarat,BANAS KANTHA,2011,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2011,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2011,Kharif     ,Tobacco
+Gujarat,BANAS KANTHA,2011,Kharif     ,Urad
+Gujarat,BANAS KANTHA,2012,Kharif     ,Arhar/Tur
+Gujarat,BANAS KANTHA,2012,Kharif     ,Bajra
+Gujarat,BANAS KANTHA,2012,Kharif     ,Castor seed
+Gujarat,BANAS KANTHA,2012,Kharif     ,Cotton(lint)
+Gujarat,BANAS KANTHA,2012,Kharif     ,Groundnut
+Gujarat,BANAS KANTHA,2012,Kharif     ,Jowar
+Gujarat,BANAS KANTHA,2012,Kharif     ,Maize
+Gujarat,BANAS KANTHA,2012,Kharif     ,Moong(Green Gram)
+Gujarat,BANAS KANTHA,2012,Kharif     ,Moth
+Gujarat,BANAS KANTHA,2012,Kharif     ,Other Cereals & Millets
+Gujarat,BANAS KANTHA,2012,Kharif     ,Other Kharif pulses
+Gujarat,BANAS KANTHA,2012,Kharif     ,Ragi
+Gujarat,BANAS KANTHA,2012,Kharif     ,Sesamum
+Gujarat,BANAS KANTHA,2012,Kharif     ,Urad
+Gujarat,BHARUCH,1997,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,1997,Kharif     ,Bajra
+Gujarat,BHARUCH,1997,Kharif     ,Dry chillies
+Gujarat,BHARUCH,1997,Kharif     ,Groundnut
+Gujarat,BHARUCH,1997,Kharif     ,Jowar
+Gujarat,BHARUCH,1997,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,1997,Kharif     ,Moth
+Gujarat,BHARUCH,1997,Kharif     ,Urad
+Gujarat,BHARUCH,1998,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,1998,Kharif     ,Bajra
+Gujarat,BHARUCH,1998,Kharif     ,Castor seed
+Gujarat,BHARUCH,1998,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,1998,Kharif     ,Groundnut
+Gujarat,BHARUCH,1998,Kharif     ,Jowar
+Gujarat,BHARUCH,1998,Kharif     ,Maize
+Gujarat,BHARUCH,1998,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,1998,Kharif     ,Moth
+Gujarat,BHARUCH,1998,Kharif     ,Other Cereals & Millets
+Gujarat,BHARUCH,1998,Kharif     ,Rice
+Gujarat,BHARUCH,1998,Kharif     ,Sesamum
+Gujarat,BHARUCH,1998,Kharif     ,Small millets
+Gujarat,BHARUCH,1998,Kharif     ,Urad
+Gujarat,BHARUCH,1999,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,1999,Kharif     ,Bajra
+Gujarat,BHARUCH,1999,Kharif     ,Castor seed
+Gujarat,BHARUCH,1999,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,1999,Kharif     ,Groundnut
+Gujarat,BHARUCH,1999,Kharif     ,Jowar
+Gujarat,BHARUCH,1999,Kharif     ,Maize
+Gujarat,BHARUCH,1999,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,1999,Kharif     ,Moth
+Gujarat,BHARUCH,1999,Kharif     ,Other Cereals & Millets
+Gujarat,BHARUCH,1999,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,1999,Kharif     ,Rice
+Gujarat,BHARUCH,1999,Kharif     ,Sesamum
+Gujarat,BHARUCH,1999,Kharif     ,Small millets
+Gujarat,BHARUCH,1999,Kharif     ,Urad
+Gujarat,BHARUCH,2000,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2000,Kharif     ,Bajra
+Gujarat,BHARUCH,2000,Kharif     ,Castor seed
+Gujarat,BHARUCH,2000,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2000,Kharif     ,Groundnut
+Gujarat,BHARUCH,2000,Kharif     ,Jowar
+Gujarat,BHARUCH,2000,Kharif     ,Maize
+Gujarat,BHARUCH,2000,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2000,Kharif     ,Moth
+Gujarat,BHARUCH,2000,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2000,Kharif     ,Rice
+Gujarat,BHARUCH,2000,Kharif     ,Sesamum
+Gujarat,BHARUCH,2000,Kharif     ,Urad
+Gujarat,BHARUCH,2001,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2001,Kharif     ,Bajra
+Gujarat,BHARUCH,2001,Kharif     ,Castor seed
+Gujarat,BHARUCH,2001,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2001,Kharif     ,Groundnut
+Gujarat,BHARUCH,2001,Kharif     ,Jowar
+Gujarat,BHARUCH,2001,Kharif     ,Maize
+Gujarat,BHARUCH,2001,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2001,Kharif     ,Moth
+Gujarat,BHARUCH,2001,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2001,Kharif     ,Rice
+Gujarat,BHARUCH,2001,Kharif     ,Sesamum
+Gujarat,BHARUCH,2001,Kharif     ,Small millets
+Gujarat,BHARUCH,2001,Kharif     ,Urad
+Gujarat,BHARUCH,2002,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2002,Kharif     ,Bajra
+Gujarat,BHARUCH,2002,Kharif     ,Castor seed
+Gujarat,BHARUCH,2002,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2002,Kharif     ,Groundnut
+Gujarat,BHARUCH,2002,Kharif     ,Jowar
+Gujarat,BHARUCH,2002,Kharif     ,Maize
+Gujarat,BHARUCH,2002,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2002,Kharif     ,Moth
+Gujarat,BHARUCH,2002,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2002,Kharif     ,Rice
+Gujarat,BHARUCH,2002,Kharif     ,Sesamum
+Gujarat,BHARUCH,2002,Kharif     ,Urad
+Gujarat,BHARUCH,2003,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2003,Kharif     ,Bajra
+Gujarat,BHARUCH,2003,Kharif     ,Castor seed
+Gujarat,BHARUCH,2003,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2003,Kharif     ,Groundnut
+Gujarat,BHARUCH,2003,Kharif     ,Jowar
+Gujarat,BHARUCH,2003,Kharif     ,Maize
+Gujarat,BHARUCH,2003,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2003,Kharif     ,Moth
+Gujarat,BHARUCH,2003,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2003,Kharif     ,Rice
+Gujarat,BHARUCH,2003,Kharif     ,Sesamum
+Gujarat,BHARUCH,2003,Kharif     ,Urad
+Gujarat,BHARUCH,2004,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2004,Kharif     ,Bajra
+Gujarat,BHARUCH,2004,Kharif     ,Castor seed
+Gujarat,BHARUCH,2004,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2004,Kharif     ,Groundnut
+Gujarat,BHARUCH,2004,Kharif     ,Jowar
+Gujarat,BHARUCH,2004,Kharif     ,Maize
+Gujarat,BHARUCH,2004,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2004,Kharif     ,Moth
+Gujarat,BHARUCH,2004,Kharif     ,Other Cereals & Millets
+Gujarat,BHARUCH,2004,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2004,Kharif     ,Rice
+Gujarat,BHARUCH,2004,Kharif     ,Sesamum
+Gujarat,BHARUCH,2004,Kharif     ,Small millets
+Gujarat,BHARUCH,2004,Kharif     ,Urad
+Gujarat,BHARUCH,2005,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2005,Kharif     ,Bajra
+Gujarat,BHARUCH,2005,Kharif     ,Castor seed
+Gujarat,BHARUCH,2005,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2005,Kharif     ,Groundnut
+Gujarat,BHARUCH,2005,Kharif     ,Jowar
+Gujarat,BHARUCH,2005,Kharif     ,Maize
+Gujarat,BHARUCH,2005,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2005,Kharif     ,Moth
+Gujarat,BHARUCH,2005,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2005,Kharif     ,Rice
+Gujarat,BHARUCH,2005,Kharif     ,Sesamum
+Gujarat,BHARUCH,2005,Kharif     ,Urad
+Gujarat,BHARUCH,2006,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2006,Kharif     ,Bajra
+Gujarat,BHARUCH,2006,Kharif     ,Castor seed
+Gujarat,BHARUCH,2006,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2006,Kharif     ,Groundnut
+Gujarat,BHARUCH,2006,Kharif     ,Jowar
+Gujarat,BHARUCH,2006,Kharif     ,Maize
+Gujarat,BHARUCH,2006,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2006,Kharif     ,Moth
+Gujarat,BHARUCH,2006,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2006,Kharif     ,Ragi
+Gujarat,BHARUCH,2006,Kharif     ,Rice
+Gujarat,BHARUCH,2006,Kharif     ,Sesamum
+Gujarat,BHARUCH,2006,Kharif     ,Urad
+Gujarat,BHARUCH,2007,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2007,Kharif     ,Castor seed
+Gujarat,BHARUCH,2007,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2007,Kharif     ,Groundnut
+Gujarat,BHARUCH,2007,Kharif     ,Jowar
+Gujarat,BHARUCH,2007,Kharif     ,Maize
+Gujarat,BHARUCH,2007,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2007,Kharif     ,Moth
+Gujarat,BHARUCH,2007,Kharif     ,Other Cereals & Millets
+Gujarat,BHARUCH,2007,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2007,Kharif     ,Rice
+Gujarat,BHARUCH,2007,Kharif     ,Sesamum
+Gujarat,BHARUCH,2007,Kharif     ,Urad
+Gujarat,BHARUCH,2008,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2008,Kharif     ,Bajra
+Gujarat,BHARUCH,2008,Kharif     ,Castor seed
+Gujarat,BHARUCH,2008,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2008,Kharif     ,Groundnut
+Gujarat,BHARUCH,2008,Kharif     ,Jowar
+Gujarat,BHARUCH,2008,Kharif     ,Maize
+Gujarat,BHARUCH,2008,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2008,Kharif     ,Moth
+Gujarat,BHARUCH,2008,Kharif     ,Other Cereals & Millets
+Gujarat,BHARUCH,2008,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2008,Kharif     ,Rice
+Gujarat,BHARUCH,2008,Kharif     ,Sesamum
+Gujarat,BHARUCH,2008,Kharif     ,Urad
+Gujarat,BHARUCH,2009,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2009,Kharif     ,Bajra
+Gujarat,BHARUCH,2009,Kharif     ,Castor seed
+Gujarat,BHARUCH,2009,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2009,Kharif     ,Groundnut
+Gujarat,BHARUCH,2009,Kharif     ,Jowar
+Gujarat,BHARUCH,2009,Kharif     ,Maize
+Gujarat,BHARUCH,2009,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2009,Kharif     ,Moth
+Gujarat,BHARUCH,2009,Kharif     ,Other Cereals & Millets
+Gujarat,BHARUCH,2009,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2009,Kharif     ,Rice
+Gujarat,BHARUCH,2009,Kharif     ,Sesamum
+Gujarat,BHARUCH,2009,Kharif     ,Urad
+Gujarat,BHARUCH,2010,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2010,Kharif     ,Bajra
+Gujarat,BHARUCH,2010,Kharif     ,Castor seed
+Gujarat,BHARUCH,2010,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2010,Kharif     ,Groundnut
+Gujarat,BHARUCH,2010,Kharif     ,Jowar
+Gujarat,BHARUCH,2010,Kharif     ,Maize
+Gujarat,BHARUCH,2010,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2010,Kharif     ,Moth
+Gujarat,BHARUCH,2010,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2010,Kharif     ,other oilseeds
+Gujarat,BHARUCH,2010,Kharif     ,Rice
+Gujarat,BHARUCH,2010,Kharif     ,Sesamum
+Gujarat,BHARUCH,2010,Kharif     ,Soyabean
+Gujarat,BHARUCH,2010,Kharif     ,Urad
+Gujarat,BHARUCH,2011,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2011,Kharif     ,Bajra
+Gujarat,BHARUCH,2011,Kharif     ,Castor seed
+Gujarat,BHARUCH,2011,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2011,Kharif     ,Groundnut
+Gujarat,BHARUCH,2011,Kharif     ,Jowar
+Gujarat,BHARUCH,2011,Kharif     ,Maize
+Gujarat,BHARUCH,2011,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2011,Kharif     ,Moth
+Gujarat,BHARUCH,2011,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2011,Kharif     ,Rice
+Gujarat,BHARUCH,2011,Kharif     ,Sesamum
+Gujarat,BHARUCH,2011,Kharif     ,Urad
+Gujarat,BHARUCH,2012,Kharif     ,Arhar/Tur
+Gujarat,BHARUCH,2012,Kharif     ,Bajra
+Gujarat,BHARUCH,2012,Kharif     ,Castor seed
+Gujarat,BHARUCH,2012,Kharif     ,Cotton(lint)
+Gujarat,BHARUCH,2012,Kharif     ,Groundnut
+Gujarat,BHARUCH,2012,Kharif     ,Jowar
+Gujarat,BHARUCH,2012,Kharif     ,Maize
+Gujarat,BHARUCH,2012,Kharif     ,Moong(Green Gram)
+Gujarat,BHARUCH,2012,Kharif     ,Moth
+Gujarat,BHARUCH,2012,Kharif     ,Other Kharif pulses
+Gujarat,BHARUCH,2012,Kharif     ,Rice
+Gujarat,BHARUCH,2012,Kharif     ,Sesamum
+Gujarat,BHARUCH,2012,Kharif     ,Urad
+Gujarat,BHAVNAGAR,1997,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,1997,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,1997,Kharif     ,Dry chillies
+Gujarat,BHAVNAGAR,1997,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,1997,Kharif     ,Jowar
+Gujarat,BHAVNAGAR,1997,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,1997,Kharif     ,Moth
+Gujarat,BHAVNAGAR,1997,Kharif     ,Urad
+Gujarat,BHAVNAGAR,1998,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,1998,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,1998,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,1998,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,1998,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,1998,Kharif     ,Jowar
+Gujarat,BHAVNAGAR,1998,Kharif     ,Maize
+Gujarat,BHAVNAGAR,1998,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,1998,Kharif     ,Moth
+Gujarat,BHAVNAGAR,1998,Kharif     ,Other Kharif pulses
+Gujarat,BHAVNAGAR,1998,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,1998,Kharif     ,Urad
+Gujarat,BHAVNAGAR,1999,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,1999,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,1999,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,1999,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,1999,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,1999,Kharif     ,Jowar
+Gujarat,BHAVNAGAR,1999,Kharif     ,Maize
+Gujarat,BHAVNAGAR,1999,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,1999,Kharif     ,Moth
+Gujarat,BHAVNAGAR,1999,Kharif     ,Rice
+Gujarat,BHAVNAGAR,1999,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,1999,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2000,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2000,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2000,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2000,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2000,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2000,Kharif     ,Jowar
+Gujarat,BHAVNAGAR,2000,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2000,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2000,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2000,Kharif     ,Other Kharif pulses
+Gujarat,BHAVNAGAR,2000,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2000,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2001,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2001,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2001,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2001,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2001,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2001,Kharif     ,Jowar
+Gujarat,BHAVNAGAR,2001,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2001,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2001,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2001,Kharif     ,Other Kharif pulses
+Gujarat,BHAVNAGAR,2001,Kharif     ,Rice
+Gujarat,BHAVNAGAR,2001,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2001,Kharif     ,Small millets
+Gujarat,BHAVNAGAR,2001,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2002,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2002,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2002,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2002,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2002,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2002,Kharif     ,Jowar
+Gujarat,BHAVNAGAR,2002,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2002,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2002,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2002,Kharif     ,Other Kharif pulses
+Gujarat,BHAVNAGAR,2002,Kharif     ,Rice
+Gujarat,BHAVNAGAR,2002,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2002,Kharif     ,Small millets
+Gujarat,BHAVNAGAR,2002,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2003,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2003,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2003,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2003,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2003,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2003,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2003,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2003,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2003,Kharif     ,Other Kharif pulses
+Gujarat,BHAVNAGAR,2003,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2003,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2004,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2004,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2004,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2004,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2004,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2004,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2004,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2004,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2004,Kharif     ,Other Kharif pulses
+Gujarat,BHAVNAGAR,2004,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2004,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2005,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2005,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2005,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2005,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2005,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2005,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2005,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2005,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2005,Kharif     ,Other Cereals & Millets
+Gujarat,BHAVNAGAR,2005,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2005,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2006,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2006,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2006,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2006,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2006,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2006,Kharif     ,Jowar
+Gujarat,BHAVNAGAR,2006,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2006,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2006,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2006,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2006,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2007,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2007,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2007,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2007,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2007,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2007,Kharif     ,Jowar
+Gujarat,BHAVNAGAR,2007,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2007,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2007,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2007,Kharif     ,Other Kharif pulses
+Gujarat,BHAVNAGAR,2007,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2007,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2008,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2008,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2008,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2008,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2008,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2008,Kharif     ,Jowar
+Gujarat,BHAVNAGAR,2008,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2008,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2008,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2008,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2008,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2009,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2009,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2009,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2009,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2009,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2009,Kharif     ,Jowar
+Gujarat,BHAVNAGAR,2009,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2009,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2009,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2009,Kharif     ,Other Kharif pulses
+Gujarat,BHAVNAGAR,2009,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2009,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2010,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2010,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2010,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2010,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2010,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2010,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2010,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2010,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2010,Kharif     ,Other Kharif pulses
+Gujarat,BHAVNAGAR,2010,Kharif     ,other oilseeds
+Gujarat,BHAVNAGAR,2010,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2010,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2011,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2011,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2011,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2011,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2011,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2011,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2011,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2011,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2011,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2011,Kharif     ,Urad
+Gujarat,BHAVNAGAR,2012,Kharif     ,Arhar/Tur
+Gujarat,BHAVNAGAR,2012,Kharif     ,Bajra
+Gujarat,BHAVNAGAR,2012,Kharif     ,Castor seed
+Gujarat,BHAVNAGAR,2012,Kharif     ,Cotton(lint)
+Gujarat,BHAVNAGAR,2012,Kharif     ,Groundnut
+Gujarat,BHAVNAGAR,2012,Kharif     ,Jowar
+Gujarat,BHAVNAGAR,2012,Kharif     ,Maize
+Gujarat,BHAVNAGAR,2012,Kharif     ,Moong(Green Gram)
+Gujarat,BHAVNAGAR,2012,Kharif     ,Moth
+Gujarat,BHAVNAGAR,2012,Kharif     ,Sesamum
+Gujarat,BHAVNAGAR,2012,Kharif     ,Urad
+Gujarat,DANG,1997,Kharif     ,Arhar/Tur
+Gujarat,DANG,1997,Kharif     ,Groundnut
+Gujarat,DANG,1997,Kharif     ,Jowar
+Gujarat,DANG,1997,Kharif     ,Other Kharif pulses
+Gujarat,DANG,1997,Kharif     ,Small millets
+Gujarat,DANG,1997,Kharif     ,Urad
+Gujarat,DANG,1998,Kharif     ,Arhar/Tur
+Gujarat,DANG,1998,Kharif     ,Groundnut
+Gujarat,DANG,1998,Kharif     ,Jowar
+Gujarat,DANG,1998,Kharif     ,Maize
+Gujarat,DANG,1998,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,1998,Kharif     ,Other Kharif pulses
+Gujarat,DANG,1998,Kharif     ,Ragi
+Gujarat,DANG,1998,Kharif     ,Rice
+Gujarat,DANG,1998,Kharif     ,Small millets
+Gujarat,DANG,1998,Kharif     ,Urad
+Gujarat,DANG,1999,Kharif     ,Arhar/Tur
+Gujarat,DANG,1999,Kharif     ,Groundnut
+Gujarat,DANG,1999,Kharif     ,Jowar
+Gujarat,DANG,1999,Kharif     ,Maize
+Gujarat,DANG,1999,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,1999,Kharif     ,Other Kharif pulses
+Gujarat,DANG,1999,Kharif     ,Ragi
+Gujarat,DANG,1999,Kharif     ,Rice
+Gujarat,DANG,1999,Kharif     ,Small millets
+Gujarat,DANG,1999,Kharif     ,Urad
+Gujarat,DANG,2000,Kharif     ,Arhar/Tur
+Gujarat,DANG,2000,Kharif     ,Groundnut
+Gujarat,DANG,2000,Kharif     ,Jowar
+Gujarat,DANG,2000,Kharif     ,Maize
+Gujarat,DANG,2000,Kharif     ,Moong(Green Gram)
+Gujarat,DANG,2000,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,2000,Kharif     ,Other Kharif pulses
+Gujarat,DANG,2000,Kharif     ,Ragi
+Gujarat,DANG,2000,Kharif     ,Rice
+Gujarat,DANG,2000,Kharif     ,Small millets
+Gujarat,DANG,2000,Kharif     ,Urad
+Gujarat,DANG,2001,Kharif     ,Arhar/Tur
+Gujarat,DANG,2001,Kharif     ,Groundnut
+Gujarat,DANG,2001,Kharif     ,Jowar
+Gujarat,DANG,2001,Kharif     ,Maize
+Gujarat,DANG,2001,Kharif     ,Other Kharif pulses
+Gujarat,DANG,2001,Kharif     ,Ragi
+Gujarat,DANG,2001,Kharif     ,Rice
+Gujarat,DANG,2001,Kharif     ,Small millets
+Gujarat,DANG,2001,Kharif     ,Urad
+Gujarat,DANG,2002,Kharif     ,Arhar/Tur
+Gujarat,DANG,2002,Kharif     ,Groundnut
+Gujarat,DANG,2002,Kharif     ,Jowar
+Gujarat,DANG,2002,Kharif     ,Maize
+Gujarat,DANG,2002,Kharif     ,Other Kharif pulses
+Gujarat,DANG,2002,Kharif     ,Ragi
+Gujarat,DANG,2002,Kharif     ,Rice
+Gujarat,DANG,2002,Kharif     ,Small millets
+Gujarat,DANG,2002,Kharif     ,Urad
+Gujarat,DANG,2003,Kharif     ,Arhar/Tur
+Gujarat,DANG,2003,Kharif     ,Groundnut
+Gujarat,DANG,2003,Kharif     ,Jowar
+Gujarat,DANG,2003,Kharif     ,Other Kharif pulses
+Gujarat,DANG,2003,Kharif     ,Ragi
+Gujarat,DANG,2003,Kharif     ,Rice
+Gujarat,DANG,2003,Kharif     ,Urad
+Gujarat,DANG,2004,Kharif     ,Arhar/Tur
+Gujarat,DANG,2004,Kharif     ,Groundnut
+Gujarat,DANG,2004,Kharif     ,Jowar
+Gujarat,DANG,2004,Kharif     ,Maize
+Gujarat,DANG,2004,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,2004,Kharif     ,Other Kharif pulses
+Gujarat,DANG,2004,Kharif     ,Ragi
+Gujarat,DANG,2004,Kharif     ,Rice
+Gujarat,DANG,2004,Kharif     ,Small millets
+Gujarat,DANG,2004,Kharif     ,Urad
+Gujarat,DANG,2005,Kharif     ,Arhar/Tur
+Gujarat,DANG,2005,Kharif     ,Groundnut
+Gujarat,DANG,2005,Kharif     ,Jowar
+Gujarat,DANG,2005,Kharif     ,Maize
+Gujarat,DANG,2005,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,2005,Kharif     ,Other Kharif pulses
+Gujarat,DANG,2005,Kharif     ,Ragi
+Gujarat,DANG,2005,Kharif     ,Rice
+Gujarat,DANG,2005,Kharif     ,Urad
+Gujarat,DANG,2006,Kharif     ,Arhar/Tur
+Gujarat,DANG,2006,Kharif     ,Groundnut
+Gujarat,DANG,2006,Kharif     ,Jowar
+Gujarat,DANG,2006,Kharif     ,Maize
+Gujarat,DANG,2006,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,2006,Kharif     ,Other Kharif pulses
+Gujarat,DANG,2006,Kharif     ,Ragi
+Gujarat,DANG,2006,Kharif     ,Rice
+Gujarat,DANG,2006,Kharif     ,Urad
+Gujarat,DANG,2007,Kharif     ,Arhar/Tur
+Gujarat,DANG,2007,Kharif     ,Groundnut
+Gujarat,DANG,2007,Kharif     ,Jowar
+Gujarat,DANG,2007,Kharif     ,Maize
+Gujarat,DANG,2007,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,2007,Kharif     ,Ragi
+Gujarat,DANG,2007,Kharif     ,Rice
+Gujarat,DANG,2007,Kharif     ,Urad
+Gujarat,DANG,2008,Kharif     ,Arhar/Tur
+Gujarat,DANG,2008,Kharif     ,Groundnut
+Gujarat,DANG,2008,Kharif     ,Jowar
+Gujarat,DANG,2008,Kharif     ,Maize
+Gujarat,DANG,2008,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,2008,Kharif     ,Ragi
+Gujarat,DANG,2008,Kharif     ,Rice
+Gujarat,DANG,2008,Kharif     ,Urad
+Gujarat,DANG,2009,Kharif     ,Arhar/Tur
+Gujarat,DANG,2009,Kharif     ,Groundnut
+Gujarat,DANG,2009,Kharif     ,Jowar
+Gujarat,DANG,2009,Kharif     ,Maize
+Gujarat,DANG,2009,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,2009,Kharif     ,Ragi
+Gujarat,DANG,2009,Kharif     ,Rice
+Gujarat,DANG,2009,Kharif     ,Urad
+Gujarat,DANG,2010,Kharif     ,Arhar/Tur
+Gujarat,DANG,2010,Kharif     ,Groundnut
+Gujarat,DANG,2010,Kharif     ,Jowar
+Gujarat,DANG,2010,Kharif     ,Maize
+Gujarat,DANG,2010,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,2010,Kharif     ,other oilseeds
+Gujarat,DANG,2010,Kharif     ,Ragi
+Gujarat,DANG,2010,Kharif     ,Rice
+Gujarat,DANG,2010,Kharif     ,Soyabean
+Gujarat,DANG,2010,Kharif     ,Urad
+Gujarat,DANG,2011,Kharif     ,Arhar/Tur
+Gujarat,DANG,2011,Kharif     ,Groundnut
+Gujarat,DANG,2011,Kharif     ,Jowar
+Gujarat,DANG,2011,Kharif     ,Maize
+Gujarat,DANG,2011,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,2011,Kharif     ,Other Kharif pulses
+Gujarat,DANG,2011,Kharif     ,Ragi
+Gujarat,DANG,2011,Kharif     ,Rice
+Gujarat,DANG,2011,Kharif     ,Urad
+Gujarat,DANG,2012,Kharif     ,Arhar/Tur
+Gujarat,DANG,2012,Kharif     ,Jowar
+Gujarat,DANG,2012,Kharif     ,Maize
+Gujarat,DANG,2012,Kharif     ,Other Cereals & Millets
+Gujarat,DANG,2012,Kharif     ,Ragi
+Gujarat,DANG,2012,Kharif     ,Rice
+Gujarat,DANG,2012,Kharif     ,Soyabean
+Gujarat,DANG,2012,Kharif     ,Urad
+Gujarat,DOHAD,2003,Kharif     ,Arhar/Tur
+Gujarat,DOHAD,2003,Kharif     ,Bajra
+Gujarat,DOHAD,2003,Kharif     ,Castor seed
+Gujarat,DOHAD,2003,Kharif     ,Cotton(lint)
+Gujarat,DOHAD,2003,Kharif     ,Groundnut
+Gujarat,DOHAD,2003,Kharif     ,Jowar
+Gujarat,DOHAD,2003,Kharif     ,Maize
+Gujarat,DOHAD,2003,Kharif     ,Moong(Green Gram)
+Gujarat,DOHAD,2003,Kharif     ,Other Kharif pulses
+Gujarat,DOHAD,2003,Kharif     ,Rice
+Gujarat,DOHAD,2003,Kharif     ,Sesamum
+Gujarat,DOHAD,2003,Kharif     ,Small millets
+Gujarat,DOHAD,2003,Kharif     ,Urad
+Gujarat,DOHAD,2004,Kharif     ,Arhar/Tur
+Gujarat,DOHAD,2004,Kharif     ,Castor seed
+Gujarat,DOHAD,2004,Kharif     ,Cotton(lint)
+Gujarat,DOHAD,2004,Kharif     ,Groundnut
+Gujarat,DOHAD,2004,Kharif     ,Jowar
+Gujarat,DOHAD,2004,Kharif     ,Maize
+Gujarat,DOHAD,2004,Kharif     ,Moong(Green Gram)
+Gujarat,DOHAD,2004,Kharif     ,Other Cereals & Millets
+Gujarat,DOHAD,2004,Kharif     ,Other Kharif pulses
+Gujarat,DOHAD,2004,Kharif     ,Rice
+Gujarat,DOHAD,2004,Kharif     ,Sesamum
+Gujarat,DOHAD,2004,Kharif     ,Small millets
+Gujarat,DOHAD,2004,Kharif     ,Urad
+Gujarat,DOHAD,2005,Kharif     ,Arhar/Tur
+Gujarat,DOHAD,2005,Kharif     ,Castor seed
+Gujarat,DOHAD,2005,Kharif     ,Cotton(lint)
+Gujarat,DOHAD,2005,Kharif     ,Groundnut
+Gujarat,DOHAD,2005,Kharif     ,Jowar
+Gujarat,DOHAD,2005,Kharif     ,Maize
+Gujarat,DOHAD,2005,Kharif     ,Moong(Green Gram)
+Gujarat,DOHAD,2005,Kharif     ,Other Cereals & Millets
+Gujarat,DOHAD,2005,Kharif     ,Other Kharif pulses
+Gujarat,DOHAD,2005,Kharif     ,Rice
+Gujarat,DOHAD,2005,Kharif     ,Sesamum
+Gujarat,DOHAD,2005,Kharif     ,Urad
+Gujarat,DOHAD,2006,Kharif     ,Arhar/Tur
+Gujarat,DOHAD,2006,Kharif     ,Castor seed
+Gujarat,DOHAD,2006,Kharif     ,Cotton(lint)
+Gujarat,DOHAD,2006,Kharif     ,Groundnut
+Gujarat,DOHAD,2006,Kharif     ,Jowar
+Gujarat,DOHAD,2006,Kharif     ,Maize
+Gujarat,DOHAD,2006,Kharif     ,Moong(Green Gram)
+Gujarat,DOHAD,2006,Kharif     ,Other Cereals & Millets
+Gujarat,DOHAD,2006,Kharif     ,Other Kharif pulses
+Gujarat,DOHAD,2006,Kharif     ,Rice
+Gujarat,DOHAD,2006,Kharif     ,Sesamum
+Gujarat,DOHAD,2006,Kharif     ,Urad
+Gujarat,DOHAD,2007,Kharif     ,Arhar/Tur
+Gujarat,DOHAD,2007,Kharif     ,Castor seed
+Gujarat,DOHAD,2007,Kharif     ,Cotton(lint)
+Gujarat,DOHAD,2007,Kharif     ,Groundnut
+Gujarat,DOHAD,2007,Kharif     ,Jowar
+Gujarat,DOHAD,2007,Kharif     ,Maize
+Gujarat,DOHAD,2007,Kharif     ,Moong(Green Gram)
+Gujarat,DOHAD,2007,Kharif     ,Other Cereals & Millets
+Gujarat,DOHAD,2007,Kharif     ,Other Kharif pulses
+Gujarat,DOHAD,2007,Kharif     ,Rice
+Gujarat,DOHAD,2007,Kharif     ,Sesamum
+Gujarat,DOHAD,2007,Kharif     ,Urad
+Gujarat,DOHAD,2008,Kharif     ,Arhar/Tur
+Gujarat,DOHAD,2008,Kharif     ,Castor seed
+Gujarat,DOHAD,2008,Kharif     ,Cotton(lint)
+Gujarat,DOHAD,2008,Kharif     ,Groundnut
+Gujarat,DOHAD,2008,Kharif     ,Jowar
+Gujarat,DOHAD,2008,Kharif     ,Maize
+Gujarat,DOHAD,2008,Kharif     ,Moong(Green Gram)
+Gujarat,DOHAD,2008,Kharif     ,Other Cereals & Millets
+Gujarat,DOHAD,2008,Kharif     ,Other Kharif pulses
+Gujarat,DOHAD,2008,Kharif     ,Rice
+Gujarat,DOHAD,2008,Kharif     ,Sesamum
+Gujarat,DOHAD,2008,Kharif     ,Urad
+Gujarat,DOHAD,2009,Kharif     ,Arhar/Tur
+Gujarat,DOHAD,2009,Kharif     ,Castor seed
+Gujarat,DOHAD,2009,Kharif     ,Cotton(lint)
+Gujarat,DOHAD,2009,Kharif     ,Groundnut
+Gujarat,DOHAD,2009,Kharif     ,Jowar
+Gujarat,DOHAD,2009,Kharif     ,Maize
+Gujarat,DOHAD,2009,Kharif     ,Moong(Green Gram)
+Gujarat,DOHAD,2009,Kharif     ,Other Cereals & Millets
+Gujarat,DOHAD,2009,Kharif     ,Other Kharif pulses
+Gujarat,DOHAD,2009,Kharif     ,Rice
+Gujarat,DOHAD,2009,Kharif     ,Sesamum
+Gujarat,DOHAD,2009,Kharif     ,Urad
+Gujarat,DOHAD,2010,Kharif     ,Arhar/Tur
+Gujarat,DOHAD,2010,Kharif     ,Castor seed
+Gujarat,DOHAD,2010,Kharif     ,Cotton(lint)
+Gujarat,DOHAD,2010,Kharif     ,Groundnut
+Gujarat,DOHAD,2010,Kharif     ,Jowar
+Gujarat,DOHAD,2010,Kharif     ,Maize
+Gujarat,DOHAD,2010,Kharif     ,Moong(Green Gram)
+Gujarat,DOHAD,2010,Kharif     ,Other Cereals & Millets
+Gujarat,DOHAD,2010,Kharif     ,Other Kharif pulses
+Gujarat,DOHAD,2010,Kharif     ,other oilseeds
+Gujarat,DOHAD,2010,Kharif     ,Rice
+Gujarat,DOHAD,2010,Kharif     ,Sesamum
+Gujarat,DOHAD,2010,Kharif     ,Soyabean
+Gujarat,DOHAD,2010,Kharif     ,Urad
+Gujarat,DOHAD,2011,Kharif     ,Arhar/Tur
+Gujarat,DOHAD,2011,Kharif     ,Castor seed
+Gujarat,DOHAD,2011,Kharif     ,Cotton(lint)
+Gujarat,DOHAD,2011,Kharif     ,Groundnut
+Gujarat,DOHAD,2011,Kharif     ,Jowar
+Gujarat,DOHAD,2011,Kharif     ,Maize
+Gujarat,DOHAD,2011,Kharif     ,Moong(Green Gram)
+Gujarat,DOHAD,2011,Kharif     ,Other Cereals & Millets
+Gujarat,DOHAD,2011,Kharif     ,Other Kharif pulses
+Gujarat,DOHAD,2011,Kharif     ,Rice
+Gujarat,DOHAD,2011,Kharif     ,Sesamum
+Gujarat,DOHAD,2011,Kharif     ,Soyabean
+Gujarat,DOHAD,2011,Kharif     ,Urad
+Gujarat,DOHAD,2012,Kharif     ,Arhar/Tur
+Gujarat,DOHAD,2012,Kharif     ,Castor seed
+Gujarat,DOHAD,2012,Kharif     ,Cotton(lint)
+Gujarat,DOHAD,2012,Kharif     ,Groundnut
+Gujarat,DOHAD,2012,Kharif     ,Jowar
+Gujarat,DOHAD,2012,Kharif     ,Maize
+Gujarat,DOHAD,2012,Kharif     ,Moong(Green Gram)
+Gujarat,DOHAD,2012,Kharif     ,Other Cereals & Millets
+Gujarat,DOHAD,2012,Kharif     ,Other Kharif pulses
+Gujarat,DOHAD,2012,Kharif     ,Rice
+Gujarat,DOHAD,2012,Kharif     ,Sesamum
+Gujarat,DOHAD,2012,Kharif     ,Soyabean
+Gujarat,DOHAD,2012,Kharif     ,Urad
+Gujarat,GANDHINAGAR,1997,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,1997,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,1997,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,1997,Kharif     ,Dry chillies
+Gujarat,GANDHINAGAR,1997,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,1997,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,1998,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,1998,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,1998,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,1998,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,1998,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,1998,Kharif     ,Jowar
+Gujarat,GANDHINAGAR,1998,Kharif     ,Maize
+Gujarat,GANDHINAGAR,1998,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,1998,Kharif     ,Rice
+Gujarat,GANDHINAGAR,1998,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,1999,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,1999,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,1999,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,1999,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,1999,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,1999,Kharif     ,Maize
+Gujarat,GANDHINAGAR,1999,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,1999,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,1999,Kharif     ,Rice
+Gujarat,GANDHINAGAR,1999,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2000,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2000,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2000,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2000,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2000,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2000,Kharif     ,Jowar
+Gujarat,GANDHINAGAR,2000,Kharif     ,Maize
+Gujarat,GANDHINAGAR,2000,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2000,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2000,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2000,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2001,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2001,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2001,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2001,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2001,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2001,Kharif     ,Jowar
+Gujarat,GANDHINAGAR,2001,Kharif     ,Maize
+Gujarat,GANDHINAGAR,2001,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2001,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2001,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2001,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2001,Kharif     ,Urad
+Gujarat,GANDHINAGAR,2002,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2002,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2002,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2002,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2002,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2002,Kharif     ,Maize
+Gujarat,GANDHINAGAR,2002,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2002,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2002,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2002,Kharif     ,Urad
+Gujarat,GANDHINAGAR,2003,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2003,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2003,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2003,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2003,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2003,Kharif     ,Jowar
+Gujarat,GANDHINAGAR,2003,Kharif     ,Maize
+Gujarat,GANDHINAGAR,2003,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2003,Kharif     ,Moth
+Gujarat,GANDHINAGAR,2003,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2003,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2003,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2003,Kharif     ,Small millets
+Gujarat,GANDHINAGAR,2003,Kharif     ,Urad
+Gujarat,GANDHINAGAR,2004,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2004,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2004,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2004,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2004,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2004,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2004,Kharif     ,Other Cereals & Millets
+Gujarat,GANDHINAGAR,2004,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2004,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2004,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2004,Kharif     ,Small millets
+Gujarat,GANDHINAGAR,2004,Kharif     ,Urad
+Gujarat,GANDHINAGAR,2005,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2005,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2005,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2005,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2005,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2005,Kharif     ,Jowar
+Gujarat,GANDHINAGAR,2005,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2005,Kharif     ,Moth
+Gujarat,GANDHINAGAR,2005,Kharif     ,Other Cereals & Millets
+Gujarat,GANDHINAGAR,2005,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2005,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2005,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2005,Kharif     ,Urad
+Gujarat,GANDHINAGAR,2006,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2006,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2006,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2006,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2006,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2006,Kharif     ,Jowar
+Gujarat,GANDHINAGAR,2006,Kharif     ,Maize
+Gujarat,GANDHINAGAR,2006,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2006,Kharif     ,Moth
+Gujarat,GANDHINAGAR,2006,Kharif     ,Other Cereals & Millets
+Gujarat,GANDHINAGAR,2006,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2006,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2006,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2006,Kharif     ,Urad
+Gujarat,GANDHINAGAR,2007,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2007,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2007,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2007,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2007,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2007,Kharif     ,Jowar
+Gujarat,GANDHINAGAR,2007,Kharif     ,Maize
+Gujarat,GANDHINAGAR,2007,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2007,Kharif     ,Moth
+Gujarat,GANDHINAGAR,2007,Kharif     ,Other Cereals & Millets
+Gujarat,GANDHINAGAR,2007,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2007,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2007,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2007,Kharif     ,Urad
+Gujarat,GANDHINAGAR,2008,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2008,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2008,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2008,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2008,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2008,Kharif     ,Maize
+Gujarat,GANDHINAGAR,2008,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2008,Kharif     ,Moth
+Gujarat,GANDHINAGAR,2008,Kharif     ,Other Cereals & Millets
+Gujarat,GANDHINAGAR,2008,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2008,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2008,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2008,Kharif     ,Tobacco
+Gujarat,GANDHINAGAR,2008,Kharif     ,Urad
+Gujarat,GANDHINAGAR,2009,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2009,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2009,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2009,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2009,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2009,Kharif     ,Jowar
+Gujarat,GANDHINAGAR,2009,Kharif     ,Maize
+Gujarat,GANDHINAGAR,2009,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2009,Kharif     ,Moth
+Gujarat,GANDHINAGAR,2009,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2009,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2009,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2009,Kharif     ,Urad
+Gujarat,GANDHINAGAR,2010,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2010,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2010,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2010,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2010,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2010,Kharif     ,Jowar
+Gujarat,GANDHINAGAR,2010,Kharif     ,Maize
+Gujarat,GANDHINAGAR,2010,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2010,Kharif     ,Moth
+Gujarat,GANDHINAGAR,2010,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2010,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2010,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2010,Kharif     ,Tobacco
+Gujarat,GANDHINAGAR,2010,Kharif     ,Urad
+Gujarat,GANDHINAGAR,2011,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2011,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2011,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2011,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2011,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2011,Kharif     ,Jowar
+Gujarat,GANDHINAGAR,2011,Kharif     ,Maize
+Gujarat,GANDHINAGAR,2011,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2011,Kharif     ,Moth
+Gujarat,GANDHINAGAR,2011,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2011,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2011,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2011,Kharif     ,Urad
+Gujarat,GANDHINAGAR,2012,Kharif     ,Arhar/Tur
+Gujarat,GANDHINAGAR,2012,Kharif     ,Bajra
+Gujarat,GANDHINAGAR,2012,Kharif     ,Castor seed
+Gujarat,GANDHINAGAR,2012,Kharif     ,Cotton(lint)
+Gujarat,GANDHINAGAR,2012,Kharif     ,Groundnut
+Gujarat,GANDHINAGAR,2012,Kharif     ,Jowar
+Gujarat,GANDHINAGAR,2012,Kharif     ,Maize
+Gujarat,GANDHINAGAR,2012,Kharif     ,Moong(Green Gram)
+Gujarat,GANDHINAGAR,2012,Kharif     ,Other Kharif pulses
+Gujarat,GANDHINAGAR,2012,Kharif     ,Rice
+Gujarat,GANDHINAGAR,2012,Kharif     ,Sesamum
+Gujarat,GANDHINAGAR,2012,Kharif     ,Urad
+Gujarat,JAMNAGAR,1997,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,1997,Kharif     ,Bajra
+Gujarat,JAMNAGAR,1997,Kharif     ,Dry chillies
+Gujarat,JAMNAGAR,1997,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,1997,Kharif     ,Jowar
+Gujarat,JAMNAGAR,1997,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,1997,Kharif     ,Moth
+Gujarat,JAMNAGAR,1997,Kharif     ,Urad
+Gujarat,JAMNAGAR,1998,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,1998,Kharif     ,Bajra
+Gujarat,JAMNAGAR,1998,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,1998,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,1998,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,1998,Kharif     ,Jowar
+Gujarat,JAMNAGAR,1998,Kharif     ,Maize
+Gujarat,JAMNAGAR,1998,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,1998,Kharif     ,Moth
+Gujarat,JAMNAGAR,1998,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,1998,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,1998,Kharif     ,Urad
+Gujarat,JAMNAGAR,1999,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,1999,Kharif     ,Bajra
+Gujarat,JAMNAGAR,1999,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,1999,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,1999,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,1999,Kharif     ,Jowar
+Gujarat,JAMNAGAR,1999,Kharif     ,Maize
+Gujarat,JAMNAGAR,1999,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,1999,Kharif     ,Moth
+Gujarat,JAMNAGAR,1999,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,1999,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,1999,Kharif     ,Urad
+Gujarat,JAMNAGAR,2000,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2000,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2000,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2000,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2000,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2000,Kharif     ,Jowar
+Gujarat,JAMNAGAR,2000,Kharif     ,Maize
+Gujarat,JAMNAGAR,2000,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2000,Kharif     ,Moth
+Gujarat,JAMNAGAR,2000,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,2000,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2000,Kharif     ,Urad
+Gujarat,JAMNAGAR,2001,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2001,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2001,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2001,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2001,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2001,Kharif     ,Jowar
+Gujarat,JAMNAGAR,2001,Kharif     ,Maize
+Gujarat,JAMNAGAR,2001,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2001,Kharif     ,Moth
+Gujarat,JAMNAGAR,2001,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,2001,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2001,Kharif     ,Urad
+Gujarat,JAMNAGAR,2002,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2002,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2002,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2002,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2002,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2002,Kharif     ,Jowar
+Gujarat,JAMNAGAR,2002,Kharif     ,Maize
+Gujarat,JAMNAGAR,2002,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2002,Kharif     ,Moth
+Gujarat,JAMNAGAR,2002,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2002,Kharif     ,Urad
+Gujarat,JAMNAGAR,2003,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2003,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2003,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2003,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2003,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2003,Kharif     ,Jowar
+Gujarat,JAMNAGAR,2003,Kharif     ,Maize
+Gujarat,JAMNAGAR,2003,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2003,Kharif     ,Moth
+Gujarat,JAMNAGAR,2003,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2003,Kharif     ,Urad
+Gujarat,JAMNAGAR,2004,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2004,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2004,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2004,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2004,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2004,Kharif     ,Jowar
+Gujarat,JAMNAGAR,2004,Kharif     ,Maize
+Gujarat,JAMNAGAR,2004,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2004,Kharif     ,Moth
+Gujarat,JAMNAGAR,2004,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2004,Kharif     ,Urad
+Gujarat,JAMNAGAR,2005,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2005,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2005,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2005,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2005,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2005,Kharif     ,Jowar
+Gujarat,JAMNAGAR,2005,Kharif     ,Maize
+Gujarat,JAMNAGAR,2005,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2005,Kharif     ,Moth
+Gujarat,JAMNAGAR,2005,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,2005,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2005,Kharif     ,Urad
+Gujarat,JAMNAGAR,2006,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2006,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2006,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2006,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2006,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2006,Kharif     ,Jowar
+Gujarat,JAMNAGAR,2006,Kharif     ,Maize
+Gujarat,JAMNAGAR,2006,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2006,Kharif     ,Moth
+Gujarat,JAMNAGAR,2006,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,2006,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2006,Kharif     ,Urad
+Gujarat,JAMNAGAR,2007,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2007,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2007,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2007,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2007,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2007,Kharif     ,Jowar
+Gujarat,JAMNAGAR,2007,Kharif     ,Maize
+Gujarat,JAMNAGAR,2007,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2007,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,2007,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2007,Kharif     ,Urad
+Gujarat,JAMNAGAR,2008,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2008,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2008,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2008,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2008,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2008,Kharif     ,Maize
+Gujarat,JAMNAGAR,2008,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2008,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,2008,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2008,Kharif     ,Urad
+Gujarat,JAMNAGAR,2009,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2009,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2009,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2009,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2009,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2009,Kharif     ,Jowar
+Gujarat,JAMNAGAR,2009,Kharif     ,Maize
+Gujarat,JAMNAGAR,2009,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2009,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,2009,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2009,Kharif     ,Urad
+Gujarat,JAMNAGAR,2010,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2010,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2010,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2010,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2010,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2010,Kharif     ,Maize
+Gujarat,JAMNAGAR,2010,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2010,Kharif     ,Moth
+Gujarat,JAMNAGAR,2010,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,2010,Kharif     ,other oilseeds
+Gujarat,JAMNAGAR,2010,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2010,Kharif     ,Soyabean
+Gujarat,JAMNAGAR,2010,Kharif     ,Urad
+Gujarat,JAMNAGAR,2011,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2011,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2011,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2011,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2011,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2011,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2011,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,2011,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2011,Kharif     ,Urad
+Gujarat,JAMNAGAR,2012,Kharif     ,Arhar/Tur
+Gujarat,JAMNAGAR,2012,Kharif     ,Bajra
+Gujarat,JAMNAGAR,2012,Kharif     ,Castor seed
+Gujarat,JAMNAGAR,2012,Kharif     ,Cotton(lint)
+Gujarat,JAMNAGAR,2012,Kharif     ,Groundnut
+Gujarat,JAMNAGAR,2012,Kharif     ,Moong(Green Gram)
+Gujarat,JAMNAGAR,2012,Kharif     ,Other Kharif pulses
+Gujarat,JAMNAGAR,2012,Kharif     ,Sesamum
+Gujarat,JAMNAGAR,2012,Kharif     ,Urad
+Gujarat,JUNAGADH,1997,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,1997,Kharif     ,Bajra
+Gujarat,JUNAGADH,1997,Kharif     ,Dry chillies
+Gujarat,JUNAGADH,1997,Kharif     ,Groundnut
+Gujarat,JUNAGADH,1997,Kharif     ,Jowar
+Gujarat,JUNAGADH,1997,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,1997,Kharif     ,Other Kharif pulses
+Gujarat,JUNAGADH,1997,Kharif     ,Urad
+Gujarat,JUNAGADH,1998,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,1998,Kharif     ,Bajra
+Gujarat,JUNAGADH,1998,Kharif     ,Castor seed
+Gujarat,JUNAGADH,1998,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,1998,Kharif     ,Groundnut
+Gujarat,JUNAGADH,1998,Kharif     ,Jowar
+Gujarat,JUNAGADH,1998,Kharif     ,Maize
+Gujarat,JUNAGADH,1998,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,1998,Kharif     ,Sesamum
+Gujarat,JUNAGADH,1998,Kharif     ,Urad
+Gujarat,JUNAGADH,1999,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,1999,Kharif     ,Bajra
+Gujarat,JUNAGADH,1999,Kharif     ,Castor seed
+Gujarat,JUNAGADH,1999,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,1999,Kharif     ,Groundnut
+Gujarat,JUNAGADH,1999,Kharif     ,Jowar
+Gujarat,JUNAGADH,1999,Kharif     ,Maize
+Gujarat,JUNAGADH,1999,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,1999,Kharif     ,Sesamum
+Gujarat,JUNAGADH,1999,Kharif     ,Urad
+Gujarat,JUNAGADH,2000,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2000,Kharif     ,Bajra
+Gujarat,JUNAGADH,2000,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2000,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2000,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2000,Kharif     ,Jowar
+Gujarat,JUNAGADH,2000,Kharif     ,Maize
+Gujarat,JUNAGADH,2000,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2000,Kharif     ,Other Cereals & Millets
+Gujarat,JUNAGADH,2000,Kharif     ,Other Kharif pulses
+Gujarat,JUNAGADH,2000,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2000,Kharif     ,Small millets
+Gujarat,JUNAGADH,2000,Kharif     ,Urad
+Gujarat,JUNAGADH,2001,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2001,Kharif     ,Bajra
+Gujarat,JUNAGADH,2001,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2001,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2001,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2001,Kharif     ,Jowar
+Gujarat,JUNAGADH,2001,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2001,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2001,Kharif     ,Urad
+Gujarat,JUNAGADH,2002,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2002,Kharif     ,Bajra
+Gujarat,JUNAGADH,2002,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2002,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2002,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2002,Kharif     ,Jowar
+Gujarat,JUNAGADH,2002,Kharif     ,Maize
+Gujarat,JUNAGADH,2002,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2002,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2002,Kharif     ,Small millets
+Gujarat,JUNAGADH,2002,Kharif     ,Urad
+Gujarat,JUNAGADH,2003,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2003,Kharif     ,Bajra
+Gujarat,JUNAGADH,2003,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2003,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2003,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2003,Kharif     ,Jowar
+Gujarat,JUNAGADH,2003,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2003,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2003,Kharif     ,Urad
+Gujarat,JUNAGADH,2004,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2004,Kharif     ,Bajra
+Gujarat,JUNAGADH,2004,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2004,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2004,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2004,Kharif     ,Jowar
+Gujarat,JUNAGADH,2004,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2004,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2004,Kharif     ,Urad
+Gujarat,JUNAGADH,2005,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2005,Kharif     ,Bajra
+Gujarat,JUNAGADH,2005,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2005,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2005,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2005,Kharif     ,Jowar
+Gujarat,JUNAGADH,2005,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2005,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2005,Kharif     ,Urad
+Gujarat,JUNAGADH,2006,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2006,Kharif     ,Bajra
+Gujarat,JUNAGADH,2006,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2006,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2006,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2006,Kharif     ,Jowar
+Gujarat,JUNAGADH,2006,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2006,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2006,Kharif     ,Urad
+Gujarat,JUNAGADH,2007,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2007,Kharif     ,Bajra
+Gujarat,JUNAGADH,2007,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2007,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2007,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2007,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2007,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2007,Kharif     ,Urad
+Gujarat,JUNAGADH,2008,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2008,Kharif     ,Bajra
+Gujarat,JUNAGADH,2008,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2008,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2008,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2008,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2008,Kharif     ,Other Kharif pulses
+Gujarat,JUNAGADH,2008,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2008,Kharif     ,Urad
+Gujarat,JUNAGADH,2009,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2009,Kharif     ,Bajra
+Gujarat,JUNAGADH,2009,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2009,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2009,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2009,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2009,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2009,Kharif     ,Urad
+Gujarat,JUNAGADH,2010,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2010,Kharif     ,Bajra
+Gujarat,JUNAGADH,2010,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2010,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2010,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2010,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2010,Kharif     ,other oilseeds
+Gujarat,JUNAGADH,2010,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2010,Kharif     ,Soyabean
+Gujarat,JUNAGADH,2010,Kharif     ,Urad
+Gujarat,JUNAGADH,2011,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2011,Kharif     ,Bajra
+Gujarat,JUNAGADH,2011,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2011,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2011,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2011,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2011,Kharif     ,Rice
+Gujarat,JUNAGADH,2011,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2011,Kharif     ,Urad
+Gujarat,JUNAGADH,2012,Kharif     ,Arhar/Tur
+Gujarat,JUNAGADH,2012,Kharif     ,Bajra
+Gujarat,JUNAGADH,2012,Kharif     ,Castor seed
+Gujarat,JUNAGADH,2012,Kharif     ,Cotton(lint)
+Gujarat,JUNAGADH,2012,Kharif     ,Groundnut
+Gujarat,JUNAGADH,2012,Kharif     ,Moong(Green Gram)
+Gujarat,JUNAGADH,2012,Kharif     ,Other Cereals & Millets
+Gujarat,JUNAGADH,2012,Kharif     ,Sesamum
+Gujarat,JUNAGADH,2012,Kharif     ,Urad
+Gujarat,KACHCHH,1997,Kharif     ,Arhar/Tur
+Gujarat,KACHCHH,1997,Kharif     ,Bajra
+Gujarat,KACHCHH,1997,Kharif     ,Dry chillies
+Gujarat,KACHCHH,1997,Kharif     ,Groundnut
+Gujarat,KACHCHH,1997,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,1997,Kharif     ,Moth
+Gujarat,KACHCHH,1998,Kharif     ,Bajra
+Gujarat,KACHCHH,1998,Kharif     ,Castor seed
+Gujarat,KACHCHH,1998,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,1998,Kharif     ,Groundnut
+Gujarat,KACHCHH,1998,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,1998,Kharif     ,Moth
+Gujarat,KACHCHH,1998,Kharif     ,Sesamum
+Gujarat,KACHCHH,1999,Kharif     ,Bajra
+Gujarat,KACHCHH,1999,Kharif     ,Castor seed
+Gujarat,KACHCHH,1999,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,1999,Kharif     ,Groundnut
+Gujarat,KACHCHH,1999,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,1999,Kharif     ,Moth
+Gujarat,KACHCHH,1999,Kharif     ,Sesamum
+Gujarat,KACHCHH,2000,Kharif     ,Bajra
+Gujarat,KACHCHH,2000,Kharif     ,Castor seed
+Gujarat,KACHCHH,2000,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2000,Kharif     ,Groundnut
+Gujarat,KACHCHH,2000,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2000,Kharif     ,Moth
+Gujarat,KACHCHH,2000,Kharif     ,Sesamum
+Gujarat,KACHCHH,2001,Kharif     ,Bajra
+Gujarat,KACHCHH,2001,Kharif     ,Castor seed
+Gujarat,KACHCHH,2001,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2001,Kharif     ,Groundnut
+Gujarat,KACHCHH,2001,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2001,Kharif     ,Moth
+Gujarat,KACHCHH,2001,Kharif     ,Other Kharif pulses
+Gujarat,KACHCHH,2001,Kharif     ,Sesamum
+Gujarat,KACHCHH,2002,Kharif     ,Arhar/Tur
+Gujarat,KACHCHH,2002,Kharif     ,Bajra
+Gujarat,KACHCHH,2002,Kharif     ,Castor seed
+Gujarat,KACHCHH,2002,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2002,Kharif     ,Groundnut
+Gujarat,KACHCHH,2002,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2002,Kharif     ,Moth
+Gujarat,KACHCHH,2002,Kharif     ,Other Kharif pulses
+Gujarat,KACHCHH,2002,Kharif     ,Sesamum
+Gujarat,KACHCHH,2003,Kharif     ,Bajra
+Gujarat,KACHCHH,2003,Kharif     ,Castor seed
+Gujarat,KACHCHH,2003,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2003,Kharif     ,Groundnut
+Gujarat,KACHCHH,2003,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2003,Kharif     ,Moth
+Gujarat,KACHCHH,2003,Kharif     ,Other Kharif pulses
+Gujarat,KACHCHH,2003,Kharif     ,Sesamum
+Gujarat,KACHCHH,2004,Kharif     ,Bajra
+Gujarat,KACHCHH,2004,Kharif     ,Castor seed
+Gujarat,KACHCHH,2004,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2004,Kharif     ,Groundnut
+Gujarat,KACHCHH,2004,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2004,Kharif     ,Moth
+Gujarat,KACHCHH,2004,Kharif     ,Other Kharif pulses
+Gujarat,KACHCHH,2004,Kharif     ,Sesamum
+Gujarat,KACHCHH,2004,Kharif     ,Urad
+Gujarat,KACHCHH,2005,Kharif     ,Bajra
+Gujarat,KACHCHH,2005,Kharif     ,Castor seed
+Gujarat,KACHCHH,2005,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2005,Kharif     ,Groundnut
+Gujarat,KACHCHH,2005,Kharif     ,Jowar
+Gujarat,KACHCHH,2005,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2005,Kharif     ,Moth
+Gujarat,KACHCHH,2005,Kharif     ,Other Kharif pulses
+Gujarat,KACHCHH,2005,Kharif     ,Sesamum
+Gujarat,KACHCHH,2006,Kharif     ,Bajra
+Gujarat,KACHCHH,2006,Kharif     ,Castor seed
+Gujarat,KACHCHH,2006,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2006,Kharif     ,Groundnut
+Gujarat,KACHCHH,2006,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2006,Kharif     ,Moth
+Gujarat,KACHCHH,2006,Kharif     ,Sesamum
+Gujarat,KACHCHH,2006,Kharif     ,Urad
+Gujarat,KACHCHH,2007,Kharif     ,Bajra
+Gujarat,KACHCHH,2007,Kharif     ,Castor seed
+Gujarat,KACHCHH,2007,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2007,Kharif     ,Groundnut
+Gujarat,KACHCHH,2007,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2007,Kharif     ,Moth
+Gujarat,KACHCHH,2007,Kharif     ,Sesamum
+Gujarat,KACHCHH,2007,Kharif     ,Urad
+Gujarat,KACHCHH,2008,Kharif     ,Bajra
+Gujarat,KACHCHH,2008,Kharif     ,Castor seed
+Gujarat,KACHCHH,2008,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2008,Kharif     ,Groundnut
+Gujarat,KACHCHH,2008,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2008,Kharif     ,Moth
+Gujarat,KACHCHH,2008,Kharif     ,Sesamum
+Gujarat,KACHCHH,2009,Kharif     ,Bajra
+Gujarat,KACHCHH,2009,Kharif     ,Castor seed
+Gujarat,KACHCHH,2009,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2009,Kharif     ,Groundnut
+Gujarat,KACHCHH,2009,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2009,Kharif     ,Moth
+Gujarat,KACHCHH,2009,Kharif     ,Other Kharif pulses
+Gujarat,KACHCHH,2009,Kharif     ,Sesamum
+Gujarat,KACHCHH,2009,Kharif     ,Urad
+Gujarat,KACHCHH,2010,Kharif     ,Arhar/Tur
+Gujarat,KACHCHH,2010,Kharif     ,Bajra
+Gujarat,KACHCHH,2010,Kharif     ,Castor seed
+Gujarat,KACHCHH,2010,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2010,Kharif     ,Groundnut
+Gujarat,KACHCHH,2010,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2010,Kharif     ,Moth
+Gujarat,KACHCHH,2010,Kharif     ,Other Kharif pulses
+Gujarat,KACHCHH,2010,Kharif     ,other oilseeds
+Gujarat,KACHCHH,2010,Kharif     ,Sesamum
+Gujarat,KACHCHH,2010,Kharif     ,Urad
+Gujarat,KACHCHH,2011,Kharif     ,Bajra
+Gujarat,KACHCHH,2011,Kharif     ,Castor seed
+Gujarat,KACHCHH,2011,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2011,Kharif     ,Groundnut
+Gujarat,KACHCHH,2011,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2011,Kharif     ,Moth
+Gujarat,KACHCHH,2011,Kharif     ,Sesamum
+Gujarat,KACHCHH,2012,Kharif     ,Bajra
+Gujarat,KACHCHH,2012,Kharif     ,Castor seed
+Gujarat,KACHCHH,2012,Kharif     ,Cotton(lint)
+Gujarat,KACHCHH,2012,Kharif     ,Groundnut
+Gujarat,KACHCHH,2012,Kharif     ,Maize
+Gujarat,KACHCHH,2012,Kharif     ,Moong(Green Gram)
+Gujarat,KACHCHH,2012,Kharif     ,Moth
+Gujarat,KACHCHH,2012,Kharif     ,Sesamum
+Gujarat,KHEDA,1997,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,1997,Kharif     ,Bajra
+Gujarat,KHEDA,1997,Kharif     ,Dry chillies
+Gujarat,KHEDA,1997,Kharif     ,Groundnut
+Gujarat,KHEDA,1997,Kharif     ,Jowar
+Gujarat,KHEDA,1997,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,1997,Kharif     ,Moth
+Gujarat,KHEDA,1997,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,1997,Kharif     ,Urad
+Gujarat,KHEDA,1998,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,1998,Kharif     ,Bajra
+Gujarat,KHEDA,1998,Kharif     ,Castor seed
+Gujarat,KHEDA,1998,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,1998,Kharif     ,Groundnut
+Gujarat,KHEDA,1998,Kharif     ,Jowar
+Gujarat,KHEDA,1998,Kharif     ,Maize
+Gujarat,KHEDA,1998,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,1998,Kharif     ,Moth
+Gujarat,KHEDA,1998,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,1998,Kharif     ,Pulses total
+Gujarat,KHEDA,1998,Kharif     ,Rice
+Gujarat,KHEDA,1998,Kharif     ,Sesamum
+Gujarat,KHEDA,1998,Kharif     ,Urad
+Gujarat,KHEDA,1999,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,1999,Kharif     ,Bajra
+Gujarat,KHEDA,1999,Kharif     ,Castor seed
+Gujarat,KHEDA,1999,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,1999,Kharif     ,Groundnut
+Gujarat,KHEDA,1999,Kharif     ,Jowar
+Gujarat,KHEDA,1999,Kharif     ,Maize
+Gujarat,KHEDA,1999,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,1999,Kharif     ,Moth
+Gujarat,KHEDA,1999,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,1999,Kharif     ,Rice
+Gujarat,KHEDA,1999,Kharif     ,Sesamum
+Gujarat,KHEDA,1999,Kharif     ,Urad
+Gujarat,KHEDA,2000,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2000,Kharif     ,Bajra
+Gujarat,KHEDA,2000,Kharif     ,Castor seed
+Gujarat,KHEDA,2000,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2000,Kharif     ,Groundnut
+Gujarat,KHEDA,2000,Kharif     ,Jowar
+Gujarat,KHEDA,2000,Kharif     ,Maize
+Gujarat,KHEDA,2000,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2000,Kharif     ,Moth
+Gujarat,KHEDA,2000,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,2000,Kharif     ,Rice
+Gujarat,KHEDA,2000,Kharif     ,Sesamum
+Gujarat,KHEDA,2000,Kharif     ,Urad
+Gujarat,KHEDA,2001,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2001,Kharif     ,Bajra
+Gujarat,KHEDA,2001,Kharif     ,Castor seed
+Gujarat,KHEDA,2001,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2001,Kharif     ,Groundnut
+Gujarat,KHEDA,2001,Kharif     ,Jowar
+Gujarat,KHEDA,2001,Kharif     ,Maize
+Gujarat,KHEDA,2001,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2001,Kharif     ,Moth
+Gujarat,KHEDA,2001,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,2001,Kharif     ,Rice
+Gujarat,KHEDA,2001,Kharif     ,Sesamum
+Gujarat,KHEDA,2001,Kharif     ,Urad
+Gujarat,KHEDA,2002,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2002,Kharif     ,Bajra
+Gujarat,KHEDA,2002,Kharif     ,Castor seed
+Gujarat,KHEDA,2002,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2002,Kharif     ,Groundnut
+Gujarat,KHEDA,2002,Kharif     ,Jowar
+Gujarat,KHEDA,2002,Kharif     ,Maize
+Gujarat,KHEDA,2002,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2002,Kharif     ,Moth
+Gujarat,KHEDA,2002,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,2002,Kharif     ,Rice
+Gujarat,KHEDA,2002,Kharif     ,Sesamum
+Gujarat,KHEDA,2002,Kharif     ,Small millets
+Gujarat,KHEDA,2002,Kharif     ,Urad
+Gujarat,KHEDA,2003,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2003,Kharif     ,Bajra
+Gujarat,KHEDA,2003,Kharif     ,Castor seed
+Gujarat,KHEDA,2003,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2003,Kharif     ,Groundnut
+Gujarat,KHEDA,2003,Kharif     ,Jowar
+Gujarat,KHEDA,2003,Kharif     ,Maize
+Gujarat,KHEDA,2003,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2003,Kharif     ,Moth
+Gujarat,KHEDA,2003,Kharif     ,Rice
+Gujarat,KHEDA,2003,Kharif     ,Sesamum
+Gujarat,KHEDA,2003,Kharif     ,Urad
+Gujarat,KHEDA,2004,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2004,Kharif     ,Bajra
+Gujarat,KHEDA,2004,Kharif     ,Castor seed
+Gujarat,KHEDA,2004,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2004,Kharif     ,Groundnut
+Gujarat,KHEDA,2004,Kharif     ,Jowar
+Gujarat,KHEDA,2004,Kharif     ,Maize
+Gujarat,KHEDA,2004,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2004,Kharif     ,Moth
+Gujarat,KHEDA,2004,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,2004,Kharif     ,Rice
+Gujarat,KHEDA,2004,Kharif     ,Sesamum
+Gujarat,KHEDA,2004,Kharif     ,Urad
+Gujarat,KHEDA,2005,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2005,Kharif     ,Bajra
+Gujarat,KHEDA,2005,Kharif     ,Castor seed
+Gujarat,KHEDA,2005,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2005,Kharif     ,Groundnut
+Gujarat,KHEDA,2005,Kharif     ,Jowar
+Gujarat,KHEDA,2005,Kharif     ,Maize
+Gujarat,KHEDA,2005,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2005,Kharif     ,Moth
+Gujarat,KHEDA,2005,Kharif     ,Other Cereals & Millets
+Gujarat,KHEDA,2005,Kharif     ,Rice
+Gujarat,KHEDA,2005,Kharif     ,Sesamum
+Gujarat,KHEDA,2005,Kharif     ,Urad
+Gujarat,KHEDA,2006,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2006,Kharif     ,Bajra
+Gujarat,KHEDA,2006,Kharif     ,Castor seed
+Gujarat,KHEDA,2006,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2006,Kharif     ,Groundnut
+Gujarat,KHEDA,2006,Kharif     ,Jowar
+Gujarat,KHEDA,2006,Kharif     ,Maize
+Gujarat,KHEDA,2006,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2006,Kharif     ,Moth
+Gujarat,KHEDA,2006,Kharif     ,Other Cereals & Millets
+Gujarat,KHEDA,2006,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,2006,Kharif     ,Rice
+Gujarat,KHEDA,2006,Kharif     ,Sesamum
+Gujarat,KHEDA,2006,Kharif     ,Urad
+Gujarat,KHEDA,2007,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2007,Kharif     ,Bajra
+Gujarat,KHEDA,2007,Kharif     ,Castor seed
+Gujarat,KHEDA,2007,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2007,Kharif     ,Groundnut
+Gujarat,KHEDA,2007,Kharif     ,Jowar
+Gujarat,KHEDA,2007,Kharif     ,Maize
+Gujarat,KHEDA,2007,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2007,Kharif     ,Moth
+Gujarat,KHEDA,2007,Kharif     ,Other Cereals & Millets
+Gujarat,KHEDA,2007,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,2007,Kharif     ,Rice
+Gujarat,KHEDA,2007,Kharif     ,Sesamum
+Gujarat,KHEDA,2007,Kharif     ,Urad
+Gujarat,KHEDA,2008,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2008,Kharif     ,Bajra
+Gujarat,KHEDA,2008,Kharif     ,Castor seed
+Gujarat,KHEDA,2008,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2008,Kharif     ,Groundnut
+Gujarat,KHEDA,2008,Kharif     ,Jowar
+Gujarat,KHEDA,2008,Kharif     ,Maize
+Gujarat,KHEDA,2008,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2008,Kharif     ,Moth
+Gujarat,KHEDA,2008,Kharif     ,Other Cereals & Millets
+Gujarat,KHEDA,2008,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,2008,Kharif     ,Rice
+Gujarat,KHEDA,2008,Kharif     ,Sesamum
+Gujarat,KHEDA,2008,Kharif     ,Tobacco
+Gujarat,KHEDA,2008,Kharif     ,Urad
+Gujarat,KHEDA,2009,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2009,Kharif     ,Bajra
+Gujarat,KHEDA,2009,Kharif     ,Castor seed
+Gujarat,KHEDA,2009,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2009,Kharif     ,Groundnut
+Gujarat,KHEDA,2009,Kharif     ,Jowar
+Gujarat,KHEDA,2009,Kharif     ,Maize
+Gujarat,KHEDA,2009,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2009,Kharif     ,Moth
+Gujarat,KHEDA,2009,Kharif     ,Other Cereals & Millets
+Gujarat,KHEDA,2009,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,2009,Kharif     ,Rice
+Gujarat,KHEDA,2009,Kharif     ,Sesamum
+Gujarat,KHEDA,2009,Kharif     ,Tobacco
+Gujarat,KHEDA,2009,Kharif     ,Urad
+Gujarat,KHEDA,2010,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2010,Kharif     ,Bajra
+Gujarat,KHEDA,2010,Kharif     ,Castor seed
+Gujarat,KHEDA,2010,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2010,Kharif     ,Groundnut
+Gujarat,KHEDA,2010,Kharif     ,Jowar
+Gujarat,KHEDA,2010,Kharif     ,Maize
+Gujarat,KHEDA,2010,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2010,Kharif     ,Moth
+Gujarat,KHEDA,2010,Kharif     ,Other Cereals & Millets
+Gujarat,KHEDA,2010,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,2010,Kharif     ,other oilseeds
+Gujarat,KHEDA,2010,Kharif     ,Rice
+Gujarat,KHEDA,2010,Kharif     ,Sesamum
+Gujarat,KHEDA,2010,Kharif     ,Soyabean
+Gujarat,KHEDA,2010,Kharif     ,Tobacco
+Gujarat,KHEDA,2010,Kharif     ,Urad
+Gujarat,KHEDA,2011,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2011,Kharif     ,Bajra
+Gujarat,KHEDA,2011,Kharif     ,Castor seed
+Gujarat,KHEDA,2011,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2011,Kharif     ,Groundnut
+Gujarat,KHEDA,2011,Kharif     ,Maize
+Gujarat,KHEDA,2011,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2011,Kharif     ,Moth
+Gujarat,KHEDA,2011,Kharif     ,Other Kharif pulses
+Gujarat,KHEDA,2011,Kharif     ,Rice
+Gujarat,KHEDA,2011,Kharif     ,Sesamum
+Gujarat,KHEDA,2011,Kharif     ,Tobacco
+Gujarat,KHEDA,2011,Kharif     ,Urad
+Gujarat,KHEDA,2012,Kharif     ,Arhar/Tur
+Gujarat,KHEDA,2012,Kharif     ,Bajra
+Gujarat,KHEDA,2012,Kharif     ,Castor seed
+Gujarat,KHEDA,2012,Kharif     ,Cotton(lint)
+Gujarat,KHEDA,2012,Kharif     ,Groundnut
+Gujarat,KHEDA,2012,Kharif     ,Maize
+Gujarat,KHEDA,2012,Kharif     ,Moong(Green Gram)
+Gujarat,KHEDA,2012,Kharif     ,Moth
+Gujarat,KHEDA,2012,Kharif     ,Rice
+Gujarat,KHEDA,2012,Kharif     ,Sesamum
+Gujarat,KHEDA,2012,Kharif     ,Tobacco
+Gujarat,KHEDA,2012,Kharif     ,Urad
+Gujarat,MAHESANA,1997,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,1997,Kharif     ,Bajra
+Gujarat,MAHESANA,1997,Kharif     ,Dry chillies
+Gujarat,MAHESANA,1997,Kharif     ,Groundnut
+Gujarat,MAHESANA,1997,Kharif     ,Jowar
+Gujarat,MAHESANA,1997,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,1997,Kharif     ,Moth
+Gujarat,MAHESANA,1997,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,1997,Kharif     ,Small millets
+Gujarat,MAHESANA,1997,Kharif     ,Urad
+Gujarat,MAHESANA,1998,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,1998,Kharif     ,Bajra
+Gujarat,MAHESANA,1998,Kharif     ,Castor seed
+Gujarat,MAHESANA,1998,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,1998,Kharif     ,Groundnut
+Gujarat,MAHESANA,1998,Kharif     ,Jowar
+Gujarat,MAHESANA,1998,Kharif     ,Maize
+Gujarat,MAHESANA,1998,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,1998,Kharif     ,Moth
+Gujarat,MAHESANA,1998,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,1998,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,1998,Kharif     ,Rice
+Gujarat,MAHESANA,1998,Kharif     ,Sesamum
+Gujarat,MAHESANA,1998,Kharif     ,Small millets
+Gujarat,MAHESANA,1998,Kharif     ,Urad
+Gujarat,MAHESANA,1999,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,1999,Kharif     ,Bajra
+Gujarat,MAHESANA,1999,Kharif     ,Castor seed
+Gujarat,MAHESANA,1999,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,1999,Kharif     ,Groundnut
+Gujarat,MAHESANA,1999,Kharif     ,Jowar
+Gujarat,MAHESANA,1999,Kharif     ,Maize
+Gujarat,MAHESANA,1999,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,1999,Kharif     ,Moth
+Gujarat,MAHESANA,1999,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,1999,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,1999,Kharif     ,Rice
+Gujarat,MAHESANA,1999,Kharif     ,Sesamum
+Gujarat,MAHESANA,1999,Kharif     ,Small millets
+Gujarat,MAHESANA,1999,Kharif     ,Urad
+Gujarat,MAHESANA,2000,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2000,Kharif     ,Bajra
+Gujarat,MAHESANA,2000,Kharif     ,Castor seed
+Gujarat,MAHESANA,2000,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2000,Kharif     ,Groundnut
+Gujarat,MAHESANA,2000,Kharif     ,Jowar
+Gujarat,MAHESANA,2000,Kharif     ,Maize
+Gujarat,MAHESANA,2000,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2000,Kharif     ,Moth
+Gujarat,MAHESANA,2000,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,2000,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2000,Kharif     ,Rice
+Gujarat,MAHESANA,2000,Kharif     ,Sesamum
+Gujarat,MAHESANA,2000,Kharif     ,Small millets
+Gujarat,MAHESANA,2000,Kharif     ,Urad
+Gujarat,MAHESANA,2001,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2001,Kharif     ,Bajra
+Gujarat,MAHESANA,2001,Kharif     ,Castor seed
+Gujarat,MAHESANA,2001,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2001,Kharif     ,Groundnut
+Gujarat,MAHESANA,2001,Kharif     ,Jowar
+Gujarat,MAHESANA,2001,Kharif     ,Maize
+Gujarat,MAHESANA,2001,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2001,Kharif     ,Moth
+Gujarat,MAHESANA,2001,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2001,Kharif     ,Rice
+Gujarat,MAHESANA,2001,Kharif     ,Sesamum
+Gujarat,MAHESANA,2001,Kharif     ,Small millets
+Gujarat,MAHESANA,2001,Kharif     ,Urad
+Gujarat,MAHESANA,2002,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2002,Kharif     ,Bajra
+Gujarat,MAHESANA,2002,Kharif     ,Castor seed
+Gujarat,MAHESANA,2002,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2002,Kharif     ,Groundnut
+Gujarat,MAHESANA,2002,Kharif     ,Jowar
+Gujarat,MAHESANA,2002,Kharif     ,Maize
+Gujarat,MAHESANA,2002,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2002,Kharif     ,Moth
+Gujarat,MAHESANA,2002,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2002,Kharif     ,Rice
+Gujarat,MAHESANA,2002,Kharif     ,Sesamum
+Gujarat,MAHESANA,2002,Kharif     ,Small millets
+Gujarat,MAHESANA,2002,Kharif     ,Urad
+Gujarat,MAHESANA,2003,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2003,Kharif     ,Bajra
+Gujarat,MAHESANA,2003,Kharif     ,Castor seed
+Gujarat,MAHESANA,2003,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2003,Kharif     ,Groundnut
+Gujarat,MAHESANA,2003,Kharif     ,Jowar
+Gujarat,MAHESANA,2003,Kharif     ,Maize
+Gujarat,MAHESANA,2003,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2003,Kharif     ,Moth
+Gujarat,MAHESANA,2003,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2003,Kharif     ,Rice
+Gujarat,MAHESANA,2003,Kharif     ,Sesamum
+Gujarat,MAHESANA,2003,Kharif     ,Urad
+Gujarat,MAHESANA,2004,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2004,Kharif     ,Bajra
+Gujarat,MAHESANA,2004,Kharif     ,Castor seed
+Gujarat,MAHESANA,2004,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2004,Kharif     ,Groundnut
+Gujarat,MAHESANA,2004,Kharif     ,Jowar
+Gujarat,MAHESANA,2004,Kharif     ,Maize
+Gujarat,MAHESANA,2004,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2004,Kharif     ,Moth
+Gujarat,MAHESANA,2004,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,2004,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2004,Kharif     ,Rice
+Gujarat,MAHESANA,2004,Kharif     ,Sesamum
+Gujarat,MAHESANA,2004,Kharif     ,Small millets
+Gujarat,MAHESANA,2004,Kharif     ,Urad
+Gujarat,MAHESANA,2005,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2005,Kharif     ,Bajra
+Gujarat,MAHESANA,2005,Kharif     ,Castor seed
+Gujarat,MAHESANA,2005,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2005,Kharif     ,Groundnut
+Gujarat,MAHESANA,2005,Kharif     ,Jowar
+Gujarat,MAHESANA,2005,Kharif     ,Maize
+Gujarat,MAHESANA,2005,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2005,Kharif     ,Moth
+Gujarat,MAHESANA,2005,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,2005,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2005,Kharif     ,Rice
+Gujarat,MAHESANA,2005,Kharif     ,Sesamum
+Gujarat,MAHESANA,2005,Kharif     ,Urad
+Gujarat,MAHESANA,2006,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2006,Kharif     ,Bajra
+Gujarat,MAHESANA,2006,Kharif     ,Castor seed
+Gujarat,MAHESANA,2006,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2006,Kharif     ,Groundnut
+Gujarat,MAHESANA,2006,Kharif     ,Jowar
+Gujarat,MAHESANA,2006,Kharif     ,Maize
+Gujarat,MAHESANA,2006,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2006,Kharif     ,Moth
+Gujarat,MAHESANA,2006,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,2006,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2006,Kharif     ,Rice
+Gujarat,MAHESANA,2006,Kharif     ,Sesamum
+Gujarat,MAHESANA,2006,Kharif     ,Urad
+Gujarat,MAHESANA,2007,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2007,Kharif     ,Bajra
+Gujarat,MAHESANA,2007,Kharif     ,Castor seed
+Gujarat,MAHESANA,2007,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2007,Kharif     ,Groundnut
+Gujarat,MAHESANA,2007,Kharif     ,Maize
+Gujarat,MAHESANA,2007,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2007,Kharif     ,Moth
+Gujarat,MAHESANA,2007,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,2007,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2007,Kharif     ,Rice
+Gujarat,MAHESANA,2007,Kharif     ,Sesamum
+Gujarat,MAHESANA,2007,Kharif     ,Urad
+Gujarat,MAHESANA,2008,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2008,Kharif     ,Bajra
+Gujarat,MAHESANA,2008,Kharif     ,Castor seed
+Gujarat,MAHESANA,2008,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2008,Kharif     ,Groundnut
+Gujarat,MAHESANA,2008,Kharif     ,Jowar
+Gujarat,MAHESANA,2008,Kharif     ,Maize
+Gujarat,MAHESANA,2008,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2008,Kharif     ,Moth
+Gujarat,MAHESANA,2008,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,2008,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2008,Kharif     ,Rice
+Gujarat,MAHESANA,2008,Kharif     ,Sesamum
+Gujarat,MAHESANA,2008,Kharif     ,Tobacco
+Gujarat,MAHESANA,2008,Kharif     ,Urad
+Gujarat,MAHESANA,2009,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2009,Kharif     ,Bajra
+Gujarat,MAHESANA,2009,Kharif     ,Castor seed
+Gujarat,MAHESANA,2009,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2009,Kharif     ,Groundnut
+Gujarat,MAHESANA,2009,Kharif     ,Jowar
+Gujarat,MAHESANA,2009,Kharif     ,Maize
+Gujarat,MAHESANA,2009,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2009,Kharif     ,Moth
+Gujarat,MAHESANA,2009,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,2009,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2009,Kharif     ,Rice
+Gujarat,MAHESANA,2009,Kharif     ,Sesamum
+Gujarat,MAHESANA,2009,Kharif     ,Tobacco
+Gujarat,MAHESANA,2009,Kharif     ,Urad
+Gujarat,MAHESANA,2010,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2010,Kharif     ,Bajra
+Gujarat,MAHESANA,2010,Kharif     ,Castor seed
+Gujarat,MAHESANA,2010,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2010,Kharif     ,Groundnut
+Gujarat,MAHESANA,2010,Kharif     ,Jowar
+Gujarat,MAHESANA,2010,Kharif     ,Maize
+Gujarat,MAHESANA,2010,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2010,Kharif     ,Moth
+Gujarat,MAHESANA,2010,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,2010,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2010,Kharif     ,other oilseeds
+Gujarat,MAHESANA,2010,Kharif     ,Rice
+Gujarat,MAHESANA,2010,Kharif     ,Sesamum
+Gujarat,MAHESANA,2010,Kharif     ,Soyabean
+Gujarat,MAHESANA,2010,Kharif     ,Tobacco
+Gujarat,MAHESANA,2010,Kharif     ,Urad
+Gujarat,MAHESANA,2011,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2011,Kharif     ,Bajra
+Gujarat,MAHESANA,2011,Kharif     ,Castor seed
+Gujarat,MAHESANA,2011,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2011,Kharif     ,Groundnut
+Gujarat,MAHESANA,2011,Kharif     ,Jowar
+Gujarat,MAHESANA,2011,Kharif     ,Maize
+Gujarat,MAHESANA,2011,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2011,Kharif     ,Moth
+Gujarat,MAHESANA,2011,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,2011,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2011,Kharif     ,Rice
+Gujarat,MAHESANA,2011,Kharif     ,Sesamum
+Gujarat,MAHESANA,2011,Kharif     ,Tobacco
+Gujarat,MAHESANA,2011,Kharif     ,Urad
+Gujarat,MAHESANA,2012,Kharif     ,Arhar/Tur
+Gujarat,MAHESANA,2012,Kharif     ,Bajra
+Gujarat,MAHESANA,2012,Kharif     ,Castor seed
+Gujarat,MAHESANA,2012,Kharif     ,Cotton(lint)
+Gujarat,MAHESANA,2012,Kharif     ,Groundnut
+Gujarat,MAHESANA,2012,Kharif     ,Jowar
+Gujarat,MAHESANA,2012,Kharif     ,Maize
+Gujarat,MAHESANA,2012,Kharif     ,Moong(Green Gram)
+Gujarat,MAHESANA,2012,Kharif     ,Moth
+Gujarat,MAHESANA,2012,Kharif     ,Other Cereals & Millets
+Gujarat,MAHESANA,2012,Kharif     ,Other Kharif pulses
+Gujarat,MAHESANA,2012,Kharif     ,Rice
+Gujarat,MAHESANA,2012,Kharif     ,Sesamum
+Gujarat,MAHESANA,2012,Kharif     ,Tobacco
+Gujarat,MAHESANA,2012,Kharif     ,Urad
+Gujarat,NARMADA,2003,Kharif     ,Arhar/Tur
+Gujarat,NARMADA,2003,Kharif     ,Bajra
+Gujarat,NARMADA,2003,Kharif     ,Castor seed
+Gujarat,NARMADA,2003,Kharif     ,Cotton(lint)
+Gujarat,NARMADA,2003,Kharif     ,Groundnut
+Gujarat,NARMADA,2003,Kharif     ,Jowar
+Gujarat,NARMADA,2003,Kharif     ,Maize
+Gujarat,NARMADA,2003,Kharif     ,Moong(Green Gram)
+Gujarat,NARMADA,2003,Kharif     ,Moth
+Gujarat,NARMADA,2003,Kharif     ,Rice
+Gujarat,NARMADA,2003,Kharif     ,Sesamum
+Gujarat,NARMADA,2003,Kharif     ,Urad
+Gujarat,NARMADA,2004,Kharif     ,Arhar/Tur
+Gujarat,NARMADA,2004,Kharif     ,Bajra
+Gujarat,NARMADA,2004,Kharif     ,Castor seed
+Gujarat,NARMADA,2004,Kharif     ,Cotton(lint)
+Gujarat,NARMADA,2004,Kharif     ,Groundnut
+Gujarat,NARMADA,2004,Kharif     ,Jowar
+Gujarat,NARMADA,2004,Kharif     ,Maize
+Gujarat,NARMADA,2004,Kharif     ,Moong(Green Gram)
+Gujarat,NARMADA,2004,Kharif     ,Moth
+Gujarat,NARMADA,2004,Kharif     ,Rice
+Gujarat,NARMADA,2004,Kharif     ,Sesamum
+Gujarat,NARMADA,2004,Kharif     ,Urad
+Gujarat,NARMADA,2005,Kharif     ,Arhar/Tur
+Gujarat,NARMADA,2005,Kharif     ,Bajra
+Gujarat,NARMADA,2005,Kharif     ,Castor seed
+Gujarat,NARMADA,2005,Kharif     ,Cotton(lint)
+Gujarat,NARMADA,2005,Kharif     ,Groundnut
+Gujarat,NARMADA,2005,Kharif     ,Jowar
+Gujarat,NARMADA,2005,Kharif     ,Maize
+Gujarat,NARMADA,2005,Kharif     ,Moong(Green Gram)
+Gujarat,NARMADA,2005,Kharif     ,Other Kharif pulses
+Gujarat,NARMADA,2005,Kharif     ,Rice
+Gujarat,NARMADA,2005,Kharif     ,Sesamum
+Gujarat,NARMADA,2005,Kharif     ,Urad
+Gujarat,NARMADA,2006,Kharif     ,Arhar/Tur
+Gujarat,NARMADA,2006,Kharif     ,Bajra
+Gujarat,NARMADA,2006,Kharif     ,Castor seed
+Gujarat,NARMADA,2006,Kharif     ,Cotton(lint)
+Gujarat,NARMADA,2006,Kharif     ,Groundnut
+Gujarat,NARMADA,2006,Kharif     ,Jowar
+Gujarat,NARMADA,2006,Kharif     ,Maize
+Gujarat,NARMADA,2006,Kharif     ,Moong(Green Gram)
+Gujarat,NARMADA,2006,Kharif     ,Rice
+Gujarat,NARMADA,2006,Kharif     ,Sesamum
+Gujarat,NARMADA,2006,Kharif     ,Urad
+Gujarat,NARMADA,2007,Kharif     ,Arhar/Tur
+Gujarat,NARMADA,2007,Kharif     ,Bajra
+Gujarat,NARMADA,2007,Kharif     ,Castor seed
+Gujarat,NARMADA,2007,Kharif     ,Cotton(lint)
+Gujarat,NARMADA,2007,Kharif     ,Groundnut
+Gujarat,NARMADA,2007,Kharif     ,Jowar
+Gujarat,NARMADA,2007,Kharif     ,Maize
+Gujarat,NARMADA,2007,Kharif     ,Moong(Green Gram)
+Gujarat,NARMADA,2007,Kharif     ,Moth
+Gujarat,NARMADA,2007,Kharif     ,Rice
+Gujarat,NARMADA,2007,Kharif     ,Sesamum
+Gujarat,NARMADA,2007,Kharif     ,Urad
+Gujarat,NARMADA,2008,Kharif     ,Arhar/Tur
+Gujarat,NARMADA,2008,Kharif     ,Bajra
+Gujarat,NARMADA,2008,Kharif     ,Castor seed
+Gujarat,NARMADA,2008,Kharif     ,Cotton(lint)
+Gujarat,NARMADA,2008,Kharif     ,Groundnut
+Gujarat,NARMADA,2008,Kharif     ,Jowar
+Gujarat,NARMADA,2008,Kharif     ,Maize
+Gujarat,NARMADA,2008,Kharif     ,Moong(Green Gram)
+Gujarat,NARMADA,2008,Kharif     ,Moth
+Gujarat,NARMADA,2008,Kharif     ,Rice
+Gujarat,NARMADA,2008,Kharif     ,Sesamum
+Gujarat,NARMADA,2008,Kharif     ,Urad
+Gujarat,NARMADA,2009,Kharif     ,Arhar/Tur
+Gujarat,NARMADA,2009,Kharif     ,Bajra
+Gujarat,NARMADA,2009,Kharif     ,Castor seed
+Gujarat,NARMADA,2009,Kharif     ,Cotton(lint)
+Gujarat,NARMADA,2009,Kharif     ,Groundnut
+Gujarat,NARMADA,2009,Kharif     ,Jowar
+Gujarat,NARMADA,2009,Kharif     ,Maize
+Gujarat,NARMADA,2009,Kharif     ,Moong(Green Gram)
+Gujarat,NARMADA,2009,Kharif     ,Rice
+Gujarat,NARMADA,2009,Kharif     ,Sesamum
+Gujarat,NARMADA,2009,Kharif     ,Urad
+Gujarat,NARMADA,2010,Kharif     ,Arhar/Tur
+Gujarat,NARMADA,2010,Kharif     ,Castor seed
+Gujarat,NARMADA,2010,Kharif     ,Cotton(lint)
+Gujarat,NARMADA,2010,Kharif     ,Groundnut
+Gujarat,NARMADA,2010,Kharif     ,Jowar
+Gujarat,NARMADA,2010,Kharif     ,Maize
+Gujarat,NARMADA,2010,Kharif     ,Moong(Green Gram)
+Gujarat,NARMADA,2010,Kharif     ,other oilseeds
+Gujarat,NARMADA,2010,Kharif     ,Rice
+Gujarat,NARMADA,2010,Kharif     ,Soyabean
+Gujarat,NARMADA,2010,Kharif     ,Urad
+Gujarat,NARMADA,2011,Kharif     ,Arhar/Tur
+Gujarat,NARMADA,2011,Kharif     ,Castor seed
+Gujarat,NARMADA,2011,Kharif     ,Cotton(lint)
+Gujarat,NARMADA,2011,Kharif     ,Jowar
+Gujarat,NARMADA,2011,Kharif     ,Maize
+Gujarat,NARMADA,2011,Kharif     ,Rice
+Gujarat,NARMADA,2011,Kharif     ,Sesamum
+Gujarat,NARMADA,2011,Kharif     ,Urad
+Gujarat,NARMADA,2012,Kharif     ,Arhar/Tur
+Gujarat,NARMADA,2012,Kharif     ,Castor seed
+Gujarat,NARMADA,2012,Kharif     ,Cotton(lint)
+Gujarat,NARMADA,2012,Kharif     ,Jowar
+Gujarat,NARMADA,2012,Kharif     ,Maize
+Gujarat,NARMADA,2012,Kharif     ,Rice
+Gujarat,NARMADA,2012,Kharif     ,Sesamum
+Gujarat,NARMADA,2012,Kharif     ,Urad
+Gujarat,NAVSARI,2003,Kharif     ,Arhar/Tur
+Gujarat,NAVSARI,2003,Kharif     ,Groundnut
+Gujarat,NAVSARI,2003,Kharif     ,Jowar
+Gujarat,NAVSARI,2003,Kharif     ,Moong(Green Gram)
+Gujarat,NAVSARI,2003,Kharif     ,Other Kharif pulses
+Gujarat,NAVSARI,2003,Kharif     ,Ragi
+Gujarat,NAVSARI,2003,Kharif     ,Rice
+Gujarat,NAVSARI,2003,Kharif     ,Urad
+Gujarat,NAVSARI,2004,Kharif     ,Arhar/Tur
+Gujarat,NAVSARI,2004,Kharif     ,Castor seed
+Gujarat,NAVSARI,2004,Kharif     ,Groundnut
+Gujarat,NAVSARI,2004,Kharif     ,Jowar
+Gujarat,NAVSARI,2004,Kharif     ,Moong(Green Gram)
+Gujarat,NAVSARI,2004,Kharif     ,Other Kharif pulses
+Gujarat,NAVSARI,2004,Kharif     ,Ragi
+Gujarat,NAVSARI,2004,Kharif     ,Rice
+Gujarat,NAVSARI,2004,Kharif     ,Urad
+Gujarat,NAVSARI,2005,Kharif     ,Arhar/Tur
+Gujarat,NAVSARI,2005,Kharif     ,Groundnut
+Gujarat,NAVSARI,2005,Kharif     ,Jowar
+Gujarat,NAVSARI,2005,Kharif     ,Moong(Green Gram)
+Gujarat,NAVSARI,2005,Kharif     ,Other Kharif pulses
+Gujarat,NAVSARI,2005,Kharif     ,Ragi
+Gujarat,NAVSARI,2005,Kharif     ,Rice
+Gujarat,NAVSARI,2005,Kharif     ,Urad
+Gujarat,NAVSARI,2006,Kharif     ,Arhar/Tur
+Gujarat,NAVSARI,2006,Kharif     ,Groundnut
+Gujarat,NAVSARI,2006,Kharif     ,Jowar
+Gujarat,NAVSARI,2006,Kharif     ,Moong(Green Gram)
+Gujarat,NAVSARI,2006,Kharif     ,Other Kharif pulses
+Gujarat,NAVSARI,2006,Kharif     ,Ragi
+Gujarat,NAVSARI,2006,Kharif     ,Rice
+Gujarat,NAVSARI,2006,Kharif     ,Urad
+Gujarat,NAVSARI,2007,Kharif     ,Arhar/Tur
+Gujarat,NAVSARI,2007,Kharif     ,Groundnut
+Gujarat,NAVSARI,2007,Kharif     ,Jowar
+Gujarat,NAVSARI,2007,Kharif     ,Moong(Green Gram)
+Gujarat,NAVSARI,2007,Kharif     ,Other Kharif pulses
+Gujarat,NAVSARI,2007,Kharif     ,Ragi
+Gujarat,NAVSARI,2007,Kharif     ,Rice
+Gujarat,NAVSARI,2007,Kharif     ,Urad
+Gujarat,NAVSARI,2008,Kharif     ,Arhar/Tur
+Gujarat,NAVSARI,2008,Kharif     ,Groundnut
+Gujarat,NAVSARI,2008,Kharif     ,Jowar
+Gujarat,NAVSARI,2008,Kharif     ,Moong(Green Gram)
+Gujarat,NAVSARI,2008,Kharif     ,Other Kharif pulses
+Gujarat,NAVSARI,2008,Kharif     ,Ragi
+Gujarat,NAVSARI,2008,Kharif     ,Rice
+Gujarat,NAVSARI,2008,Kharif     ,Urad
+Gujarat,NAVSARI,2009,Kharif     ,Arhar/Tur
+Gujarat,NAVSARI,2009,Kharif     ,Groundnut
+Gujarat,NAVSARI,2009,Kharif     ,Jowar
+Gujarat,NAVSARI,2009,Kharif     ,Moong(Green Gram)
+Gujarat,NAVSARI,2009,Kharif     ,Other Kharif pulses
+Gujarat,NAVSARI,2009,Kharif     ,Ragi
+Gujarat,NAVSARI,2009,Kharif     ,Rice
+Gujarat,NAVSARI,2009,Kharif     ,Urad
+Gujarat,NAVSARI,2010,Kharif     ,Arhar/Tur
+Gujarat,NAVSARI,2010,Kharif     ,Groundnut
+Gujarat,NAVSARI,2010,Kharif     ,Jowar
+Gujarat,NAVSARI,2010,Kharif     ,Moong(Green Gram)
+Gujarat,NAVSARI,2010,Kharif     ,Other Cereals & Millets
+Gujarat,NAVSARI,2010,Kharif     ,Other Kharif pulses
+Gujarat,NAVSARI,2010,Kharif     ,other oilseeds
+Gujarat,NAVSARI,2010,Kharif     ,Ragi
+Gujarat,NAVSARI,2010,Kharif     ,Rice
+Gujarat,NAVSARI,2010,Kharif     ,Urad
+Gujarat,NAVSARI,2011,Kharif     ,Arhar/Tur
+Gujarat,NAVSARI,2011,Kharif     ,Groundnut
+Gujarat,NAVSARI,2011,Kharif     ,Jowar
+Gujarat,NAVSARI,2011,Kharif     ,Moong(Green Gram)
+Gujarat,NAVSARI,2011,Kharif     ,Other Cereals & Millets
+Gujarat,NAVSARI,2011,Kharif     ,Other Kharif pulses
+Gujarat,NAVSARI,2011,Kharif     ,Ragi
+Gujarat,NAVSARI,2011,Kharif     ,Rice
+Gujarat,NAVSARI,2011,Kharif     ,Urad
+Gujarat,NAVSARI,2012,Kharif     ,Arhar/Tur
+Gujarat,NAVSARI,2012,Kharif     ,Groundnut
+Gujarat,NAVSARI,2012,Kharif     ,Jowar
+Gujarat,NAVSARI,2012,Kharif     ,Moong(Green Gram)
+Gujarat,NAVSARI,2012,Kharif     ,Other Kharif pulses
+Gujarat,NAVSARI,2012,Kharif     ,Ragi
+Gujarat,NAVSARI,2012,Kharif     ,Rice
+Gujarat,NAVSARI,2012,Kharif     ,Urad
+Gujarat,PANCH MAHALS,1997,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,1997,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,1997,Kharif     ,Dry chillies
+Gujarat,PANCH MAHALS,1997,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,1997,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,1997,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,1997,Kharif     ,Moth
+Gujarat,PANCH MAHALS,1997,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,1997,Kharif     ,Small millets
+Gujarat,PANCH MAHALS,1997,Kharif     ,Urad
+Gujarat,PANCH MAHALS,1998,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,1998,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,1998,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,1998,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,1998,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,1998,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,1998,Kharif     ,Maize
+Gujarat,PANCH MAHALS,1998,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,1998,Kharif     ,Moth
+Gujarat,PANCH MAHALS,1998,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,1998,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,1998,Kharif     ,Rice
+Gujarat,PANCH MAHALS,1998,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,1998,Kharif     ,Small millets
+Gujarat,PANCH MAHALS,1998,Kharif     ,Urad
+Gujarat,PANCH MAHALS,1999,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,1999,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,1999,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,1999,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,1999,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,1999,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,1999,Kharif     ,Maize
+Gujarat,PANCH MAHALS,1999,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,1999,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,1999,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,1999,Kharif     ,Rice
+Gujarat,PANCH MAHALS,1999,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,1999,Kharif     ,Small millets
+Gujarat,PANCH MAHALS,1999,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2000,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2000,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2000,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2000,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2000,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2000,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2000,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2000,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2000,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,2000,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2000,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2000,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2000,Kharif     ,Small millets
+Gujarat,PANCH MAHALS,2000,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2001,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2001,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2001,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2001,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2001,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2001,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2001,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2001,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2001,Kharif     ,Moth
+Gujarat,PANCH MAHALS,2001,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2001,Kharif     ,Ragi
+Gujarat,PANCH MAHALS,2001,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2001,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2001,Kharif     ,Small millets
+Gujarat,PANCH MAHALS,2001,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2002,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2002,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2002,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2002,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2002,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2002,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2002,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2002,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2002,Kharif     ,Moth
+Gujarat,PANCH MAHALS,2002,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2002,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2002,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2002,Kharif     ,Small millets
+Gujarat,PANCH MAHALS,2002,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2003,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2003,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2003,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2003,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2003,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2003,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2003,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2003,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2003,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2003,Kharif     ,Ragi
+Gujarat,PANCH MAHALS,2003,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2003,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2003,Kharif     ,Small millets
+Gujarat,PANCH MAHALS,2003,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2004,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2004,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2004,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2004,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2004,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2004,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2004,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2004,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2004,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,2004,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2004,Kharif     ,Ragi
+Gujarat,PANCH MAHALS,2004,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2004,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2004,Kharif     ,Small millets
+Gujarat,PANCH MAHALS,2004,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2005,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2005,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2005,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2005,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2005,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2005,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2005,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2005,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2005,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,2005,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2005,Kharif     ,Ragi
+Gujarat,PANCH MAHALS,2005,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2005,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2005,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2006,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2006,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2006,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2006,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2006,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2006,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2006,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2006,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2006,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,2006,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2006,Kharif     ,Ragi
+Gujarat,PANCH MAHALS,2006,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2006,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2006,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2007,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2007,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2007,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2007,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2007,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2007,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2007,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2007,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2007,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,2007,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2007,Kharif     ,Ragi
+Gujarat,PANCH MAHALS,2007,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2007,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2007,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2008,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2008,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2008,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2008,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2008,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2008,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2008,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2008,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2008,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,2008,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2008,Kharif     ,Ragi
+Gujarat,PANCH MAHALS,2008,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2008,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2008,Kharif     ,Tobacco
+Gujarat,PANCH MAHALS,2008,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2009,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2009,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2009,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2009,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2009,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2009,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2009,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2009,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2009,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,2009,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2009,Kharif     ,Ragi
+Gujarat,PANCH MAHALS,2009,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2009,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2009,Kharif     ,Tobacco
+Gujarat,PANCH MAHALS,2009,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2010,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2010,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2010,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2010,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2010,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2010,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2010,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2010,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2010,Kharif     ,Moth
+Gujarat,PANCH MAHALS,2010,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,2010,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2010,Kharif     ,other oilseeds
+Gujarat,PANCH MAHALS,2010,Kharif     ,Ragi
+Gujarat,PANCH MAHALS,2010,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2010,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2010,Kharif     ,Soyabean
+Gujarat,PANCH MAHALS,2010,Kharif     ,Tobacco
+Gujarat,PANCH MAHALS,2010,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2011,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2011,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2011,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2011,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2011,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2011,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2011,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2011,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,2011,Kharif     ,Other Kharif pulses
+Gujarat,PANCH MAHALS,2011,Kharif     ,Ragi
+Gujarat,PANCH MAHALS,2011,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2011,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2011,Kharif     ,Soyabean
+Gujarat,PANCH MAHALS,2011,Kharif     ,Tobacco
+Gujarat,PANCH MAHALS,2011,Kharif     ,Urad
+Gujarat,PANCH MAHALS,2012,Kharif     ,Arhar/Tur
+Gujarat,PANCH MAHALS,2012,Kharif     ,Bajra
+Gujarat,PANCH MAHALS,2012,Kharif     ,Castor seed
+Gujarat,PANCH MAHALS,2012,Kharif     ,Cotton(lint)
+Gujarat,PANCH MAHALS,2012,Kharif     ,Groundnut
+Gujarat,PANCH MAHALS,2012,Kharif     ,Jowar
+Gujarat,PANCH MAHALS,2012,Kharif     ,Maize
+Gujarat,PANCH MAHALS,2012,Kharif     ,Moong(Green Gram)
+Gujarat,PANCH MAHALS,2012,Kharif     ,Moth
+Gujarat,PANCH MAHALS,2012,Kharif     ,Other Cereals & Millets
+Gujarat,PANCH MAHALS,2012,Kharif     ,Rice
+Gujarat,PANCH MAHALS,2012,Kharif     ,Sesamum
+Gujarat,PANCH MAHALS,2012,Kharif     ,Soyabean
+Gujarat,PANCH MAHALS,2012,Kharif     ,Urad
+Gujarat,PATAN,2003,Kharif     ,Arhar/Tur
+Gujarat,PATAN,2003,Kharif     ,Bajra
+Gujarat,PATAN,2003,Kharif     ,Castor seed
+Gujarat,PATAN,2003,Kharif     ,Cotton(lint)
+Gujarat,PATAN,2003,Kharif     ,Jowar
+Gujarat,PATAN,2003,Kharif     ,Moong(Green Gram)
+Gujarat,PATAN,2003,Kharif     ,Moth
+Gujarat,PATAN,2003,Kharif     ,Other Kharif pulses
+Gujarat,PATAN,2003,Kharif     ,Sesamum
+Gujarat,PATAN,2003,Kharif     ,Small millets
+Gujarat,PATAN,2003,Kharif     ,Urad
+Gujarat,PATAN,2004,Kharif     ,Arhar/Tur
+Gujarat,PATAN,2004,Kharif     ,Bajra
+Gujarat,PATAN,2004,Kharif     ,Castor seed
+Gujarat,PATAN,2004,Kharif     ,Cotton(lint)
+Gujarat,PATAN,2004,Kharif     ,Moong(Green Gram)
+Gujarat,PATAN,2004,Kharif     ,Moth
+Gujarat,PATAN,2004,Kharif     ,Other Cereals & Millets
+Gujarat,PATAN,2004,Kharif     ,Other Kharif pulses
+Gujarat,PATAN,2004,Kharif     ,Sesamum
+Gujarat,PATAN,2004,Kharif     ,Small millets
+Gujarat,PATAN,2004,Kharif     ,Urad
+Gujarat,PATAN,2005,Kharif     ,Arhar/Tur
+Gujarat,PATAN,2005,Kharif     ,Bajra
+Gujarat,PATAN,2005,Kharif     ,Castor seed
+Gujarat,PATAN,2005,Kharif     ,Cotton(lint)
+Gujarat,PATAN,2005,Kharif     ,Jowar
+Gujarat,PATAN,2005,Kharif     ,Moong(Green Gram)
+Gujarat,PATAN,2005,Kharif     ,Moth
+Gujarat,PATAN,2005,Kharif     ,Other Cereals & Millets
+Gujarat,PATAN,2005,Kharif     ,Other Kharif pulses
+Gujarat,PATAN,2005,Kharif     ,Sesamum
+Gujarat,PATAN,2005,Kharif     ,Urad
+Gujarat,PATAN,2006,Kharif     ,Arhar/Tur
+Gujarat,PATAN,2006,Kharif     ,Bajra
+Gujarat,PATAN,2006,Kharif     ,Castor seed
+Gujarat,PATAN,2006,Kharif     ,Cotton(lint)
+Gujarat,PATAN,2006,Kharif     ,Jowar
+Gujarat,PATAN,2006,Kharif     ,Moong(Green Gram)
+Gujarat,PATAN,2006,Kharif     ,Moth
+Gujarat,PATAN,2006,Kharif     ,Other Cereals & Millets
+Gujarat,PATAN,2006,Kharif     ,Other Kharif pulses
+Gujarat,PATAN,2006,Kharif     ,Sesamum
+Gujarat,PATAN,2006,Kharif     ,Urad
+Gujarat,PATAN,2007,Kharif     ,Arhar/Tur
+Gujarat,PATAN,2007,Kharif     ,Bajra
+Gujarat,PATAN,2007,Kharif     ,Castor seed
+Gujarat,PATAN,2007,Kharif     ,Cotton(lint)
+Gujarat,PATAN,2007,Kharif     ,Moong(Green Gram)
+Gujarat,PATAN,2007,Kharif     ,Moth
+Gujarat,PATAN,2007,Kharif     ,Other Cereals & Millets
+Gujarat,PATAN,2007,Kharif     ,Other Kharif pulses
+Gujarat,PATAN,2007,Kharif     ,Sesamum
+Gujarat,PATAN,2007,Kharif     ,Urad
+Gujarat,PATAN,2008,Kharif     ,Arhar/Tur
+Gujarat,PATAN,2008,Kharif     ,Bajra
+Gujarat,PATAN,2008,Kharif     ,Castor seed
+Gujarat,PATAN,2008,Kharif     ,Cotton(lint)
+Gujarat,PATAN,2008,Kharif     ,Groundnut
+Gujarat,PATAN,2008,Kharif     ,Jowar
+Gujarat,PATAN,2008,Kharif     ,Moong(Green Gram)
+Gujarat,PATAN,2008,Kharif     ,Moth
+Gujarat,PATAN,2008,Kharif     ,Other Cereals & Millets
+Gujarat,PATAN,2008,Kharif     ,Other Kharif pulses
+Gujarat,PATAN,2008,Kharif     ,Sesamum
+Gujarat,PATAN,2008,Kharif     ,Tobacco
+Gujarat,PATAN,2008,Kharif     ,Urad
+Gujarat,PATAN,2009,Kharif     ,Arhar/Tur
+Gujarat,PATAN,2009,Kharif     ,Bajra
+Gujarat,PATAN,2009,Kharif     ,Castor seed
+Gujarat,PATAN,2009,Kharif     ,Cotton(lint)
+Gujarat,PATAN,2009,Kharif     ,Jowar
+Gujarat,PATAN,2009,Kharif     ,Moong(Green Gram)
+Gujarat,PATAN,2009,Kharif     ,Moth
+Gujarat,PATAN,2009,Kharif     ,Other Cereals & Millets
+Gujarat,PATAN,2009,Kharif     ,Other Kharif pulses
+Gujarat,PATAN,2009,Kharif     ,Sesamum
+Gujarat,PATAN,2009,Kharif     ,Urad
+Gujarat,PATAN,2010,Kharif     ,Arhar/Tur
+Gujarat,PATAN,2010,Kharif     ,Bajra
+Gujarat,PATAN,2010,Kharif     ,Castor seed
+Gujarat,PATAN,2010,Kharif     ,Cotton(lint)
+Gujarat,PATAN,2010,Kharif     ,Jowar
+Gujarat,PATAN,2010,Kharif     ,Moong(Green Gram)
+Gujarat,PATAN,2010,Kharif     ,Moth
+Gujarat,PATAN,2010,Kharif     ,Other Cereals & Millets
+Gujarat,PATAN,2010,Kharif     ,Other Kharif pulses
+Gujarat,PATAN,2010,Kharif     ,other oilseeds
+Gujarat,PATAN,2010,Kharif     ,Sesamum
+Gujarat,PATAN,2010,Kharif     ,Urad
+Gujarat,PATAN,2011,Kharif     ,Arhar/Tur
+Gujarat,PATAN,2011,Kharif     ,Bajra
+Gujarat,PATAN,2011,Kharif     ,Castor seed
+Gujarat,PATAN,2011,Kharif     ,Cotton(lint)
+Gujarat,PATAN,2011,Kharif     ,Groundnut
+Gujarat,PATAN,2011,Kharif     ,Moong(Green Gram)
+Gujarat,PATAN,2011,Kharif     ,Moth
+Gujarat,PATAN,2011,Kharif     ,Other Cereals & Millets
+Gujarat,PATAN,2011,Kharif     ,Other Kharif pulses
+Gujarat,PATAN,2011,Kharif     ,Sesamum
+Gujarat,PATAN,2011,Kharif     ,Urad
+Gujarat,PATAN,2012,Kharif     ,Arhar/Tur
+Gujarat,PATAN,2012,Kharif     ,Bajra
+Gujarat,PATAN,2012,Kharif     ,Castor seed
+Gujarat,PATAN,2012,Kharif     ,Cotton(lint)
+Gujarat,PATAN,2012,Kharif     ,Groundnut
+Gujarat,PATAN,2012,Kharif     ,Moong(Green Gram)
+Gujarat,PATAN,2012,Kharif     ,Moth
+Gujarat,PATAN,2012,Kharif     ,Other Cereals & Millets
+Gujarat,PATAN,2012,Kharif     ,Other Kharif pulses
+Gujarat,PATAN,2012,Kharif     ,Sesamum
+Gujarat,PATAN,2012,Kharif     ,Urad
+Gujarat,PORBANDAR,2003,Kharif     ,Arhar/Tur
+Gujarat,PORBANDAR,2003,Kharif     ,Bajra
+Gujarat,PORBANDAR,2003,Kharif     ,Castor seed
+Gujarat,PORBANDAR,2003,Kharif     ,Cotton(lint)
+Gujarat,PORBANDAR,2003,Kharif     ,Groundnut
+Gujarat,PORBANDAR,2003,Kharif     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2003,Kharif     ,Sesamum
+Gujarat,PORBANDAR,2003,Kharif     ,Urad
+Gujarat,PORBANDAR,2004,Kharif     ,Bajra
+Gujarat,PORBANDAR,2004,Kharif     ,Castor seed
+Gujarat,PORBANDAR,2004,Kharif     ,Cotton(lint)
+Gujarat,PORBANDAR,2004,Kharif     ,Groundnut
+Gujarat,PORBANDAR,2004,Kharif     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2004,Kharif     ,Sesamum
+Gujarat,PORBANDAR,2004,Kharif     ,Urad
+Gujarat,PORBANDAR,2005,Kharif     ,Bajra
+Gujarat,PORBANDAR,2005,Kharif     ,Castor seed
+Gujarat,PORBANDAR,2005,Kharif     ,Cotton(lint)
+Gujarat,PORBANDAR,2005,Kharif     ,Groundnut
+Gujarat,PORBANDAR,2005,Kharif     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2005,Kharif     ,Sesamum
+Gujarat,PORBANDAR,2005,Kharif     ,Urad
+Gujarat,PORBANDAR,2006,Kharif     ,Bajra
+Gujarat,PORBANDAR,2006,Kharif     ,Castor seed
+Gujarat,PORBANDAR,2006,Kharif     ,Cotton(lint)
+Gujarat,PORBANDAR,2006,Kharif     ,Groundnut
+Gujarat,PORBANDAR,2006,Kharif     ,Jowar
+Gujarat,PORBANDAR,2006,Kharif     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2006,Kharif     ,Sesamum
+Gujarat,PORBANDAR,2006,Kharif     ,Urad
+Gujarat,PORBANDAR,2007,Kharif     ,Bajra
+Gujarat,PORBANDAR,2007,Kharif     ,Castor seed
+Gujarat,PORBANDAR,2007,Kharif     ,Cotton(lint)
+Gujarat,PORBANDAR,2007,Kharif     ,Groundnut
+Gujarat,PORBANDAR,2007,Kharif     ,Jowar
+Gujarat,PORBANDAR,2007,Kharif     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2007,Kharif     ,Moth
+Gujarat,PORBANDAR,2007,Kharif     ,Sesamum
+Gujarat,PORBANDAR,2007,Kharif     ,Urad
+Gujarat,PORBANDAR,2008,Kharif     ,Bajra
+Gujarat,PORBANDAR,2008,Kharif     ,Castor seed
+Gujarat,PORBANDAR,2008,Kharif     ,Cotton(lint)
+Gujarat,PORBANDAR,2008,Kharif     ,Groundnut
+Gujarat,PORBANDAR,2008,Kharif     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2008,Kharif     ,Sesamum
+Gujarat,PORBANDAR,2008,Kharif     ,Urad
+Gujarat,PORBANDAR,2009,Kharif     ,Bajra
+Gujarat,PORBANDAR,2009,Kharif     ,Castor seed
+Gujarat,PORBANDAR,2009,Kharif     ,Cotton(lint)
+Gujarat,PORBANDAR,2009,Kharif     ,Groundnut
+Gujarat,PORBANDAR,2009,Kharif     ,Maize
+Gujarat,PORBANDAR,2009,Kharif     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2009,Kharif     ,Urad
+Gujarat,PORBANDAR,2010,Kharif     ,Arhar/Tur
+Gujarat,PORBANDAR,2010,Kharif     ,Bajra
+Gujarat,PORBANDAR,2010,Kharif     ,Castor seed
+Gujarat,PORBANDAR,2010,Kharif     ,Cotton(lint)
+Gujarat,PORBANDAR,2010,Kharif     ,Groundnut
+Gujarat,PORBANDAR,2010,Kharif     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2010,Kharif     ,other oilseeds
+Gujarat,PORBANDAR,2010,Kharif     ,Sesamum
+Gujarat,PORBANDAR,2010,Kharif     ,Urad
+Gujarat,PORBANDAR,2011,Kharif     ,Bajra
+Gujarat,PORBANDAR,2011,Kharif     ,Castor seed
+Gujarat,PORBANDAR,2011,Kharif     ,Cotton(lint)
+Gujarat,PORBANDAR,2011,Kharif     ,Groundnut
+Gujarat,PORBANDAR,2011,Kharif     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2011,Kharif     ,Sesamum
+Gujarat,PORBANDAR,2011,Kharif     ,Urad
+Gujarat,PORBANDAR,2012,Kharif     ,Bajra
+Gujarat,PORBANDAR,2012,Kharif     ,Castor seed
+Gujarat,PORBANDAR,2012,Kharif     ,Cotton(lint)
+Gujarat,PORBANDAR,2012,Kharif     ,Groundnut
+Gujarat,PORBANDAR,2012,Kharif     ,Moong(Green Gram)
+Gujarat,PORBANDAR,2012,Kharif     ,Sesamum
+Gujarat,PORBANDAR,2012,Kharif     ,Urad
+Gujarat,RAJKOT,1997,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,1997,Kharif     ,Bajra
+Gujarat,RAJKOT,1997,Kharif     ,Dry chillies
+Gujarat,RAJKOT,1997,Kharif     ,Groundnut
+Gujarat,RAJKOT,1997,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,1997,Kharif     ,Moth
+Gujarat,RAJKOT,1997,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,1997,Kharif     ,Urad
+Gujarat,RAJKOT,1998,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,1998,Kharif     ,Bajra
+Gujarat,RAJKOT,1998,Kharif     ,Castor seed
+Gujarat,RAJKOT,1998,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,1998,Kharif     ,Groundnut
+Gujarat,RAJKOT,1998,Kharif     ,Jowar
+Gujarat,RAJKOT,1998,Kharif     ,Maize
+Gujarat,RAJKOT,1998,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,1998,Kharif     ,Moth
+Gujarat,RAJKOT,1998,Kharif     ,Other Cereals & Millets
+Gujarat,RAJKOT,1998,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,1998,Kharif     ,Sesamum
+Gujarat,RAJKOT,1998,Kharif     ,Small millets
+Gujarat,RAJKOT,1998,Kharif     ,Urad
+Gujarat,RAJKOT,1999,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,1999,Kharif     ,Bajra
+Gujarat,RAJKOT,1999,Kharif     ,Castor seed
+Gujarat,RAJKOT,1999,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,1999,Kharif     ,Groundnut
+Gujarat,RAJKOT,1999,Kharif     ,Jowar
+Gujarat,RAJKOT,1999,Kharif     ,Maize
+Gujarat,RAJKOT,1999,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,1999,Kharif     ,Moth
+Gujarat,RAJKOT,1999,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,1999,Kharif     ,Sesamum
+Gujarat,RAJKOT,1999,Kharif     ,Urad
+Gujarat,RAJKOT,2000,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2000,Kharif     ,Bajra
+Gujarat,RAJKOT,2000,Kharif     ,Castor seed
+Gujarat,RAJKOT,2000,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2000,Kharif     ,Groundnut
+Gujarat,RAJKOT,2000,Kharif     ,Jowar
+Gujarat,RAJKOT,2000,Kharif     ,Maize
+Gujarat,RAJKOT,2000,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2000,Kharif     ,Moth
+Gujarat,RAJKOT,2000,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2000,Kharif     ,Sesamum
+Gujarat,RAJKOT,2000,Kharif     ,Urad
+Gujarat,RAJKOT,2001,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2001,Kharif     ,Bajra
+Gujarat,RAJKOT,2001,Kharif     ,Castor seed
+Gujarat,RAJKOT,2001,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2001,Kharif     ,Groundnut
+Gujarat,RAJKOT,2001,Kharif     ,Jowar
+Gujarat,RAJKOT,2001,Kharif     ,Maize
+Gujarat,RAJKOT,2001,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2001,Kharif     ,Moth
+Gujarat,RAJKOT,2001,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2001,Kharif     ,Sesamum
+Gujarat,RAJKOT,2001,Kharif     ,Urad
+Gujarat,RAJKOT,2002,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2002,Kharif     ,Bajra
+Gujarat,RAJKOT,2002,Kharif     ,Castor seed
+Gujarat,RAJKOT,2002,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2002,Kharif     ,Groundnut
+Gujarat,RAJKOT,2002,Kharif     ,Jowar
+Gujarat,RAJKOT,2002,Kharif     ,Maize
+Gujarat,RAJKOT,2002,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2002,Kharif     ,Moth
+Gujarat,RAJKOT,2002,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2002,Kharif     ,Sesamum
+Gujarat,RAJKOT,2002,Kharif     ,Urad
+Gujarat,RAJKOT,2003,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2003,Kharif     ,Bajra
+Gujarat,RAJKOT,2003,Kharif     ,Castor seed
+Gujarat,RAJKOT,2003,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2003,Kharif     ,Groundnut
+Gujarat,RAJKOT,2003,Kharif     ,Jowar
+Gujarat,RAJKOT,2003,Kharif     ,Maize
+Gujarat,RAJKOT,2003,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2003,Kharif     ,Moth
+Gujarat,RAJKOT,2003,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2003,Kharif     ,Sesamum
+Gujarat,RAJKOT,2003,Kharif     ,Urad
+Gujarat,RAJKOT,2004,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2004,Kharif     ,Bajra
+Gujarat,RAJKOT,2004,Kharif     ,Castor seed
+Gujarat,RAJKOT,2004,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2004,Kharif     ,Groundnut
+Gujarat,RAJKOT,2004,Kharif     ,Jowar
+Gujarat,RAJKOT,2004,Kharif     ,Maize
+Gujarat,RAJKOT,2004,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2004,Kharif     ,Moth
+Gujarat,RAJKOT,2004,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2004,Kharif     ,Sesamum
+Gujarat,RAJKOT,2004,Kharif     ,Urad
+Gujarat,RAJKOT,2005,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2005,Kharif     ,Bajra
+Gujarat,RAJKOT,2005,Kharif     ,Castor seed
+Gujarat,RAJKOT,2005,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2005,Kharif     ,Groundnut
+Gujarat,RAJKOT,2005,Kharif     ,Jowar
+Gujarat,RAJKOT,2005,Kharif     ,Maize
+Gujarat,RAJKOT,2005,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2005,Kharif     ,Moth
+Gujarat,RAJKOT,2005,Kharif     ,Other Cereals & Millets
+Gujarat,RAJKOT,2005,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2005,Kharif     ,Sesamum
+Gujarat,RAJKOT,2005,Kharif     ,Urad
+Gujarat,RAJKOT,2006,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2006,Kharif     ,Bajra
+Gujarat,RAJKOT,2006,Kharif     ,Castor seed
+Gujarat,RAJKOT,2006,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2006,Kharif     ,Groundnut
+Gujarat,RAJKOT,2006,Kharif     ,Jowar
+Gujarat,RAJKOT,2006,Kharif     ,Maize
+Gujarat,RAJKOT,2006,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2006,Kharif     ,Moth
+Gujarat,RAJKOT,2006,Kharif     ,Other Cereals & Millets
+Gujarat,RAJKOT,2006,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2006,Kharif     ,Sesamum
+Gujarat,RAJKOT,2006,Kharif     ,Urad
+Gujarat,RAJKOT,2007,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2007,Kharif     ,Bajra
+Gujarat,RAJKOT,2007,Kharif     ,Castor seed
+Gujarat,RAJKOT,2007,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2007,Kharif     ,Groundnut
+Gujarat,RAJKOT,2007,Kharif     ,Jowar
+Gujarat,RAJKOT,2007,Kharif     ,Maize
+Gujarat,RAJKOT,2007,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2007,Kharif     ,Moth
+Gujarat,RAJKOT,2007,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2007,Kharif     ,Sesamum
+Gujarat,RAJKOT,2007,Kharif     ,Urad
+Gujarat,RAJKOT,2008,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2008,Kharif     ,Bajra
+Gujarat,RAJKOT,2008,Kharif     ,Castor seed
+Gujarat,RAJKOT,2008,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2008,Kharif     ,Groundnut
+Gujarat,RAJKOT,2008,Kharif     ,Jowar
+Gujarat,RAJKOT,2008,Kharif     ,Maize
+Gujarat,RAJKOT,2008,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2008,Kharif     ,Moth
+Gujarat,RAJKOT,2008,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2008,Kharif     ,Sesamum
+Gujarat,RAJKOT,2008,Kharif     ,Urad
+Gujarat,RAJKOT,2009,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2009,Kharif     ,Bajra
+Gujarat,RAJKOT,2009,Kharif     ,Castor seed
+Gujarat,RAJKOT,2009,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2009,Kharif     ,Groundnut
+Gujarat,RAJKOT,2009,Kharif     ,Jowar
+Gujarat,RAJKOT,2009,Kharif     ,Maize
+Gujarat,RAJKOT,2009,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2009,Kharif     ,Moth
+Gujarat,RAJKOT,2009,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2009,Kharif     ,Sesamum
+Gujarat,RAJKOT,2009,Kharif     ,Urad
+Gujarat,RAJKOT,2010,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2010,Kharif     ,Bajra
+Gujarat,RAJKOT,2010,Kharif     ,Castor seed
+Gujarat,RAJKOT,2010,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2010,Kharif     ,Groundnut
+Gujarat,RAJKOT,2010,Kharif     ,Jowar
+Gujarat,RAJKOT,2010,Kharif     ,Maize
+Gujarat,RAJKOT,2010,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2010,Kharif     ,Moth
+Gujarat,RAJKOT,2010,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2010,Kharif     ,other oilseeds
+Gujarat,RAJKOT,2010,Kharif     ,Sesamum
+Gujarat,RAJKOT,2010,Kharif     ,Urad
+Gujarat,RAJKOT,2011,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2011,Kharif     ,Bajra
+Gujarat,RAJKOT,2011,Kharif     ,Castor seed
+Gujarat,RAJKOT,2011,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2011,Kharif     ,Groundnut
+Gujarat,RAJKOT,2011,Kharif     ,Jowar
+Gujarat,RAJKOT,2011,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2011,Kharif     ,Moth
+Gujarat,RAJKOT,2011,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2011,Kharif     ,Sesamum
+Gujarat,RAJKOT,2011,Kharif     ,Urad
+Gujarat,RAJKOT,2012,Kharif     ,Arhar/Tur
+Gujarat,RAJKOT,2012,Kharif     ,Bajra
+Gujarat,RAJKOT,2012,Kharif     ,Castor seed
+Gujarat,RAJKOT,2012,Kharif     ,Cotton(lint)
+Gujarat,RAJKOT,2012,Kharif     ,Groundnut
+Gujarat,RAJKOT,2012,Kharif     ,Maize
+Gujarat,RAJKOT,2012,Kharif     ,Moong(Green Gram)
+Gujarat,RAJKOT,2012,Kharif     ,Moth
+Gujarat,RAJKOT,2012,Kharif     ,Other Kharif pulses
+Gujarat,RAJKOT,2012,Kharif     ,Sesamum
+Gujarat,RAJKOT,2012,Kharif     ,Urad
+Gujarat,SABAR KANTHA,1997,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,1997,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,1997,Kharif     ,Dry chillies
+Gujarat,SABAR KANTHA,1997,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,1997,Kharif     ,Jowar
+Gujarat,SABAR KANTHA,1997,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,1997,Kharif     ,Moth
+Gujarat,SABAR KANTHA,1997,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,1997,Kharif     ,Urad
+Gujarat,SABAR KANTHA,1998,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,1998,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,1998,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,1998,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,1998,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,1998,Kharif     ,Jowar
+Gujarat,SABAR KANTHA,1998,Kharif     ,Maize
+Gujarat,SABAR KANTHA,1998,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,1998,Kharif     ,Moth
+Gujarat,SABAR KANTHA,1998,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,1998,Kharif     ,Rice
+Gujarat,SABAR KANTHA,1998,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,1998,Kharif     ,Urad
+Gujarat,SABAR KANTHA,1999,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,1999,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,1999,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,1999,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,1999,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,1999,Kharif     ,Maize
+Gujarat,SABAR KANTHA,1999,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,1999,Kharif     ,Moth
+Gujarat,SABAR KANTHA,1999,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,1999,Kharif     ,Rice
+Gujarat,SABAR KANTHA,1999,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,1999,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2000,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2000,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2000,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2000,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2000,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2000,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2000,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2000,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2000,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2000,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2000,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2000,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2001,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2001,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2001,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2001,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2001,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2001,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2001,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2001,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2001,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2001,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2001,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2001,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2002,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2002,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2002,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2002,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2002,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2002,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2002,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2002,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2002,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2002,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2002,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2002,Kharif     ,Small millets
+Gujarat,SABAR KANTHA,2002,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2003,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2003,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2003,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2003,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2003,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2003,Kharif     ,Jowar
+Gujarat,SABAR KANTHA,2003,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2003,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2003,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2003,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2003,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2003,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2003,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2004,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2004,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2004,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2004,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2004,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2004,Kharif     ,Jowar
+Gujarat,SABAR KANTHA,2004,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2004,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2004,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2004,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2004,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2004,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2004,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2005,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2005,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2005,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2005,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2005,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2005,Kharif     ,Jowar
+Gujarat,SABAR KANTHA,2005,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2005,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2005,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2005,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2005,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2005,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2005,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2006,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2006,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2006,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2006,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2006,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2006,Kharif     ,Jowar
+Gujarat,SABAR KANTHA,2006,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2006,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2006,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2006,Kharif     ,Other Cereals & Millets
+Gujarat,SABAR KANTHA,2006,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2006,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2006,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2006,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2007,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2007,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2007,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2007,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2007,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2007,Kharif     ,Jowar
+Gujarat,SABAR KANTHA,2007,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2007,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2007,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2007,Kharif     ,Other Cereals & Millets
+Gujarat,SABAR KANTHA,2007,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2007,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2007,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2007,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2008,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2008,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2008,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2008,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2008,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2008,Kharif     ,Jowar
+Gujarat,SABAR KANTHA,2008,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2008,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2008,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2008,Kharif     ,Other Cereals & Millets
+Gujarat,SABAR KANTHA,2008,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2008,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2008,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2008,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2009,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2009,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2009,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2009,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2009,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2009,Kharif     ,Jowar
+Gujarat,SABAR KANTHA,2009,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2009,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2009,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2009,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2009,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2009,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2009,Kharif     ,Tobacco
+Gujarat,SABAR KANTHA,2009,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2010,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2010,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2010,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2010,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2010,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2010,Kharif     ,Jowar
+Gujarat,SABAR KANTHA,2010,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2010,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2010,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2010,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2010,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2010,Kharif     ,Soyabean
+Gujarat,SABAR KANTHA,2010,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2011,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2011,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2011,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2011,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2011,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2011,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2011,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2011,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2011,Kharif     ,Other Cereals & Millets
+Gujarat,SABAR KANTHA,2011,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2011,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2011,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2011,Kharif     ,Soyabean
+Gujarat,SABAR KANTHA,2011,Kharif     ,Urad
+Gujarat,SABAR KANTHA,2012,Kharif     ,Arhar/Tur
+Gujarat,SABAR KANTHA,2012,Kharif     ,Bajra
+Gujarat,SABAR KANTHA,2012,Kharif     ,Castor seed
+Gujarat,SABAR KANTHA,2012,Kharif     ,Cotton(lint)
+Gujarat,SABAR KANTHA,2012,Kharif     ,Groundnut
+Gujarat,SABAR KANTHA,2012,Kharif     ,Maize
+Gujarat,SABAR KANTHA,2012,Kharif     ,Moong(Green Gram)
+Gujarat,SABAR KANTHA,2012,Kharif     ,Moth
+Gujarat,SABAR KANTHA,2012,Kharif     ,Other Cereals & Millets
+Gujarat,SABAR KANTHA,2012,Kharif     ,Other Kharif pulses
+Gujarat,SABAR KANTHA,2012,Kharif     ,Rice
+Gujarat,SABAR KANTHA,2012,Kharif     ,Sesamum
+Gujarat,SABAR KANTHA,2012,Kharif     ,Soyabean
+Gujarat,SABAR KANTHA,2012,Kharif     ,Urad
+Gujarat,SURAT,1997,Kharif     ,Arhar/Tur
+Gujarat,SURAT,1997,Kharif     ,Bajra
+Gujarat,SURAT,1997,Kharif     ,Dry chillies
+Gujarat,SURAT,1997,Kharif     ,Groundnut
+Gujarat,SURAT,1997,Kharif     ,Jowar
+Gujarat,SURAT,1997,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,1997,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,1997,Kharif     ,Urad
+Gujarat,SURAT,1998,Kharif     ,Arhar/Tur
+Gujarat,SURAT,1998,Kharif     ,Castor seed
+Gujarat,SURAT,1998,Kharif     ,Cotton(lint)
+Gujarat,SURAT,1998,Kharif     ,Groundnut
+Gujarat,SURAT,1998,Kharif     ,Jowar
+Gujarat,SURAT,1998,Kharif     ,Maize
+Gujarat,SURAT,1998,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,1998,Kharif     ,Moth
+Gujarat,SURAT,1998,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,1998,Kharif     ,Ragi
+Gujarat,SURAT,1998,Kharif     ,Rice
+Gujarat,SURAT,1998,Kharif     ,Sesamum
+Gujarat,SURAT,1998,Kharif     ,Urad
+Gujarat,SURAT,1999,Kharif     ,Arhar/Tur
+Gujarat,SURAT,1999,Kharif     ,Castor seed
+Gujarat,SURAT,1999,Kharif     ,Cotton(lint)
+Gujarat,SURAT,1999,Kharif     ,Groundnut
+Gujarat,SURAT,1999,Kharif     ,Jowar
+Gujarat,SURAT,1999,Kharif     ,Maize
+Gujarat,SURAT,1999,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,1999,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,1999,Kharif     ,Ragi
+Gujarat,SURAT,1999,Kharif     ,Rice
+Gujarat,SURAT,1999,Kharif     ,Sesamum
+Gujarat,SURAT,1999,Kharif     ,Urad
+Gujarat,SURAT,2000,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2000,Kharif     ,Bajra
+Gujarat,SURAT,2000,Kharif     ,Castor seed
+Gujarat,SURAT,2000,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2000,Kharif     ,Groundnut
+Gujarat,SURAT,2000,Kharif     ,Jowar
+Gujarat,SURAT,2000,Kharif     ,Maize
+Gujarat,SURAT,2000,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2000,Kharif     ,Moth
+Gujarat,SURAT,2000,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2000,Kharif     ,Ragi
+Gujarat,SURAT,2000,Kharif     ,Rice
+Gujarat,SURAT,2000,Kharif     ,Sesamum
+Gujarat,SURAT,2000,Kharif     ,Urad
+Gujarat,SURAT,2001,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2001,Kharif     ,Bajra
+Gujarat,SURAT,2001,Kharif     ,Castor seed
+Gujarat,SURAT,2001,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2001,Kharif     ,Groundnut
+Gujarat,SURAT,2001,Kharif     ,Jowar
+Gujarat,SURAT,2001,Kharif     ,Maize
+Gujarat,SURAT,2001,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2001,Kharif     ,Moth
+Gujarat,SURAT,2001,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2001,Kharif     ,Ragi
+Gujarat,SURAT,2001,Kharif     ,Rice
+Gujarat,SURAT,2001,Kharif     ,Sesamum
+Gujarat,SURAT,2001,Kharif     ,Urad
+Gujarat,SURAT,2002,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2002,Kharif     ,Bajra
+Gujarat,SURAT,2002,Kharif     ,Castor seed
+Gujarat,SURAT,2002,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2002,Kharif     ,Groundnut
+Gujarat,SURAT,2002,Kharif     ,Jowar
+Gujarat,SURAT,2002,Kharif     ,Maize
+Gujarat,SURAT,2002,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2002,Kharif     ,Moth
+Gujarat,SURAT,2002,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2002,Kharif     ,Rice
+Gujarat,SURAT,2002,Kharif     ,Sesamum
+Gujarat,SURAT,2002,Kharif     ,Small millets
+Gujarat,SURAT,2002,Kharif     ,Urad
+Gujarat,SURAT,2003,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2003,Kharif     ,Bajra
+Gujarat,SURAT,2003,Kharif     ,Castor seed
+Gujarat,SURAT,2003,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2003,Kharif     ,Groundnut
+Gujarat,SURAT,2003,Kharif     ,Jowar
+Gujarat,SURAT,2003,Kharif     ,Maize
+Gujarat,SURAT,2003,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2003,Kharif     ,Moth
+Gujarat,SURAT,2003,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2003,Kharif     ,Rice
+Gujarat,SURAT,2003,Kharif     ,Sesamum
+Gujarat,SURAT,2003,Kharif     ,Small millets
+Gujarat,SURAT,2003,Kharif     ,Urad
+Gujarat,SURAT,2004,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2004,Kharif     ,Bajra
+Gujarat,SURAT,2004,Kharif     ,Castor seed
+Gujarat,SURAT,2004,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2004,Kharif     ,Groundnut
+Gujarat,SURAT,2004,Kharif     ,Jowar
+Gujarat,SURAT,2004,Kharif     ,Maize
+Gujarat,SURAT,2004,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2004,Kharif     ,Other Cereals & Millets
+Gujarat,SURAT,2004,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2004,Kharif     ,Rice
+Gujarat,SURAT,2004,Kharif     ,Sesamum
+Gujarat,SURAT,2004,Kharif     ,Small millets
+Gujarat,SURAT,2004,Kharif     ,Urad
+Gujarat,SURAT,2005,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2005,Kharif     ,Bajra
+Gujarat,SURAT,2005,Kharif     ,Castor seed
+Gujarat,SURAT,2005,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2005,Kharif     ,Groundnut
+Gujarat,SURAT,2005,Kharif     ,Jowar
+Gujarat,SURAT,2005,Kharif     ,Maize
+Gujarat,SURAT,2005,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2005,Kharif     ,Other Cereals & Millets
+Gujarat,SURAT,2005,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2005,Kharif     ,Rice
+Gujarat,SURAT,2005,Kharif     ,Sesamum
+Gujarat,SURAT,2005,Kharif     ,Urad
+Gujarat,SURAT,2006,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2006,Kharif     ,Bajra
+Gujarat,SURAT,2006,Kharif     ,Castor seed
+Gujarat,SURAT,2006,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2006,Kharif     ,Groundnut
+Gujarat,SURAT,2006,Kharif     ,Jowar
+Gujarat,SURAT,2006,Kharif     ,Maize
+Gujarat,SURAT,2006,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2006,Kharif     ,Other Cereals & Millets
+Gujarat,SURAT,2006,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2006,Kharif     ,Rice
+Gujarat,SURAT,2006,Kharif     ,Urad
+Gujarat,SURAT,2007,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2007,Kharif     ,Bajra
+Gujarat,SURAT,2007,Kharif     ,Castor seed
+Gujarat,SURAT,2007,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2007,Kharif     ,Groundnut
+Gujarat,SURAT,2007,Kharif     ,Jowar
+Gujarat,SURAT,2007,Kharif     ,Maize
+Gujarat,SURAT,2007,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2007,Kharif     ,Other Cereals & Millets
+Gujarat,SURAT,2007,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2007,Kharif     ,Rice
+Gujarat,SURAT,2007,Kharif     ,Sesamum
+Gujarat,SURAT,2007,Kharif     ,Urad
+Gujarat,SURAT,2008,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2008,Kharif     ,Bajra
+Gujarat,SURAT,2008,Kharif     ,Castor seed
+Gujarat,SURAT,2008,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2008,Kharif     ,Groundnut
+Gujarat,SURAT,2008,Kharif     ,Jowar
+Gujarat,SURAT,2008,Kharif     ,Maize
+Gujarat,SURAT,2008,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2008,Kharif     ,Moth
+Gujarat,SURAT,2008,Kharif     ,Other Cereals & Millets
+Gujarat,SURAT,2008,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2008,Kharif     ,Rice
+Gujarat,SURAT,2008,Kharif     ,Urad
+Gujarat,SURAT,2009,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2009,Kharif     ,Bajra
+Gujarat,SURAT,2009,Kharif     ,Castor seed
+Gujarat,SURAT,2009,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2009,Kharif     ,Groundnut
+Gujarat,SURAT,2009,Kharif     ,Jowar
+Gujarat,SURAT,2009,Kharif     ,Maize
+Gujarat,SURAT,2009,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2009,Kharif     ,Moth
+Gujarat,SURAT,2009,Kharif     ,Other Cereals & Millets
+Gujarat,SURAT,2009,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2009,Kharif     ,Rice
+Gujarat,SURAT,2009,Kharif     ,Urad
+Gujarat,SURAT,2010,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2010,Kharif     ,Bajra
+Gujarat,SURAT,2010,Kharif     ,Castor seed
+Gujarat,SURAT,2010,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2010,Kharif     ,Groundnut
+Gujarat,SURAT,2010,Kharif     ,Jowar
+Gujarat,SURAT,2010,Kharif     ,Maize
+Gujarat,SURAT,2010,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2010,Kharif     ,Moth
+Gujarat,SURAT,2010,Kharif     ,Other Cereals & Millets
+Gujarat,SURAT,2010,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2010,Kharif     ,other oilseeds
+Gujarat,SURAT,2010,Kharif     ,Rice
+Gujarat,SURAT,2010,Kharif     ,Sesamum
+Gujarat,SURAT,2010,Kharif     ,Soyabean
+Gujarat,SURAT,2010,Kharif     ,Urad
+Gujarat,SURAT,2011,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2011,Kharif     ,Castor seed
+Gujarat,SURAT,2011,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2011,Kharif     ,Groundnut
+Gujarat,SURAT,2011,Kharif     ,Jowar
+Gujarat,SURAT,2011,Kharif     ,Maize
+Gujarat,SURAT,2011,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2011,Kharif     ,Other Cereals & Millets
+Gujarat,SURAT,2011,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2011,Kharif     ,Rice
+Gujarat,SURAT,2011,Kharif     ,Sesamum
+Gujarat,SURAT,2011,Kharif     ,Urad
+Gujarat,SURAT,2012,Kharif     ,Arhar/Tur
+Gujarat,SURAT,2012,Kharif     ,Castor seed
+Gujarat,SURAT,2012,Kharif     ,Cotton(lint)
+Gujarat,SURAT,2012,Kharif     ,Groundnut
+Gujarat,SURAT,2012,Kharif     ,Jowar
+Gujarat,SURAT,2012,Kharif     ,Maize
+Gujarat,SURAT,2012,Kharif     ,Moong(Green Gram)
+Gujarat,SURAT,2012,Kharif     ,Moth
+Gujarat,SURAT,2012,Kharif     ,Other Cereals & Millets
+Gujarat,SURAT,2012,Kharif     ,Other Kharif pulses
+Gujarat,SURAT,2012,Kharif     ,Rice
+Gujarat,SURAT,2012,Kharif     ,Soyabean
+Gujarat,SURAT,2012,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,1997,Kharif     ,Arhar/Tur
+Gujarat,SURENDRANAGAR,1997,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,1997,Kharif     ,Dry chillies
+Gujarat,SURENDRANAGAR,1997,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,1997,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,1997,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,1997,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Arhar/Tur
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Other Kharif pulses
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,1999,Kharif     ,Arhar/Tur
+Gujarat,SURENDRANAGAR,1999,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,1999,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,1999,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,1999,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,1999,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,1999,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,1999,Kharif     ,Other Kharif pulses
+Gujarat,SURENDRANAGAR,1999,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,1999,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2000,Kharif     ,Arhar/Tur
+Gujarat,SURENDRANAGAR,2000,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2000,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2000,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2000,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2000,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2000,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2000,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,2000,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2001,Kharif     ,Arhar/Tur
+Gujarat,SURENDRANAGAR,2001,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2001,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2001,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2001,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2001,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2001,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2001,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,2001,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2001,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,2002,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2002,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2002,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2002,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2002,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2002,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2002,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,2002,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2002,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,2003,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2003,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2003,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2003,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2003,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2003,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2003,Kharif     ,Other Kharif pulses
+Gujarat,SURENDRANAGAR,2003,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,2003,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2003,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,2004,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2004,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2004,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2004,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2004,Kharif     ,Maize
+Gujarat,SURENDRANAGAR,2004,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2004,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2004,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2004,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,2005,Kharif     ,Arhar/Tur
+Gujarat,SURENDRANAGAR,2005,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2005,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2005,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2005,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2005,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2005,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2005,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,2005,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2005,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Arhar/Tur
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Jowar
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Other Kharif pulses
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Jowar
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Other Kharif pulses
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Jowar
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Other Kharif pulses
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,2009,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2009,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2009,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2009,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2009,Kharif     ,Jowar
+Gujarat,SURENDRANAGAR,2009,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2009,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2009,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,2009,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2009,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,2010,Kharif     ,Arhar/Tur
+Gujarat,SURENDRANAGAR,2010,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2010,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2010,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2010,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2010,Kharif     ,Jowar
+Gujarat,SURENDRANAGAR,2010,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2010,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2010,Kharif     ,Other Kharif pulses
+Gujarat,SURENDRANAGAR,2010,Kharif     ,other oilseeds
+Gujarat,SURENDRANAGAR,2010,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2010,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Arhar/Tur
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Jowar
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Other Kharif pulses
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Sesamum
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Urad
+Gujarat,SURENDRANAGAR,2012,Kharif     ,Bajra
+Gujarat,SURENDRANAGAR,2012,Kharif     ,Castor seed
+Gujarat,SURENDRANAGAR,2012,Kharif     ,Cotton(lint)
+Gujarat,SURENDRANAGAR,2012,Kharif     ,Groundnut
+Gujarat,SURENDRANAGAR,2012,Kharif     ,Moong(Green Gram)
+Gujarat,SURENDRANAGAR,2012,Kharif     ,Moth
+Gujarat,SURENDRANAGAR,2012,Kharif     ,Other Kharif pulses
+Gujarat,SURENDRANAGAR,2012,Kharif     ,Rice
+Gujarat,SURENDRANAGAR,2012,Kharif     ,Sesamum
+Gujarat,TAPI,2008,Kharif     ,Arhar/Tur
+Gujarat,TAPI,2008,Kharif     ,Castor seed
+Gujarat,TAPI,2008,Kharif     ,Cotton(lint)
+Gujarat,TAPI,2008,Kharif     ,Groundnut
+Gujarat,TAPI,2008,Kharif     ,Jowar
+Gujarat,TAPI,2008,Kharif     ,Maize
+Gujarat,TAPI,2008,Kharif     ,Moong(Green Gram)
+Gujarat,TAPI,2008,Kharif     ,Other Kharif pulses
+Gujarat,TAPI,2008,Kharif     ,Rice
+Gujarat,TAPI,2008,Kharif     ,Urad
+Gujarat,TAPI,2009,Kharif     ,Arhar/Tur
+Gujarat,TAPI,2009,Kharif     ,Castor seed
+Gujarat,TAPI,2009,Kharif     ,Cotton(lint)
+Gujarat,TAPI,2009,Kharif     ,Groundnut
+Gujarat,TAPI,2009,Kharif     ,Jowar
+Gujarat,TAPI,2009,Kharif     ,Maize
+Gujarat,TAPI,2009,Kharif     ,Moong(Green Gram)
+Gujarat,TAPI,2009,Kharif     ,Other Cereals & Millets
+Gujarat,TAPI,2009,Kharif     ,Other Kharif pulses
+Gujarat,TAPI,2009,Kharif     ,Rice
+Gujarat,TAPI,2009,Kharif     ,Urad
+Gujarat,TAPI,2010,Kharif     ,Arhar/Tur
+Gujarat,TAPI,2010,Kharif     ,Bajra
+Gujarat,TAPI,2010,Kharif     ,Cotton(lint)
+Gujarat,TAPI,2010,Kharif     ,Groundnut
+Gujarat,TAPI,2010,Kharif     ,Jowar
+Gujarat,TAPI,2010,Kharif     ,Maize
+Gujarat,TAPI,2010,Kharif     ,Moong(Green Gram)
+Gujarat,TAPI,2010,Kharif     ,Other Cereals & Millets
+Gujarat,TAPI,2010,Kharif     ,Other Kharif pulses
+Gujarat,TAPI,2010,Kharif     ,other oilseeds
+Gujarat,TAPI,2010,Kharif     ,Rice
+Gujarat,TAPI,2010,Kharif     ,Sesamum
+Gujarat,TAPI,2010,Kharif     ,Soyabean
+Gujarat,TAPI,2010,Kharif     ,Urad
+Gujarat,TAPI,2011,Kharif     ,Arhar/Tur
+Gujarat,TAPI,2011,Kharif     ,Castor seed
+Gujarat,TAPI,2011,Kharif     ,Cotton(lint)
+Gujarat,TAPI,2011,Kharif     ,Groundnut
+Gujarat,TAPI,2011,Kharif     ,Jowar
+Gujarat,TAPI,2011,Kharif     ,Maize
+Gujarat,TAPI,2011,Kharif     ,Moong(Green Gram)
+Gujarat,TAPI,2011,Kharif     ,Other Cereals & Millets
+Gujarat,TAPI,2011,Kharif     ,Other Kharif pulses
+Gujarat,TAPI,2011,Kharif     ,Rice
+Gujarat,TAPI,2011,Kharif     ,Sesamum
+Gujarat,TAPI,2011,Kharif     ,Soyabean
+Gujarat,TAPI,2011,Kharif     ,Urad
+Gujarat,TAPI,2012,Kharif     ,Arhar/Tur
+Gujarat,TAPI,2012,Kharif     ,Castor seed
+Gujarat,TAPI,2012,Kharif     ,Cotton(lint)
+Gujarat,TAPI,2012,Kharif     ,Groundnut
+Gujarat,TAPI,2012,Kharif     ,Jowar
+Gujarat,TAPI,2012,Kharif     ,Maize
+Gujarat,TAPI,2012,Kharif     ,Moong(Green Gram)
+Gujarat,TAPI,2012,Kharif     ,Other Cereals & Millets
+Gujarat,TAPI,2012,Kharif     ,Other Kharif pulses
+Gujarat,TAPI,2012,Kharif     ,Rice
+Gujarat,TAPI,2012,Kharif     ,Soyabean
+Gujarat,TAPI,2012,Kharif     ,Urad
+Gujarat,VADODARA,1997,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,1997,Kharif     ,Bajra
+Gujarat,VADODARA,1997,Kharif     ,Dry chillies
+Gujarat,VADODARA,1997,Kharif     ,Groundnut
+Gujarat,VADODARA,1997,Kharif     ,Jowar
+Gujarat,VADODARA,1997,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,1997,Kharif     ,Moth
+Gujarat,VADODARA,1997,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,1997,Kharif     ,Urad
+Gujarat,VADODARA,1998,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,1998,Kharif     ,Bajra
+Gujarat,VADODARA,1998,Kharif     ,Castor seed
+Gujarat,VADODARA,1998,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,1998,Kharif     ,Groundnut
+Gujarat,VADODARA,1998,Kharif     ,Jowar
+Gujarat,VADODARA,1998,Kharif     ,Maize
+Gujarat,VADODARA,1998,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,1998,Kharif     ,Moth
+Gujarat,VADODARA,1998,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,1998,Kharif     ,Rice
+Gujarat,VADODARA,1998,Kharif     ,Sesamum
+Gujarat,VADODARA,1998,Kharif     ,Urad
+Gujarat,VADODARA,1999,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,1999,Kharif     ,Bajra
+Gujarat,VADODARA,1999,Kharif     ,Castor seed
+Gujarat,VADODARA,1999,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,1999,Kharif     ,Groundnut
+Gujarat,VADODARA,1999,Kharif     ,Jowar
+Gujarat,VADODARA,1999,Kharif     ,Maize
+Gujarat,VADODARA,1999,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,1999,Kharif     ,Moth
+Gujarat,VADODARA,1999,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,1999,Kharif     ,Rice
+Gujarat,VADODARA,1999,Kharif     ,Sesamum
+Gujarat,VADODARA,1999,Kharif     ,Urad
+Gujarat,VADODARA,2000,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2000,Kharif     ,Bajra
+Gujarat,VADODARA,2000,Kharif     ,Castor seed
+Gujarat,VADODARA,2000,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2000,Kharif     ,Groundnut
+Gujarat,VADODARA,2000,Kharif     ,Jowar
+Gujarat,VADODARA,2000,Kharif     ,Maize
+Gujarat,VADODARA,2000,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2000,Kharif     ,Moth
+Gujarat,VADODARA,2000,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2000,Kharif     ,Rice
+Gujarat,VADODARA,2000,Kharif     ,Sesamum
+Gujarat,VADODARA,2000,Kharif     ,Urad
+Gujarat,VADODARA,2001,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2001,Kharif     ,Bajra
+Gujarat,VADODARA,2001,Kharif     ,Castor seed
+Gujarat,VADODARA,2001,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2001,Kharif     ,Groundnut
+Gujarat,VADODARA,2001,Kharif     ,Jowar
+Gujarat,VADODARA,2001,Kharif     ,Maize
+Gujarat,VADODARA,2001,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2001,Kharif     ,Moth
+Gujarat,VADODARA,2001,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2001,Kharif     ,Rice
+Gujarat,VADODARA,2001,Kharif     ,Sesamum
+Gujarat,VADODARA,2001,Kharif     ,Small millets
+Gujarat,VADODARA,2001,Kharif     ,Urad
+Gujarat,VADODARA,2002,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2002,Kharif     ,Bajra
+Gujarat,VADODARA,2002,Kharif     ,Castor seed
+Gujarat,VADODARA,2002,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2002,Kharif     ,Groundnut
+Gujarat,VADODARA,2002,Kharif     ,Jowar
+Gujarat,VADODARA,2002,Kharif     ,Maize
+Gujarat,VADODARA,2002,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2002,Kharif     ,Moth
+Gujarat,VADODARA,2002,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2002,Kharif     ,Rice
+Gujarat,VADODARA,2002,Kharif     ,Sesamum
+Gujarat,VADODARA,2002,Kharif     ,Urad
+Gujarat,VADODARA,2003,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2003,Kharif     ,Bajra
+Gujarat,VADODARA,2003,Kharif     ,Castor seed
+Gujarat,VADODARA,2003,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2003,Kharif     ,Groundnut
+Gujarat,VADODARA,2003,Kharif     ,Jowar
+Gujarat,VADODARA,2003,Kharif     ,Maize
+Gujarat,VADODARA,2003,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2003,Kharif     ,Moth
+Gujarat,VADODARA,2003,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2003,Kharif     ,Rice
+Gujarat,VADODARA,2003,Kharif     ,Sesamum
+Gujarat,VADODARA,2003,Kharif     ,Urad
+Gujarat,VADODARA,2004,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2004,Kharif     ,Bajra
+Gujarat,VADODARA,2004,Kharif     ,Castor seed
+Gujarat,VADODARA,2004,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2004,Kharif     ,Groundnut
+Gujarat,VADODARA,2004,Kharif     ,Jowar
+Gujarat,VADODARA,2004,Kharif     ,Maize
+Gujarat,VADODARA,2004,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2004,Kharif     ,Moth
+Gujarat,VADODARA,2004,Kharif     ,Other Cereals & Millets
+Gujarat,VADODARA,2004,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2004,Kharif     ,Rice
+Gujarat,VADODARA,2004,Kharif     ,Sesamum
+Gujarat,VADODARA,2004,Kharif     ,Small millets
+Gujarat,VADODARA,2004,Kharif     ,Urad
+Gujarat,VADODARA,2005,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2005,Kharif     ,Bajra
+Gujarat,VADODARA,2005,Kharif     ,Castor seed
+Gujarat,VADODARA,2005,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2005,Kharif     ,Groundnut
+Gujarat,VADODARA,2005,Kharif     ,Jowar
+Gujarat,VADODARA,2005,Kharif     ,Maize
+Gujarat,VADODARA,2005,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2005,Kharif     ,Moth
+Gujarat,VADODARA,2005,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2005,Kharif     ,Rice
+Gujarat,VADODARA,2005,Kharif     ,Sesamum
+Gujarat,VADODARA,2005,Kharif     ,Urad
+Gujarat,VADODARA,2006,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2006,Kharif     ,Bajra
+Gujarat,VADODARA,2006,Kharif     ,Castor seed
+Gujarat,VADODARA,2006,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2006,Kharif     ,Groundnut
+Gujarat,VADODARA,2006,Kharif     ,Jowar
+Gujarat,VADODARA,2006,Kharif     ,Maize
+Gujarat,VADODARA,2006,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2006,Kharif     ,Moth
+Gujarat,VADODARA,2006,Kharif     ,Other Cereals & Millets
+Gujarat,VADODARA,2006,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2006,Kharif     ,Rice
+Gujarat,VADODARA,2006,Kharif     ,Sesamum
+Gujarat,VADODARA,2006,Kharif     ,Urad
+Gujarat,VADODARA,2007,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2007,Kharif     ,Bajra
+Gujarat,VADODARA,2007,Kharif     ,Castor seed
+Gujarat,VADODARA,2007,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2007,Kharif     ,Groundnut
+Gujarat,VADODARA,2007,Kharif     ,Jowar
+Gujarat,VADODARA,2007,Kharif     ,Maize
+Gujarat,VADODARA,2007,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2007,Kharif     ,Other Cereals & Millets
+Gujarat,VADODARA,2007,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2007,Kharif     ,Rice
+Gujarat,VADODARA,2007,Kharif     ,Sesamum
+Gujarat,VADODARA,2007,Kharif     ,Urad
+Gujarat,VADODARA,2008,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2008,Kharif     ,Bajra
+Gujarat,VADODARA,2008,Kharif     ,Castor seed
+Gujarat,VADODARA,2008,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2008,Kharif     ,Groundnut
+Gujarat,VADODARA,2008,Kharif     ,Jowar
+Gujarat,VADODARA,2008,Kharif     ,Maize
+Gujarat,VADODARA,2008,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2008,Kharif     ,Moth
+Gujarat,VADODARA,2008,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2008,Kharif     ,Rice
+Gujarat,VADODARA,2008,Kharif     ,Sesamum
+Gujarat,VADODARA,2008,Kharif     ,Tobacco
+Gujarat,VADODARA,2008,Kharif     ,Urad
+Gujarat,VADODARA,2009,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2009,Kharif     ,Bajra
+Gujarat,VADODARA,2009,Kharif     ,Castor seed
+Gujarat,VADODARA,2009,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2009,Kharif     ,Groundnut
+Gujarat,VADODARA,2009,Kharif     ,Jowar
+Gujarat,VADODARA,2009,Kharif     ,Maize
+Gujarat,VADODARA,2009,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2009,Kharif     ,Moth
+Gujarat,VADODARA,2009,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2009,Kharif     ,Rice
+Gujarat,VADODARA,2009,Kharif     ,Sesamum
+Gujarat,VADODARA,2009,Kharif     ,Tobacco
+Gujarat,VADODARA,2009,Kharif     ,Urad
+Gujarat,VADODARA,2010,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2010,Kharif     ,Bajra
+Gujarat,VADODARA,2010,Kharif     ,Castor seed
+Gujarat,VADODARA,2010,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2010,Kharif     ,Groundnut
+Gujarat,VADODARA,2010,Kharif     ,Jowar
+Gujarat,VADODARA,2010,Kharif     ,Maize
+Gujarat,VADODARA,2010,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2010,Kharif     ,Moth
+Gujarat,VADODARA,2010,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2010,Kharif     ,Rice
+Gujarat,VADODARA,2010,Kharif     ,Sesamum
+Gujarat,VADODARA,2010,Kharif     ,Soyabean
+Gujarat,VADODARA,2010,Kharif     ,Tobacco
+Gujarat,VADODARA,2010,Kharif     ,Urad
+Gujarat,VADODARA,2011,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2011,Kharif     ,Bajra
+Gujarat,VADODARA,2011,Kharif     ,Castor seed
+Gujarat,VADODARA,2011,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2011,Kharif     ,Groundnut
+Gujarat,VADODARA,2011,Kharif     ,Jowar
+Gujarat,VADODARA,2011,Kharif     ,Maize
+Gujarat,VADODARA,2011,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2011,Kharif     ,Moth
+Gujarat,VADODARA,2011,Kharif     ,Other Cereals & Millets
+Gujarat,VADODARA,2011,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2011,Kharif     ,Ragi
+Gujarat,VADODARA,2011,Kharif     ,Rice
+Gujarat,VADODARA,2011,Kharif     ,Sesamum
+Gujarat,VADODARA,2011,Kharif     ,Soyabean
+Gujarat,VADODARA,2011,Kharif     ,Tobacco
+Gujarat,VADODARA,2011,Kharif     ,Urad
+Gujarat,VADODARA,2012,Kharif     ,Arhar/Tur
+Gujarat,VADODARA,2012,Kharif     ,Bajra
+Gujarat,VADODARA,2012,Kharif     ,Castor seed
+Gujarat,VADODARA,2012,Kharif     ,Cotton(lint)
+Gujarat,VADODARA,2012,Kharif     ,Groundnut
+Gujarat,VADODARA,2012,Kharif     ,Jowar
+Gujarat,VADODARA,2012,Kharif     ,Maize
+Gujarat,VADODARA,2012,Kharif     ,Moong(Green Gram)
+Gujarat,VADODARA,2012,Kharif     ,Moth
+Gujarat,VADODARA,2012,Kharif     ,Other Cereals & Millets
+Gujarat,VADODARA,2012,Kharif     ,Other Kharif pulses
+Gujarat,VADODARA,2012,Kharif     ,Ragi
+Gujarat,VADODARA,2012,Kharif     ,Rice
+Gujarat,VADODARA,2012,Kharif     ,Sesamum
+Gujarat,VADODARA,2012,Kharif     ,Soyabean
+Gujarat,VADODARA,2012,Kharif     ,Tobacco
+Gujarat,VADODARA,2012,Kharif     ,Urad
+Gujarat,VALSAD,1997,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,1997,Kharif     ,Dry chillies
+Gujarat,VALSAD,1997,Kharif     ,Groundnut
+Gujarat,VALSAD,1997,Kharif     ,Jowar
+Gujarat,VALSAD,1997,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,1997,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,1997,Kharif     ,Small millets
+Gujarat,VALSAD,1997,Kharif     ,Urad
+Gujarat,VALSAD,1998,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,1998,Kharif     ,Groundnut
+Gujarat,VALSAD,1998,Kharif     ,Jowar
+Gujarat,VALSAD,1998,Kharif     ,Maize
+Gujarat,VALSAD,1998,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,1998,Kharif     ,Other Cereals & Millets
+Gujarat,VALSAD,1998,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,1998,Kharif     ,Ragi
+Gujarat,VALSAD,1998,Kharif     ,Rice
+Gujarat,VALSAD,1998,Kharif     ,Small millets
+Gujarat,VALSAD,1998,Kharif     ,Urad
+Gujarat,VALSAD,1999,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,1999,Kharif     ,Groundnut
+Gujarat,VALSAD,1999,Kharif     ,Jowar
+Gujarat,VALSAD,1999,Kharif     ,Maize
+Gujarat,VALSAD,1999,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,1999,Kharif     ,Other Cereals & Millets
+Gujarat,VALSAD,1999,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,1999,Kharif     ,Ragi
+Gujarat,VALSAD,1999,Kharif     ,Rice
+Gujarat,VALSAD,1999,Kharif     ,Small millets
+Gujarat,VALSAD,1999,Kharif     ,Urad
+Gujarat,VALSAD,2000,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2000,Kharif     ,Groundnut
+Gujarat,VALSAD,2000,Kharif     ,Jowar
+Gujarat,VALSAD,2000,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,2000,Kharif     ,Other Cereals & Millets
+Gujarat,VALSAD,2000,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2000,Kharif     ,Ragi
+Gujarat,VALSAD,2000,Kharif     ,Rice
+Gujarat,VALSAD,2000,Kharif     ,Small millets
+Gujarat,VALSAD,2000,Kharif     ,Urad
+Gujarat,VALSAD,2001,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2001,Kharif     ,Groundnut
+Gujarat,VALSAD,2001,Kharif     ,Jowar
+Gujarat,VALSAD,2001,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,2001,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2001,Kharif     ,Ragi
+Gujarat,VALSAD,2001,Kharif     ,Rice
+Gujarat,VALSAD,2001,Kharif     ,Small millets
+Gujarat,VALSAD,2001,Kharif     ,Urad
+Gujarat,VALSAD,2002,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2002,Kharif     ,Groundnut
+Gujarat,VALSAD,2002,Kharif     ,Jowar
+Gujarat,VALSAD,2002,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,2002,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2002,Kharif     ,Ragi
+Gujarat,VALSAD,2002,Kharif     ,Rice
+Gujarat,VALSAD,2002,Kharif     ,Small millets
+Gujarat,VALSAD,2002,Kharif     ,Urad
+Gujarat,VALSAD,2003,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2003,Kharif     ,Jowar
+Gujarat,VALSAD,2003,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,2003,Kharif     ,Ragi
+Gujarat,VALSAD,2003,Kharif     ,Rice
+Gujarat,VALSAD,2003,Kharif     ,Small millets
+Gujarat,VALSAD,2003,Kharif     ,Urad
+Gujarat,VALSAD,2004,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2004,Kharif     ,Groundnut
+Gujarat,VALSAD,2004,Kharif     ,Jowar
+Gujarat,VALSAD,2004,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,2004,Kharif     ,Other Cereals & Millets
+Gujarat,VALSAD,2004,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2004,Kharif     ,Ragi
+Gujarat,VALSAD,2004,Kharif     ,Rice
+Gujarat,VALSAD,2004,Kharif     ,Small millets
+Gujarat,VALSAD,2004,Kharif     ,Urad
+Gujarat,VALSAD,2005,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2005,Kharif     ,Jowar
+Gujarat,VALSAD,2005,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,2005,Kharif     ,Other Cereals & Millets
+Gujarat,VALSAD,2005,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2005,Kharif     ,Ragi
+Gujarat,VALSAD,2005,Kharif     ,Rice
+Gujarat,VALSAD,2005,Kharif     ,Urad
+Gujarat,VALSAD,2006,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2006,Kharif     ,Groundnut
+Gujarat,VALSAD,2006,Kharif     ,Jowar
+Gujarat,VALSAD,2006,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,2006,Kharif     ,Other Cereals & Millets
+Gujarat,VALSAD,2006,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2006,Kharif     ,Ragi
+Gujarat,VALSAD,2006,Kharif     ,Rice
+Gujarat,VALSAD,2006,Kharif     ,Urad
+Gujarat,VALSAD,2007,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2007,Kharif     ,Groundnut
+Gujarat,VALSAD,2007,Kharif     ,Jowar
+Gujarat,VALSAD,2007,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,2007,Kharif     ,Moth
+Gujarat,VALSAD,2007,Kharif     ,Other Cereals & Millets
+Gujarat,VALSAD,2007,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2007,Kharif     ,Ragi
+Gujarat,VALSAD,2007,Kharif     ,Rice
+Gujarat,VALSAD,2007,Kharif     ,Urad
+Gujarat,VALSAD,2008,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2008,Kharif     ,Groundnut
+Gujarat,VALSAD,2008,Kharif     ,Jowar
+Gujarat,VALSAD,2008,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,2008,Kharif     ,Other Cereals & Millets
+Gujarat,VALSAD,2008,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2008,Kharif     ,Ragi
+Gujarat,VALSAD,2008,Kharif     ,Rice
+Gujarat,VALSAD,2008,Kharif     ,Urad
+Gujarat,VALSAD,2009,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2009,Kharif     ,Groundnut
+Gujarat,VALSAD,2009,Kharif     ,Jowar
+Gujarat,VALSAD,2009,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,2009,Kharif     ,Other Cereals & Millets
+Gujarat,VALSAD,2009,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2009,Kharif     ,Ragi
+Gujarat,VALSAD,2009,Kharif     ,Rice
+Gujarat,VALSAD,2009,Kharif     ,Urad
+Gujarat,VALSAD,2010,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2010,Kharif     ,Groundnut
+Gujarat,VALSAD,2010,Kharif     ,Jowar
+Gujarat,VALSAD,2010,Kharif     ,Moong(Green Gram)
+Gujarat,VALSAD,2010,Kharif     ,Moth
+Gujarat,VALSAD,2010,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2010,Kharif     ,other oilseeds
+Gujarat,VALSAD,2010,Kharif     ,Ragi
+Gujarat,VALSAD,2010,Kharif     ,Rice
+Gujarat,VALSAD,2010,Kharif     ,Urad
+Gujarat,VALSAD,2011,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2011,Kharif     ,Groundnut
+Gujarat,VALSAD,2011,Kharif     ,Jowar
+Gujarat,VALSAD,2011,Kharif     ,Other Cereals & Millets
+Gujarat,VALSAD,2011,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2011,Kharif     ,Ragi
+Gujarat,VALSAD,2011,Kharif     ,Rice
+Gujarat,VALSAD,2011,Kharif     ,Urad
+Gujarat,VALSAD,2012,Kharif     ,Arhar/Tur
+Gujarat,VALSAD,2012,Kharif     ,Groundnut
+Gujarat,VALSAD,2012,Kharif     ,Jowar
+Gujarat,VALSAD,2012,Kharif     ,Other Cereals & Millets
+Gujarat,VALSAD,2012,Kharif     ,Other Kharif pulses
+Gujarat,VALSAD,2012,Kharif     ,Ragi
+Gujarat,VALSAD,2012,Kharif     ,Rice
+Gujarat,VALSAD,2012,Kharif     ,Urad
