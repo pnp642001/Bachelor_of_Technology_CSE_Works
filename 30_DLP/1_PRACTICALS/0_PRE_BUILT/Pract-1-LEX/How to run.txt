@@ -1,0 +1,9 @@
+Follow the below command sequence to execute the program-
+
+1. lex pract1.l  
+2. gcc lex.yy.c -o p
+3. p
+
+
+Note:"pract1.l" is a file name, 
+(-o) is letter after it you can use any name (like "p") for executable file.

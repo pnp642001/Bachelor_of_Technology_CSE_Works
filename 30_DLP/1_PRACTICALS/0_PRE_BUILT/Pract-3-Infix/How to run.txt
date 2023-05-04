@@ -1,0 +1,11 @@
+Follow the below command sequence to execute the program-
+
+1. yacc in.y  
+2. gcc in.tab.c -o p
+3. p
+
+after it give the expression like 2+3
+
+
+Note:"in.y" is a YACC file name, 
+(-o) is letter after it you can use any name (like "p") for executable file.

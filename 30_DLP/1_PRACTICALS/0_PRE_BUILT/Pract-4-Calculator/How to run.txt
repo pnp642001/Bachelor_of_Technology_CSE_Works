@@ -1,0 +1,10 @@
+Follow the below command sequence to execute the program-
+
+1. lex c1.l
+2. yacc c1.y  
+2. gcc c1.tab.c -o p
+3. p
+
+
+Note:"c1.l" is a LEX file name and "c1.y" is a YACC file name, 
+(-o) is letter after it you can use any name (like "p") for executable file.
