@@ -1,0 +1,63 @@
+body
+{
+    margin: 0;
+    padding: 0;
+
+    background-image: linear-gradient(to right,#F0D9E7,#A2DBFA);
+}
+
+button
+{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+.CalculatorGrid
+{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    min-height: 100vh;
+    grid-template-columns: repeat(4,100px);
+    grid-template-rows: minmax(110px,auto) repeat(4,100px);
+}
+
+.CalculatorGrid > button
+{
+    cursor: pointer;
+    font-size: 1rem;
+    outline: none;
+    border: 1px solid #444444;
+}
+
+.BigButton
+{
+    grid-column: span 2;
+}
+
+.Output
+{
+    
+    grid-column: 1/-1;
+    background-color: rgba(0,0,0,.80);
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 10px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.PreviousOperand
+{
+    color: beige;
+    font-size: 1.5rem;
+}
+
+.CurrentOperand
+{
+    color:white;
+    font-size: 2.5rem;
+}

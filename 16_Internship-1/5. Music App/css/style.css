@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Baloo Bhai 2', cursive;;
+}
+
+.MainSection{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.ClickSection{
+    background-color: aqua;
+    width: 100%;
+    display: flex;
+    cursor: pointer;
+}
+
+.ClickSection > div{
+    
+    height: 100px;
+    width: 100px;
+    flex: 1;
+}
+.Section-1{
+    background-color: #5E8B7E;
+   
+}
+
+.Section-2{
+    background-color: #0A81AB;
+    
+}
+
+.Section-3{
+    background-color: #3C415C;
+}
+
+.Section-4{
+    background-color: #810000;
+   
+}
+
+.Section-5{
+    background-color: #5B5B5B;
+   
+}
+
+.Section-6{
+    background-color: #2C061F;
+    
+}
+
+@keyframes jump {
+ 0%{
+     bottom: 0%;
+     left: 20%;
+ }
+
+ 50%{
+     bottom: 50%;
+     left:50%;
+
+ }
+
+ 100%{
+     bottom: 0%;
+     left: 90%;
+
+ }
+}
+
+.AnimationPane > div{
+    bottom: 0%;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    z-index: -1;
+}

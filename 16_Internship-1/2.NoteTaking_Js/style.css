@@ -1,0 +1,24 @@
+h2
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:#125d98;
+}
+
+h3
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    color: #f54748;
+}
+hr
+{
+    color:#f54748;
+    height: 2px;
+
+}
+
+.navbar
+{
+    margin-bottom: 2%;
+}

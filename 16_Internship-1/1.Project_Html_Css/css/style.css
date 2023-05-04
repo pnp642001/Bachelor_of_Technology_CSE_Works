@@ -1,0 +1,95 @@
+body {
+  color: white;
+  font-family: "Hind Siliguri", sans-serif;
+  margin: 0px;
+  padding: 0px;
+  background: url("../img/bg1.jpg"); /* INSERTING BACKGROUND IMAGE */
+}
+
+h2
+{
+  text-align: center;
+}
+
+.left {
+  position: absolute;
+  display: inline-block;
+  left: 10px;
+  top: 20px;
+  text-align: center;
+}
+
+.left img {
+  width: 50px;
+}
+
+.center {
+  display: block;
+  margin: 20px auto;
+  width: 40%;
+}
+
+.navbar li {
+  display: inline-block;
+  font-size: 25px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 20px 10px;
+}
+
+.navbar a:hover {
+  color: #ffeda3;
+}
+
+.right {
+  position: absolute;
+  right: 10px;
+  display: inline-block;
+  top: 20px;
+}
+
+.button {
+  font-family: "Hind Siliguri", sans-serif;
+  background-color: #ecdbba;
+  color: #5e454b;
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #03256c;
+  color: white;
+}
+
+.mid-container {
+  border: 2px solid white;
+  width: 40%;
+  border-radius: 15px;
+  margin: 30px;
+  padding: 10px;
+  position: absolute;
+  right: 1px;
+  padding: 10px;
+}
+
+.become-member
+{
+  text-align: center;
+}
+.become-member input
+{
+  font-size: small;
+  font-family: 'Times New Roman', Times, serif;
+  display: block;
+  padding: 2px;
+  width:50%;
+  padding: 10px;
+  margin: 2px auto;
+  border-radius: 10px;
+}
