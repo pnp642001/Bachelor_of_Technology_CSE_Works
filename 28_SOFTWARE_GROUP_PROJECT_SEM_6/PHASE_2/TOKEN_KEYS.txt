@@ -1,9 +1,0 @@
-consumer key: kb88ZdThIsleJPVEYLM7e2YCF
-
-consumer secret : Svjwd43ydygG7T0viPO7lmxH3eFuKK5Jb11wXp5zzoGLzrkVv2
-
-bearer token : AAAAAAAAAAAAAAAAAAAAAEdXbQEAAAAAoKrNhS95%2F%2F8Ay8wG2QN%2FxpliRcM%3DjbEzCRZwSG3y5bdTFySgf0YwZFomQ0NN7C8e24bbQq5R8eIych
-
-Access Token : 4613591292-7UOlUCgfaDNjrOVRYvFW1OQRlQQNATjpXzzEC9x
-
-Access secret : yrHBxhkbsaC8YznKnQJ9nJt4JxzsF0OrhlypxqqZhBvjO
