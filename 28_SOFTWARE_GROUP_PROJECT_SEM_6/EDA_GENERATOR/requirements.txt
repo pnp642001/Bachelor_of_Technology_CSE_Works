@@ -1,0 +1,14 @@
+streamlit
+pandas
+base58
+numpy
+pillow
+plotly
+scikit-learn
+lazypredict
+seaborn
+matplotlib
+xgboost
+lightgbm
+pytest
+tqdm
