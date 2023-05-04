@@ -1,0 +1,9 @@
+tRules for solving Cryptarithmetic Problems
+1. Each alphabet takes only one number from 0 to 9.
+2. Carry over can be Max 1 when we will add 2 numbers.
+Max 2 when we will add 3 numbers.
+3. Sum of 2 Same Numbers must be an even number and these two numbers must be at unit place.
+4. If two numbers A and B, the sum of A and B is A then 
+The value of B must be 0 if A and B are in Unit digits.
+The value of B may be 0 or 9 if A and B are other than unit digits.
+5.Addition of 2 numbers with n digits, if the result is n+1 digits then the left most digit must be 1.
