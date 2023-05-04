@@ -1,0 +1,9 @@
+#DISCLAIMER
+
+Dear user,
+
+We would like to inform you that for privacy and safety reasons, the venv folder has been safely removed from the downloaded folder. 
+As a result, to run the code, you will need to set up a virtual environment in your local system.
+
+Setting up a virtual environment is a good practice as it helps in isolating your project dependencies from other system-wide packages and ensures 
+consistency across different systems. You can easily set up a virtual environment by following a few simple steps.
